@@ -6,6 +6,12 @@ client = discord.Client()
 
 conn = pyodbc.connect(r'Driver={Microsoft Access Driver (*.mdb, *.accdb)};DBQ=C:\xls\CFD.accdb;')
 
+update_info = open(r"C:\xls\update_info.txt")
+info_line = []
+for line in update_info:
+	info_line.append(line)
+
+
 #send message that bot is logged in
 @client.event
 async def on_ready():
@@ -304,6 +310,17 @@ async def on_message(message):
 		await message.channel.send(embed=embed)
 		conn.commit()
 
+	#get current bot version as well as list recent updates
+	if message.content == ('$awaken_info'):
+		embed = discord.Embed(title="Awakening Bot Mi-Go Information", description="", color=0x00ff00)
+		embed.add_field(name="Current Bot Version", value=info_line[0],inline=False)
+		embed.add_field(name="Bot Last Updated", value=info_line[1],inline=False)
+		embed.add_field(name="Latest Global version info added", value=info_line[2],inline=False)
+		embed.add_field(name="Latest Japanese version info added", value=info_line[3],inline=False)
+		embed.add_field(name="Latest Taiwanese version info added", value=info_line[4],inline=False)
+		embed.add_field(name="Database Last Updated", value=info_line[5],inline=False)
+		await message.channel.send(embed=embed)
+
 
 	if message.content == ('$waifu'):
 		embed = discord.Embed(title="   ", description="  ", color=0x00ff00)
@@ -324,6 +341,7 @@ async def on_message(message):
 		embed.add_field(name="$awaken_mat <unit name>", value = "Lists information about the given material/unit.", inline=False)
 		embed.add_field(name="$awaken_mat_used <unit name>", value = "Lists all units that the specific form of the unit given is used for.", inline=False)
 		embed.add_field(name="$awaken_search <unit name>", value = "Lists all valid inputs with the given string.", inline=False)
+		embed.add_field(name="$awaken_info", value="Lists information about the bot and database and when it was last updated.",inline=False)
 		embed.add_field(name="$waifu or $thicc", value = "Shows a picture of best waifu.", inline=False)
 		embed.add_field(name ="credits", value = "Bot and spreadsheet created by Deeakron M#6310; some assistance was given by Laice#0002", inline=False)
 		await message.channel.send(embed=embed)
