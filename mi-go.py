@@ -1,5 +1,6 @@
 import discord
 import pyodbc
+import os
 
 #set up
 client = discord.Client()
@@ -343,10 +344,10 @@ async def on_message(message):
 		embed.add_field(name="$awaken_search <unit name>", value = "Lists all valid inputs with the given string.", inline=False)
 		embed.add_field(name="$awaken_info", value="Lists information about the bot and database and when it was last updated.",inline=False)
 		embed.add_field(name="$waifu or $thicc", value = "Shows a picture of best waifu.", inline=False)
-		embed.add_field(name ="credits", value = "Bot and spreadsheet created by Deeakron M#6310; some assistance was given by Laice#0002", inline=False)
+		embed.add_field(name ="credits", value = "Bot and spreadsheet created by Deeakron M#6310; some assistance was given by Laice#0002. Server setup was mostly done by Deeakron M's other brother (not Deeakron L)", inline=False)
 		await message.channel.send(embed=embed)
 
 	if message.content == "$stop" and message.author.id == 318154934132670464:
 		await message.channel.send("Shutting down...")
 		await client.logout()
-client.run('NjgxNTgxNTA4ODQ2NDIwMDQw.XlQtOg.q0stXm467PPGi4Kp-eksULl0hj4')
+client.run(os.environ.get('CBOT_TOKEN'))
