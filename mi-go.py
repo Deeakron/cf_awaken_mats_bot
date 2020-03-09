@@ -17,6 +17,8 @@ for line in update_info:
 @client.event
 async def on_ready():
 	print('We have logged in as {0.user}'.format(client))
+	game=discord.Game(name='$awaken_help for commands')
+	await client.change_presence(activity=game)
 
 @client.event
 async def on_message(message):
