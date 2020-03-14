@@ -129,7 +129,7 @@ async def on_message(message):
 		#if the names for the unit that is being awakened to weren't obtained (because no results were found), return an error message
 		if not awake_short:
 			#create embed for warning
-			embed = discord.Embed(title="Awakening Mats for " + input1, description="No information found. Use $awaken_search to find a valid input, or message Deeakron M#6310 if you think there has been an error.", color=0x00ff00)
+			embed = discord.Embed(title="Awakening Mats for " + input1, description="No information found. Make sure you include the rarity! Use $awaken_search to find a valid input, or message Deeakron M#6310 if you think there has been an error.", color=0x00ff00)
 			#send embed to channel
 			await message.channel.send(embed=embed)
 		#finish connection
@@ -223,7 +223,7 @@ async def on_message(message):
 			await message.channel.send(embed=embed)
 			#await message.channel.send(row[14])
 		if not base_short:
-			embed = discord.Embed(title="Awakening Mats for " + input1, description="No information found. Use $awaken_search to find a valid input, or message Deeakron M#6310 if you think there has been an error.", color=0x00ff00)
+			embed = discord.Embed(title="Awakening Mats for " + input1, description="No information found. Make sure you include the rarity! Use $awaken_search to find a valid input, or message Deeakron M#6310 if you think there has been an error.", color=0x00ff00)
 			await message.channel.send(embed=embed)
 		conn.commit()
 		cursor.close()
