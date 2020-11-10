@@ -301,7 +301,7 @@ async def on_message(message):
 				temp_input = row[0]
 				temp_cursor = conn.execute(temp_query,temp_input)
 				for subrow in temp_cursor:
-					unit_statement = subrow[1] + " needs " + unit_count + "x"
+					unit_statement = subrow[1] + " - needs " + unit_count + "x to awaken"
 					embed.add_field(value=unit_statement,name=subrow[2],inline=False)
 				i += 1
 				temp_cursor.close()
