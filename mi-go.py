@@ -289,10 +289,10 @@ async def on_message(message):
 			#this section is added, remove if not working
 			j = 2
 			unit_count = 0
-			while j < 12:
-				if row[j] == row[12]:
-					unit_count += row[j + 1]
-				j += 2
+			#while j < 12:
+			#	if row[j] == row[12]:
+			#		unit_count += row[j + 1]
+			#	j += 2
 			#end section
 			
 			#for new_row in cursor:
