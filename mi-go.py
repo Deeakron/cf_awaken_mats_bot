@@ -302,7 +302,7 @@ async def on_message(message):
 				temp_cursor = conn.execute(temp_query,temp_input)
 				for subrow in temp_cursor:
 					#unit_statement = subrow[1] + " - needs " + unit_count + "x to awaken"
-					embed.add_field(value=subrow[1],name=subrow[2],inline=False)
+					embed.add_field(value=subrow[1] + " - needs " + unit_count + "x to awaken",name=subrow[2],inline=False)
 				i += 1
 				temp_cursor.close()
 		if i >= 20:
