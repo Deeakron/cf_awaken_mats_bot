@@ -288,7 +288,7 @@ async def on_message(message):
 			unit_full = row[14]
 			#this section is added, remove if not working
 			j = 2
-			unit_count = 0;
+			unit_count = 0
 			while j < 12:
 				if row[j] == row[12]:
 					unit_count += row[j + 1]
