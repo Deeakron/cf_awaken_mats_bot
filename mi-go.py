@@ -289,10 +289,10 @@ async def on_message(message):
 			#this section is added, remove if not working
 			j = 2
 			unit_count = 0
-			#while j < 12:
-			#	if row[j] == row[12]:
-			#		unit_count += row[j + 1]
-			#	j += 2
+			while j < 12:
+				if row[j] == row[12]:
+					unit_count += row[j + 1]
+				j += 2
 			#end section
 			
 			#for new_row in cursor:
@@ -301,8 +301,8 @@ async def on_message(message):
 				temp_input = row[0]
 				temp_cursor = conn.execute(temp_query,temp_input)
 				for subrow in temp_cursor:
-					unit_statement = subrow[1] + " - needs " + unit_count + "x to awaken"
-					embed.add_field(value=unit_statement,name=subrow[2],inline=False)
+					#unit_statement = subrow[1] + " - needs " + unit_count + "x to awaken"
+					embed.add_field(value=subrow[1],name=subrow[2],inline=False)
 				i += 1
 				temp_cursor.close()
 		if i >= 20:
