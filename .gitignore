@@ -5,8 +5,8 @@ __pycache__/
 
 # misc files
 xml/
-CFD.accdb
-Crash_Fever_free_unit_awakenings.xlsx
+*.accdb
+*.xlsx
 
 # C extensions
 *.so
