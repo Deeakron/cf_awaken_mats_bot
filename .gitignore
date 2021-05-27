@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# misc files
+xml/
+CFD.accdb
+Crash_Fever_free_unit_awakenings.xlsx
+
 # C extensions
 *.so
 

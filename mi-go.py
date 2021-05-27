@@ -1,11 +1,18 @@
 import discord
-import pyodbc
+#import pyodbc
 import os
+import xml.etree.ElementTree as ET
 
 #set up
 client = discord.Client()
 
-conn = pyodbc.connect(r'Driver={Microsoft Access Driver (*.mdb, *.accdb)};DBQ=C:\xls\CFD.accdb;')
+#conn = pyodbc.connect(r'Driver={Microsoft Access Driver (*.mdb, *.accdb)};DBQ=C:\xls\CFD.accdb;')
+
+units_tree = ET.parse('units.xml')
+awakenings_tree = ET.parse('awakenings.xml')
+units_root = units_tree.getroot()
+awakenings_root = awakenings_tree.getroot()
+
 
 update_info = open(r"C:\xls\update_info.txt")
 info_line = []
@@ -26,301 +33,369 @@ async def on_message(message):
 	if message.author == client.user:
 		return
 
+	#testing concepts
+	#if message.content.startswith('$awaken_test '):
+	#	input1 = message.content[13:]
+	#	for elem in units_root:
+	#		if elem[5].text.lower() == input1.lower():
+	#			print(elem[2].text)
+
+
 	#lists awakening mats to awaken the given unit
 	if message.content.startswith('$awaken_from '):
-		#send query to database
-		query = "{CALL AwakenFrom(?)}"
+		#get input from message
 		input1 = message.content[13:]
-		cursor = conn.execute(query,input1)
-		#initialize variables
+
+		#initialize some variables
+		unit_target = ""
+
+		target_short = ""
+		target_full = ""
+
+		#find the unit in question
+		for elem in units_root:
+			if elem[5].text.lower() == input1.lower():
+				unit_target = elem[0].text
+				target_short = elem[1].text
+				target_full = elem[2].text
+				break
+
+		#initialize more variables
+		unit_target2 = ""
 		awake_short = ""
 		awake_full = ""
-		#gather information about each awakening
-		for row in cursor:
-			#get names for unit that is being awakened to
-			query2 = "{CALL Title(?)}"
-			input2 = ""
-			input2 = row[1]
-			cursor2 = conn.execute(query2,input2)
-			#set names for unit that is being awakened to
-			for subrow in cursor2:
-				awake_short = subrow[1]
-				awake_full = subrow[2]
-			cursor2.close()
-			#create embed with title stating beginning form and ending form, with full titles listed as well
-			embed = discord.Embed(title=row[13] + "   ->   " + awake_short, description=row[14] + "   ->   " + awake_full, color=0x00ff00)
-			#if first mat exists, add it's information
-			if row[2] != "n/a":
-				#get mat names
-				temp_query = "{CALL Title(?)}"
-				temp_input = row[2]
-				temp_cursor = conn.execute(temp_query,temp_input)
-				temp_short = ""
-				temp_full = ""
-				#set mat names
-				for subrow in temp_cursor:
-					temp_short = subrow[1]
-					temp_full = subrow[2]
-				temp_cursor.close()
-				#add mat info to embed
-				embed.add_field(value="x" + str(int(row[3])) + " " + temp_short, name=temp_full,inline=False)
-			#if second mat exists, add it's information
-			if row[4] != "n/a":
-				#get mat names
-				temp_query = "{CALL Title(?)}"
-				temp_input = row[4]
-				temp_cursor = conn.execute(temp_query,temp_input)
-				temp_short = ""
-				temp_full = ""
-				#set mat names
-				for subrow in temp_cursor:
-					temp_short = subrow[1]
-					temp_full = subrow[2]
-				temp_cursor.close()
-				#add mat info to embed
-				embed.add_field(value="x" + str(int(row[5])) + " " + temp_short, name=temp_full,inline=False)
-			#if third mat exists, add it's information
-			if row[6] != "n/a":
-				#get mat names
-				temp_query = "{CALL Title(?)}"
-				temp_input = row[6]
-				temp_cursor = conn.execute(temp_query,temp_input)
-				temp_short = ""
-				temp_full = ""
-				#set mat names
-				for subrow in temp_cursor:
-					temp_short = subrow[1]
-					temp_full = subrow[2]
-				temp_cursor.close()
-				#add mat info to embed
-				embed.add_field(value="x" + str(int(row[7])) + " " + temp_short, name=temp_full,inline=False)
-			#if fourth mat exists, add it's information
-			if row[8] != "n/a":
-				#get mat names
-				temp_query = "{CALL Title(?)}"
-				temp_input = row[8]
-				temp_cursor = conn.execute(temp_query,temp_input)
-				temp_short = ""
-				temp_full = ""
-				#set mat names
-				for subrow in temp_cursor:
-					temp_short = subrow[1]
-					temp_full = subrow[2]
-				temp_cursor.close()
-				#add mat info to embed
-				embed.add_field(value="x" + str(int(row[9])) + " " + temp_short, name=temp_full,inline=False)
-			#if fifth mat exists, add it's information
-			if row[10] != "n/a":
-				#get mat names
-				temp_query = "{CALL Title(?)}"
-				temp_input = row[10]
-				temp_cursor = conn.execute(temp_query,temp_input)
-				temp_short = ""
-				temp_full = ""
-				#set mat names
-				for subrow in temp_cursor:
-					temp_short = subrow[1]
-					temp_full = subrow[2]
-				temp_cursor.close()
-				#add mat info to embed
-				embed.add_field(value="x" + str(int(row[11])) + " " + temp_short, name=temp_full,inline=False)
-			#send embed to channel
-			await message.channel.send(embed=embed)
-		#if the names for the unit that is being awakened to weren't obtained (because no results were found), return an error message
+
+		#find all units that target unit awakens to
+		for elem in awakenings_root:
+			if elem[0].text == unit_target:
+				unit_target2 = elem[1].text
+				for elem2 in units_root:
+					if elem2[0].text == unit_target2:
+						awake_short = elem2[1].text
+						awake_full = elem2[2].text
+						break
+				embed = discord.Embed(title=target_short + "   ->   " + awake_short, description=target_full + "   ->   " + awake_full, color=0x00ff00)
+				#if first mat exists, get its info
+				if elem[2].text != "n/a":
+					#get mat names
+					temp_input = elem[2].text
+
+					temp_short = ""
+					temp_full = ""
+					#set mat names
+					for elem2 in units_root:
+						if elem2[0].text == temp_input:
+							temp_short = elem2[1].text
+							temp_full = elem2[2].text
+							break
+					#add mat info to embed
+					embed.add_field(value="x" + str(int(elem[3].text)) + " " + temp_short, name=temp_full,inline=False)
+				#if second mat exists, get its info
+				if elem[4].text != "n/a":
+					#get mat names
+					temp_input = elem[4].text
+
+					temp_short = ""
+					temp_full = ""
+					#set mat names
+					for elem2 in units_root:
+						if elem2[0].text == temp_input:
+							temp_short = elem2[1].text
+							temp_full = elem2[2].text
+							break
+					#add mat info to embed
+					embed.add_field(value="x" + str(int(elem[5].text)) + " " + temp_short, name=temp_full,inline=False)
+				#if third mat exists, get its info
+				if elem[6].text != "n/a":
+					#get mat names
+					temp_input = elem[6].text
+
+					temp_short = ""
+					temp_full = ""
+					#set mat names
+					for elem2 in units_root:
+						if elem2[0].text == temp_input:
+							temp_short = elem2[1].text
+							temp_full = elem2[2].text
+							break
+					#add mat info to embed
+					embed.add_field(value="x" + str(int(elem[7].text)) + " " + temp_short, name=temp_full,inline=False)
+				#if fourth mat exists, get its info
+				if elem[8].text != "n/a":
+					#get mat names
+					temp_input = elem[8].text
+
+					temp_short = ""
+					temp_full = ""
+					#set mat names
+					for elem2 in units_root:
+						if elem2[0].text == temp_input:
+							temp_short = elem2[1].text
+							temp_full = elem2[2].text
+							break
+					#add mat info to embed
+					embed.add_field(value="x" + str(int(elem[9].text)) + " " + temp_short, name=temp_full,inline=False)
+				#if fifth mat exists, get its info
+				if elem[10].text != "n/a":
+					#get mat names
+					temp_input = elem[10].text
+
+					temp_short = ""
+					temp_full = ""
+					#set mat names
+					for elem2 in units_root:
+						if elem2[0].text == temp_input:
+							temp_short = elem2[1].text
+							temp_full = elem2[2].text
+							break
+					#add mat info to embed
+					embed.add_field(value="x" + str(int(elem[11].text)) + " " + temp_short, name=temp_full,inline=False)
+
+				await message.channel.send(embed=embed)
+		#error case if the unit in question doesn't exist:
 		if not awake_short:
 			#create embed for warning
 			embed = discord.Embed(title="Awakening Mats for " + input1, description="No information found. Make sure you include the rarity! Use $awaken_search to find a valid input, or message Deeakron M#6310 if you think there has been an error.", color=0x00ff00)
 			#send embed to channel
 			await message.channel.send(embed=embed)
-		#finish connection
-		conn.commit()
-		cursor.close()
+
 
 	#same as above, except user enters unit being awakened to rather than from
 	if message.content.startswith('$awaken_to '):
-		#send query to database
-		query = "{CALL AwakenTo(?)}"
+		#get input from message
 		input1 = message.content[11:]
-		cursor = conn.execute(query,input1)
-		#initialize variables
+
+		#initialize some variables
+		unit_target = ""
+
+		target_short = ""
+		target_full = ""
+
+		#find the unit in question
+		for elem in units_root:
+			if elem[5].text.lower() == input1.lower():
+				unit_target = elem[0].text
+				target_short = elem[1].text
+				target_full = elem[2].text
+				break
+
+		#initialize more variables
+		unit_target2 = ""
 		base_short = ""
 		base_full = ""
-		#gather information about each awakening
-		for row in cursor:
-			#get names for unit that is being awakened from
-			query2 = "{CALL Title(?)}"
-			input2 = row[0]
-			cursor2 = conn.execute(query2,input2)
-			#set names for unit that is being awakened from
-			for subrow in cursor2:
-				base_short = subrow[1]
-				base_full = subrow[2]
-			cursor2.close()
-			#create embed with title listing beginning and ending unit, with full names included
-			embed = discord.Embed(title=base_short + "   ->   " + row[13], description=base_full + "   ->   " + row[14], color=0x00ff00)
-			#if first mat exists, get its info
-			if row[2] != "n/a":
-				#get mat names
-				temp_query = "{CALL Title(?)}"
-				temp_input = row[2]
-				temp_cursor = conn.execute(temp_query,temp_input)
-				temp_short = ""
-				temp_full = ""
-				#set mat names
-				for subrow in temp_cursor:
-					temp_short = subrow[1]
-					temp_full = subrow[2]
-				temp_cursor.close()
-				#add mat info to embed
-				embed.add_field(value="x" + str(int(row[3])) + " " + temp_short, name=temp_full,inline=False)
-			#if second mat exists, get its info
-			if row[4] != "n/a":
-				#get mat names
-				temp_query = "{CALL Title(?)}"
-				temp_input = row[4]
-				temp_cursor = conn.execute(temp_query,temp_input)
-				temp_short = ""
-				temp_full = ""
-				#set mat names
-				for subrow in temp_cursor:
-					temp_short = subrow[1]
-					temp_full = subrow[2]
-				temp_cursor.close()
-				embed.add_field(value="x" + str(int(row[5])) + " " + temp_short, name=temp_full,inline=False)
-			if row[6] != "n/a":
-				temp_query = "{CALL Title(?)}"
-				temp_input = row[6]
-				temp_cursor = conn.execute(temp_query,temp_input)
-				temp_short = ""
-				temp_full = ""
-				for subrow in temp_cursor:
-					temp_short = subrow[1]
-					temp_full = subrow[2]
-				temp_cursor.close()
-				embed.add_field(value="x" + str(int(row[7])) + " " + temp_short, name=temp_full,inline=False)
-			if row[8] != "n/a":
-				temp_query = "{CALL Title(?)}"
-				temp_input = row[8]
-				temp_cursor = conn.execute(temp_query,temp_input)
-				temp_short = ""
-				temp_full = ""
-				for subrow in temp_cursor:
-					temp_short = subrow[1]
-					temp_full = subrow[2]
-				temp_cursor.close()
-				embed.add_field(value="x" + str(int(row[9])) + " " + temp_short, name=temp_full,inline=False)
-			if row[10] != "n/a":
-				temp_query = "{CALL Title(?)}"
-				temp_input = row[10]
-				temp_cursor = conn.execute(temp_query,temp_input)
-				temp_short = ""
-				temp_full = ""
-				for subrow in temp_cursor:
-					temp_short = subrow[1]
-					temp_full = subrow[2]
-				temp_cursor.close()
-				embed.add_field(value="x" + str(int(row[11])) + " " + temp_short, name=temp_full,inline=False)
-			await message.channel.send(embed=embed)
-			#await message.channel.send(row[14])
+
+		#find all units that target unit awakens to
+		for elem in awakenings_root:
+			if elem[1].text == unit_target:
+				unit_target2 = elem[0].text
+				for elem2 in units_root:
+					if elem2[0].text == unit_target2:
+						base_short = elem2[1].text
+						base_full = elem2[2].text
+						break
+				embed = discord.Embed(title=base_short + "   ->   " + target_short, description=base_full + "   ->   " + target_full, color=0x00ff00)
+				#if first mat exists, get its info
+				if elem[2].text != "n/a":
+					#get mat names
+					temp_input = elem[2].text
+
+					temp_short = ""
+					temp_full = ""
+					#set mat names
+					for elem2 in units_root:
+						if elem2[0].text == temp_input:
+							temp_short = elem2[1].text
+							temp_full = elem2[2].text
+							break
+					#add mat info to embed
+					embed.add_field(value="x" + str(int(elem[3].text)) + " " + temp_short, name=temp_full,inline=False)
+				#if second mat exists, get its info
+				if elem[4].text != "n/a":
+					#get mat names
+					temp_input = elem[4].text
+
+					temp_short = ""
+					temp_full = ""
+					#set mat names
+					for elem2 in units_root:
+						if elem2[0].text == temp_input:
+							temp_short = elem2[1].text
+							temp_full = elem2[2].text
+							break
+					#add mat info to embed
+					embed.add_field(value="x" + str(int(elem[5].text)) + " " + temp_short, name=temp_full,inline=False)
+				#if third mat exists, get its info
+				if elem[6].text != "n/a":
+					#get mat names
+					temp_input = elem[6].text
+
+					temp_short = ""
+					temp_full = ""
+					#set mat names
+					for elem2 in units_root:
+						if elem2[0].text == temp_input:
+							temp_short = elem2[1].text
+							temp_full = elem2[2].text
+							break
+					#add mat info to embed
+					embed.add_field(value="x" + str(int(elem[7].text)) + " " + temp_short, name=temp_full,inline=False)
+				#if fourth mat exists, get its info
+				if elem[8].text != "n/a":
+					#get mat names
+					temp_input = elem[8].text
+
+					temp_short = ""
+					temp_full = ""
+					#set mat names
+					for elem2 in units_root:
+						if elem2[0].text == temp_input:
+							temp_short = elem2[1].text
+							temp_full = elem2[2].text
+							break
+					#add mat info to embed
+					embed.add_field(value="x" + str(int(elem[9].text)) + " " + temp_short, name=temp_full,inline=False)
+				#if fifth mat exists, get its info
+				if elem[10].text != "n/a":
+					#get mat names
+					temp_input = elem[10].text
+
+					temp_short = ""
+					temp_full = ""
+					#set mat names
+					for elem2 in units_root:
+						if elem2[0].text == temp_input:
+							temp_short = elem2[1].text
+							temp_full = elem2[2].text
+							break
+					#add mat info to embed
+					embed.add_field(value="x" + str(int(elem[11].text)) + " " + temp_short, name=temp_full,inline=False)
+
+				await message.channel.send(embed=embed)
+		#error case if the unit in question doesn't exist:
 		if not base_short:
+			#create embed for warning
 			embed = discord.Embed(title="Awakening Mats for " + input1, description="No information found. Make sure you include the rarity! Use $awaken_search to find a valid input, or message Deeakron M#6310 if you think there has been an error.", color=0x00ff00)
+			#send embed to channel
 			await message.channel.send(embed=embed)
-		conn.commit()
-		cursor.close()
 
 	if message.content.startswith('$awaken_search '):
-		query = "{CALL AwakenSearch(?)}"
+		#get input from message
 		input1 = message.content[15:]
+
 		embed = discord.Embed(title="Inputs that contain '" + input1 + "':", description="", color=0x00ff00)
-		cursor = conn.execute(query,input1)
+
 		valid_check = ""
 		i = 0
-		for row in cursor:
+
+		#find the unit in question
+		for elem in units_root:
 			if i < 20:
-				embed.add_field(value=row[5],name=row[2],inline=False)
-				valid_check = row[5]
-				i += 1
-		if i >= 20:
-			embed.add_field(value="Search limit exceeded.",name="End of Results",inline=False)
-		cursor.close()
+				if input1.lower() in elem[5].text.lower():
+					embed.add_field(value=elem[5].text,name=elem[2].text,inline=False)
+					valid_check = elem[5].text
+					i += 1
+			else:
+				embed.add_field(value="Search limit exceeded.",name="End of Results",inline=False)
+				break
+
 		if valid_check:
 			await message.channel.send(embed=embed)
 		else:
 			embed.add_field(value="No inputs found. Please double check you spelled it right, or contact Deeakron M#6310 if you think there is an error.", name="No results found.",inline=False)
 			await message.channel.send(embed=embed)
-		conn.commit()
 
 	if message.content.startswith('$awaken_mat '):
-		query = "{CALL MatsInfo(?)}"
+		#get input from message
 		input1 = message.content[12:]
-		cursor = conn.execute(query,input1)
-		unit_short = ""
-		unit_full = ""
-		unit_origin = ""
-		unit_cost = ""
-		for row in cursor:
-			unit_short = row[1]
-			unit_full = row[2]
-			unit_origin = row[3]
-			unit_cost = int(row[4])
-		if unit_short:
-			embed = discord.Embed(title="Information for " + unit_short, description = "", color=0x00ff00)
-			embed.add_field(value=unit_full,name="Unit Full Title:",inline=False)
-			embed.add_field(value=unit_origin,name="Unit's Base form obtained from:",inline=False)
-			embed.add_field(value=unit_cost,name="Unit Cost:",inline=False)
+
+		#initialize some variables
+		unit_target = ""
+
+		target_short = ""
+		target_full = ""
+		target_origin = ""
+		target_cost = ""
+
+		#find the unit in question
+		for elem in units_root:
+			if elem[5].text.lower() == input1.lower():
+				target_short = elem[1].text
+				target_full = elem[2].text
+				target_origin = elem[3].text
+				target_cost = int(elem[4].text)
+				break
+		if target_short:
+			embed = discord.Embed(title="Information for " + target_short, description = "", color=0x00ff00)
+			embed.add_field(value=target_full,name="Unit Full Title:",inline=False)
+			embed.add_field(value=target_origin,name="Unit's Base form obtained from:",inline=False)
+			embed.add_field(value=target_cost,name="Unit Cost:",inline=False)
 			await message.channel.send(embed=embed)
 		else:
 			embed = discord.Embed(title="Information for " + input1, description = "No information found.", color = 0x00ff00)
 			await message.channel.send(embed=embed)
-		cursor.close()
-		conn.commit()
 
 	if message.content.startswith('$awaken_mat_used '):	
-		query = "{CALL MatsUsed(?)}"
+
 		input1 = message.content[17:]
-		cursor = conn.execute(query,input1)
-		unit_short = ""
-		unit_full = ""
+		unit_target = ""
+
+		target_short = ""
+		target_full = ""
 		i = 0
+
+		#find the unit in question
+		for elem in units_root:
+			if elem[5].text.lower() == input1.lower():
+				unit_target = elem[0].text
+				target_short = elem[1].text
+				target_full = elem[2].text
+				break
+
 		embed = discord.Embed(title=input1 + " is used to awaken:",description=" ",color=0x00ff00)
-		for row in cursor:
-			unit_short = row[13]
-			unit_full = row[14]
-			#this section is added, remove if not working
-			j = 2
-			unit_count = 0
-			while j < 12:
-				if row[j] == row[12]:
-					unit_count += row[j + 1]
-				j += 2
-			#end section
-			
-			#for new_row in cursor:
-			if i < 20:
-				temp_query = "{CALL Title(?)}"
-				temp_input = row[0]
-				temp_cursor = conn.execute(temp_query,temp_input)
-				for subrow in temp_cursor:
-					unit_statement = subrow[1] + " - needs " + str(int(unit_count)) + "x to awaken"
-					embed.add_field(value=unit_statement,name=subrow[2],inline=False)
-				i += 1
-				temp_cursor.close()
-		if i >= 20:
-				embed.add_field(value="Number of awakenings exceeded message limit.",name="End of Results ",inline=False)
-		if not unit_short:
-			unit_temp = ""
-			temp_query = "{CALL MatsInfo(?)}"
-			temp_input = input1
-			temp_cursor = conn.execute(temp_query,temp_input)
-			for subrow in temp_cursor:
-				unit_temp = subrow[0]
-			if unit_temp:
+		unit_found = False
+		for elem in awakenings_root:
+			valid_check = False
+			if elem[2].text == unit_target:
+				valid_check = True
+			elif elem[4].text == unit_target:
+				valid_check = True
+			elif elem[6].text == unit_target:
+				valid_check = True
+			elif elem[8].text == unit_target:
+				valid_check = True
+			elif elem[10].text == unit_target:
+				valid_check = True
+			if valid_check:
+				unit_found = True
+				j = 2
+				unit_count = 0
+				while j < 12:
+					if elem[j].text == unit_target:
+						unit_count += int(elem[j + 1].text)
+					j += 2
+				if i < 20:
+					temp_input = elem[0].text
+					temp_short = ""
+					temp_full = ""
+					#set mat names
+					for elem2 in units_root:
+						if elem2[0].text == temp_input:
+							temp_short = elem2[1].text
+							temp_full = elem2[2].text
+							unit_statement = elem2[1].text + " - needs " + str(int(unit_count)) + "x to awaken"
+							embed.add_field(value=unit_statement,name=elem2[2].text,inline=False)
+							break
+					i += 1
+				if i >= 20:
+					embed.add_field(value="Number of awakenings exceeded message limit.",name="End of Results ",inline=False)
+					break
+		if not unit_found:
+			if target_short:
 				embed.add_field(value="No awakenings found.",name="No Results",inline=False)
 			else:	
 				embed.add_field(value="No unit found; please make sure you gave the right input.",name="No Results ",inline=False)
-		cursor.close()
 		await message.channel.send(embed=embed)
-		conn.commit()
+
 
 	#get current bot version as well as list recent updates
 	if message.content == ('$awaken_info'):
@@ -360,5 +435,5 @@ async def on_message(message):
 
 	if message.content == "$stop" and message.author.id == 318154934132670464:
 		await message.channel.send("Shutting down...")
-		await client.logout()
+		await client.close()
 client.run(os.environ.get('CBOT_TOKEN'))
