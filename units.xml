@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-05-28T14:45:08">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-06-07T16:11:41">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -3849,6 +3849,30 @@
 <search_name>Saint Germain 6</search_name>
 </units>
 <units>
+<unit>bride_anubis-5</unit>
+<unit_shorthand>Bride Anubis 5★</unit_shorthand>
+<unit_full_title>晴装の嬌礼神 アヌビス</unit_full_title>
+<origin>Egyptian Bride Smile</origin>
+<cost>58</cost>
+<search_name>Bride Anubis 5</search_name>
+</units>
+<units>
+<unit>bride_anubis-6</unit>
+<unit_shorthand>Bride Anubis 6★</unit_shorthand>
+<unit_full_title>無垢装の喜礼神 アヌビス</unit_full_title>
+<origin>Egyptian Bride Smile</origin>
+<cost>58</cost>
+<search_name>Bride Anubis 6</search_name>
+</units>
+<units>
+<unit>bride_anubis-ua</unit>
+<unit_shorthand>Bride Anubis UA</unit_shorthand>
+<unit_full_title>想誓の喜礼神 アヌビス</unit_full_title>
+<origin>Egyptian Bride Smile</origin>
+<cost>58</cost>
+<search_name>Bride Anubis UA</search_name>
+</units>
+<units>
 <unit>fude_zhengshen_2020-5</unit>
 <unit_shorthand>Fude Zhengshen 2020 5★</unit_shorthand>
 <unit_full_title>TUDI-200526 Fude Zhengshen</unit_full_title>
@@ -4591,6 +4615,22 @@
 <origin>Casino Medal Hatcher</origin>
 <cost>58</cost>
 <search_name>Casino Antoinette 6</search_name>
+</units>
+<units>
+<unit>bride_andersen-6</unit>
+<unit_shorthand>Bride Andersen 6★</unit_shorthand>
+<unit_full_title>幸礼上の甘匙 アンデルセン</unit_full_title>
+<origin>Marine Bride System</origin>
+<cost>58</cost>
+<search_name>Bride Andersen 6</search_name>
+</units>
+<units>
+<unit>bride_andersen-ua</unit>
+<unit_shorthand>Bride Andersen UA</unit_shorthand>
+<unit_full_title>想誓の甘匙 アンデルセン</unit_full_title>
+<origin>Marine Bride System</origin>
+<cost>58</cost>
+<search_name>Bride Andersen UA</search_name>
 </units>
 <units>
 <unit>nakoto-5</unit>
@@ -6729,20 +6769,44 @@
 <search_name>Casino Mammon 6</search_name>
 </units>
 <units>
-<unit>count_melgueil-5</unit>
-<unit_shorthand>Count Melgueil 5★</unit_shorthand>
+<unit>count_melgar-5</unit>
+<unit_shorthand>Count Melgar 5★</unit_shorthand>
 <unit_full_title>カウント・メルガル</unit_full_title>
 <origin>MOUSTACHE</origin>
 <cost>53</cost>
-<search_name>Count Melgueil 5</search_name>
+<search_name>Count Melgar 5</search_name>
 </units>
 <units>
-<unit>count_melgueil-6</unit>
-<unit_shorthand>Count Melgueil 6★</unit_shorthand>
+<unit>count_melgar-6</unit>
+<unit_shorthand>Count Melgar 6★</unit_shorthand>
 <unit_full_title>帝髭の警機 カウント・メルガル</unit_full_title>
 <origin>MOUSTACHE</origin>
 <cost>53</cost>
-<search_name>Count Melgueil 6</search_name>
+<search_name>Count Melgar 6</search_name>
+</units>
+<units>
+<unit>groom_jekyll_hyde-5</unit>
+<unit_shorthand>Groom Jekyll &amp; Hyde 5★</unit_shorthand>
+<unit_full_title>迷花性双婚乱 ジキル＆ハイド</unit_full_title>
+<origin>Mischievous Groom</origin>
+<cost>53</cost>
+<search_name>Groom Jekyll &amp; Hyde 5</search_name>
+</units>
+<units>
+<unit>groom_jekyll_hyde-6</unit>
+<unit_shorthand>Groom Jekyll &amp; Hyde 6★</unit_shorthand>
+<unit_full_title>惑花性夢双婚乱 ジキル＆ハイド</unit_full_title>
+<origin>Mischievous Groom</origin>
+<cost>53</cost>
+<search_name>Groom Jekyll &amp; Hyde 6</search_name>
+</units>
+<units>
+<unit>groom_jekyll_hyde-ua</unit>
+<unit_shorthand>Groom Jekyll &amp; Hyde UA</unit_shorthand>
+<unit_full_title>想誓の夢双婚乱 ジキル＆ハイド</unit_full_title>
+<origin>Mischievous Groom</origin>
+<cost>53</cost>
+<search_name>Groom Jekyll &amp; Hyde UA</search_name>
 </units>
 <units>
 <unit>zhong_kui-5</unit>
@@ -13143,5 +13207,13 @@
 <origin>JP White Day 2021 Exchange</origin>
 <cost>99</cost>
 <search_name>AGENT Special Drink</search_name>
+</units>
+<units>
+<unit>destiny_ring</unit>
+<unit_shorthand>Destiny Ring</unit_shorthand>
+<unit_full_title>ディスティニーリング</unit_full_title>
+<origin>JP Bride Event Collect Data Exchange</origin>
+<cost>99</cost>
+<search_name>Destiny Ring</search_name>
 </units>
 </dataroot>
