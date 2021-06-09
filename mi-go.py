@@ -14,7 +14,7 @@ units_root = units_tree.getroot()
 awakenings_root = awakenings_tree.getroot()
 
 
-update_info = open(r"C:\xls\update_info.txt")
+update_info = open(r"update_info.txt")
 info_line = []
 for line in update_info:
 	info_line.append(line)
