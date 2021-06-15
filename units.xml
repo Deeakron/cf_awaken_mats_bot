@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-06-11T16:12:01">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-06-15T16:40:39">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -2129,6 +2129,22 @@
 <search_name>Bride Jeanne UA</search_name>
 </units>
 <units>
+<unit>tudor-5</unit>
+<unit_shorthand>Tudor 5★</unit_shorthand>
+<unit_full_title>テューダー</unit_full_title>
+<origin>DESTINY CHILD</origin>
+<cost>63</cost>
+<search_name>Tudor 5</search_name>
+</units>
+<units>
+<unit>tudor-6</unit>
+<unit_shorthand>Tudor 6★</unit_shorthand>
+<unit_full_title>瘴念の決烙者 テューダー</unit_full_title>
+<origin>DESTINY CHILD</origin>
+<cost>63</cost>
+<search_name>Tudor 6</search_name>
+</units>
+<units>
 <unit>hw_malthus-6</unit>
 <unit_shorthand>Halloween Malthus 6★</unit_shorthand>
 <unit_full_title>Ambitious Lycanthrope Malthus</unit_full_title>
@@ -3611,16 +3627,16 @@
 <units>
 <unit>harris-5</unit>
 <unit_shorthand>Harris 5★</unit_shorthand>
-<unit_full_title>ハリス</unit_full_title>
-<origin>BFS Foundation&apos;s Hidden King</origin>
+<unit_full_title>Harris</unit_full_title>
+<origin>BFS Foundation&apos;s Secret Weapon</origin>
 <cost>58</cost>
 <search_name>Harris 5</search_name>
 </units>
 <units>
 <unit>harris-6</unit>
 <unit_shorthand>Harris 6★</unit_shorthand>
-<unit_full_title>暗役の風雲士 ハリス</unit_full_title>
-<origin>BFS Foundation&apos;s Hidden King</origin>
+<unit_full_title>Hidden Force Harris</unit_full_title>
+<origin>BFS Foundation&apos;s Secret Weapon</origin>
 <cost>58</cost>
 <search_name>Harris 6</search_name>
 </units>
@@ -6595,16 +6611,16 @@
 <units>
 <unit>von-5</unit>
 <unit_shorthand>Von 5★</unit_shorthand>
-<unit_full_title>フォンちゃん</unit_full_title>
-<origin>Yes, ma&apos;am</origin>
+<unit_full_title>Von</unit_full_title>
+<origin>Yes, Master!</origin>
 <cost>53</cost>
 <search_name>Von 5</search_name>
 </units>
 <units>
 <unit>von-6</unit>
 <unit_shorthand>Von 6★</unit_shorthand>
-<unit_full_title>轟走の鳥躯号 フォンちゃん</unit_full_title>
-<origin>Yes, ma&apos;am</origin>
+<unit_full_title>Blast of Speed Von</unit_full_title>
+<origin>Yes, Master!</origin>
 <cost>53</cost>
 <search_name>Von 6</search_name>
 </units>
@@ -9603,16 +9619,16 @@
 <units>
 <unit>humboldt-5</unit>
 <unit_shorthand>Humboldt 5★</unit_shorthand>
-<unit_full_title>フンボルト</unit_full_title>
-<origin>Please Don&apos;t Fire Me!</origin>
+<unit_full_title>Humboldt</unit_full_title>
+<origin>Don&apos;t Deprive Me!</origin>
 <cost>48</cost>
 <search_name>Humboldt 5</search_name>
 </units>
 <units>
 <unit>humboldt-6</unit>
 <unit_shorthand>Humboldt 6★</unit_shorthand>
-<unit_full_title>領破の駆侵者 フンボルト</unit_full_title>
-<origin>Please Don&apos;t Fire Me!</origin>
+<unit_full_title>Exploring Invader Humboldt</unit_full_title>
+<origin>Don&apos;t Deprive Me!</origin>
 <cost>48</cost>
 <search_name>Humboldt 6</search_name>
 </units>
