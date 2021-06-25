@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-06-21T15:47:17">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-06-25T17:12:37">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -99,7 +99,7 @@
 <units>
 <unit>tyrfing-6</unit>
 <unit_shorthand>Tyrfing 6★</unit_shorthand>
-<unit_full_title>ティルフィング</unit_full_title>
+<unit_full_title>Tyrfing</unit_full_title>
 <origin>Ranking Point Exchange</origin>
 <cost>68</cost>
 <search_name>Tyrfing 6</search_name>
@@ -107,7 +107,7 @@
 <units>
 <unit>tyrfing-ua</unit>
 <unit_shorthand>Tyrfing UA</unit_shorthand>
-<unit_full_title>死賭の禍黒剣 ティルフィング</unit_full_title>
+<unit_full_title>Cursed Sword of Death Tyrfing</unit_full_title>
 <origin>Ranking Point Exchange</origin>
 <cost>68</cost>
 <search_name>Tyrfing UA</search_name>
@@ -115,7 +115,7 @@
 <units>
 <unit>tyrfing-wd</unit>
 <unit_shorthand>White Day Tyrfing</unit_shorthand>
-<unit_full_title>歓危の高装剣 ティルフィング</unit_full_title>
+<unit_full_title>Decadent Sword of Danger Tyrfing</unit_full_title>
 <origin>Ranking Point Exchange</origin>
 <cost>68</cost>
 <search_name>White Day Tyrfing</search_name>
@@ -1367,6 +1367,22 @@
 <origin>Virtual Hokusai Invades!</origin>
 <cost>63</cost>
 <search_name>PAF Hokusai 6</search_name>
+</units>
+<units>
+<unit>cont_arsene_lupin-5</unit>
+<unit_shorthand>Continuation Arsene Lupin 5★</unit_shorthand>
+<unit_full_title>暗都の主衛 アルセーヌ・ルパン</unit_full_title>
+<origin>Arsene Lupin Invades Again!</origin>
+<cost>63</cost>
+<search_name>Continuation Arsene Lupin 5</search_name>
+</units>
+<units>
+<unit>cont_arsene_lupin-6</unit>
+<unit_shorthand>Continuation Arsene Lupin 6★</unit_shorthand>
+<unit_full_title>密都の確心犯 アルセーヌ・ルパン</unit_full_title>
+<origin>Arsene Lupin Invades Again!</origin>
+<cost>63</cost>
+<search_name>Continuation Arsene Lupin 6</search_name>
 </units>
 <units>
 <unit>dm_hou_yi_chang_e-5</unit>
@@ -3991,6 +4007,54 @@
 <origin>HONEST WRITER</origin>
 <cost>58</cost>
 <search_name>Wells 6</search_name>
+</units>
+<units>
+<unit>cast_watt-5</unit>
+<unit_shorthand>Cast Watt 5★</unit_shorthand>
+<unit_full_title>客導の未来図 ワット</unit_full_title>
+<origin>Future Creating Future Area!</origin>
+<cost>58</cost>
+<search_name>Cast Watt 5</search_name>
+</units>
+<units>
+<unit>cast_watt-6</unit>
+<unit_shorthand>Cast Watt 6★</unit_shorthand>
+<unit_full_title>親導の未来航路 ワット</unit_full_title>
+<origin>Future Creating Future Area!</origin>
+<cost>58</cost>
+<search_name>Cast Watt 6</search_name>
+</units>
+<units>
+<unit>cast_neumann-5</unit>
+<unit_shorthand>Cast Neumann 5★</unit_shorthand>
+<unit_full_title>密林圏の襲才 ノイマン</unit_full_title>
+<origin>Beast Appearing Jungle Area!</origin>
+<cost>58</cost>
+<search_name>Cast Neumann 5</search_name>
+</units>
+<units>
+<unit>cast_neumann-6</unit>
+<unit_shorthand>Cast Neumann 6★</unit_shorthand>
+<unit_full_title>客船驚襲の獣姿 ノイマン</unit_full_title>
+<origin>Beast Appearing Jungle Area!</origin>
+<cost>58</cost>
+<search_name>Cast Neumann 6</search_name>
+</units>
+<units>
+<unit>cast_cauchy-5</unit>
+<unit_shorthand>Cast Cauchy 5★</unit_shorthand>
+<unit_full_title>探窟の頼跡 コーシー</unit_full_title>
+<origin>Treasure Seeking Treasure Area!</origin>
+<cost>58</cost>
+<search_name>Cast Cauchy 5</search_name>
+</units>
+<units>
+<unit>cast_cauchy-6</unit>
+<unit_shorthand>Cast Cauchy 6★</unit_shorthand>
+<unit_full_title>明窟する宝跡 コーシー</unit_full_title>
+<origin>Treasure Seeking Treasure Area!</origin>
+<cost>58</cost>
+<search_name>Cast Cauchy 6</search_name>
 </units>
 <units>
 <unit>fude_zhengshen_2020-5</unit>
@@ -7827,7 +7891,7 @@
 <units>
 <unit>azazel-wd</unit>
 <unit_shorthand>White Day Azazel</unit_shorthand>
-<unit_full_title>不夜城轟く魔夜王 アザゼル</unit_full_title>
+<unit_full_title>Demon King of the Night Azazel</unit_full_title>
 <origin>Azazel Invades!</origin>
 <cost>48</cost>
 <search_name>White Day Azazel</search_name>
@@ -13043,23 +13107,23 @@
 <units>
 <unit>dainsleif</unit>
 <unit_shorthand>Dainsleif</unit_shorthand>
-<unit_full_title>臨血の狂傷刃 ダインスレイフ</unit_full_title>
+<unit_full_title>Mad Blade of Blood Dainsleif</unit_full_title>
 <origin>Ranking Point Exchange</origin>
 <cost>58</cost>
 <search_name>Dainsleif</search_name>
 </units>
 <units>
 <unit>arondight</unit>
-<unit_shorthand>Arondight</unit_shorthand>
-<unit_full_title>簒命の不毀剣 アロンダイト</unit_full_title>
+<unit_shorthand>Aroundight</unit_shorthand>
+<unit_full_title>Fallen Holy Sword Aroundight</unit_full_title>
 <origin>Ranking Point Exchange</origin>
 <cost>58</cost>
-<search_name>Arondight</search_name>
+<search_name>Aroundight</search_name>
 </units>
 <units>
 <unit>fragarach</unit>
 <unit_shorthand>Fragarach</unit_shorthand>
-<unit_full_title>酷乱の応酬剣 フラガラッハ</unit_full_title>
+<unit_full_title>Answer of Retaliation Fragarach</unit_full_title>
 <origin>Ranking Point Exchange</origin>
 <cost>58</cost>
 <search_name>Fragarach</search_name>
@@ -13338,11 +13402,11 @@
 </units>
 <units>
 <unit>agent_special_drink</unit>
-<unit_shorthand>AGENT Special Drink</unit_shorthand>
-<unit_full_title>「AGENT」スペシャルドリンク</unit_full_title>
+<unit_shorthand>AGENT Special Drinks</unit_shorthand>
+<unit_full_title>Agent Special Drinks</unit_full_title>
 <origin>JP White Day 2021 Exchange</origin>
 <cost>99</cost>
-<search_name>AGENT Special Drink</search_name>
+<search_name>AGENT Special Drinks</search_name>
 </units>
 <units>
 <unit>destiny_ring</unit>
