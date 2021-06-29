@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-06-25T17:12:37">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-06-29T14:05:45">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -2089,20 +2089,20 @@
 <search_name>Beautiful Visual Bonanza 6</search_name>
 </units>
 <units>
-<unit>balaam-5</unit>
-<unit_shorthand>Balaam 5★</unit_shorthand>
-<unit_full_title>バラム</unit_full_title>
+<unit>balam-5</unit>
+<unit_shorthand>Balam 5★</unit_shorthand>
+<unit_full_title>Balam</unit_full_title>
 <origin>FIRST DEVIL</origin>
 <cost>63</cost>
-<search_name>Balaam 5</search_name>
+<search_name>Balam 5</search_name>
 </units>
 <units>
-<unit>balaam-6</unit>
-<unit_shorthand>Balaam 6★</unit_shorthand>
-<unit_full_title>鬼策の原封魔 バラム</unit_full_title>
+<unit>balam-6</unit>
+<unit_shorthand>Balam 6★</unit_shorthand>
+<unit_full_title>Cunning Sealed Devil Balam</unit_full_title>
 <origin>FIRST DEVIL</origin>
 <cost>63</cost>
-<search_name>Balaam 6</search_name>
+<search_name>Balam 6</search_name>
 </units>
 <units>
 <unit>casa-5</unit>
@@ -2175,6 +2175,22 @@
 <origin>DESTINY CHILD</origin>
 <cost>63</cost>
 <search_name>Tudor 6</search_name>
+</units>
+<units>
+<unit>cast_d_alembert-5</unit>
+<unit_shorthand>Cast d&apos;Alembert 5★</unit_shorthand>
+<unit_full_title>幻国の魔校 ダランベール</unit_full_title>
+<origin>Magic Learning Magic Area!</origin>
+<cost>63</cost>
+<search_name>Cast d&apos;Alembert 5</search_name>
+</units>
+<units>
+<unit>cast_d_alembert-6</unit>
+<unit_shorthand>Cast d&apos;Alembert 6★</unit_shorthand>
+<unit_full_title>夢幻の魔性徒 ダランベール</unit_full_title>
+<origin>Magic Learning Magic Area!</origin>
+<cost>63</cost>
+<search_name>Cast d&apos;Alembert 6</search_name>
 </units>
 <units>
 <unit>hw_malthus-6</unit>
@@ -2427,7 +2443,7 @@
 <units>
 <unit>saint-leons-5</unit>
 <unit_shorthand>Saint-Leons 5★</unit_shorthand>
-<unit_full_title>サンレオン</unit_full_title>
+<unit_full_title>Saint-Leons</unit_full_title>
 <origin>DEJA VU</origin>
 <cost>63</cost>
 <search_name>Saint-Leons 5</search_name>
@@ -2435,7 +2451,7 @@
 <units>
 <unit>saint-leons-6</unit>
 <unit_shorthand>Saint-Leons 6★</unit_shorthand>
-<unit_full_title>更節の理情詩 サンレオン</unit_full_title>
+<unit_full_title>Poetry of Insects Saint-Leons</unit_full_title>
 <origin>DEJA VU</origin>
 <cost>63</cost>
 <search_name>Saint-Leons 6</search_name>
@@ -3923,7 +3939,7 @@
 <units>
 <unit>sitri-5</unit>
 <unit_shorthand>Sitri 5★</unit_shorthand>
-<unit_full_title>シトリー</unit_full_title>
+<unit_full_title>Sitri</unit_full_title>
 <origin>EVIL HUNTER</origin>
 <cost>58</cost>
 <search_name>Sitri 5</search_name>
@@ -3931,7 +3947,7 @@
 <units>
 <unit>sitri-6</unit>
 <unit_shorthand>Sitri 6★</unit_shorthand>
-<unit_full_title>豹露の原封魔 シトリー</unit_full_title>
+<unit_full_title>Unveiling Sealed Devil Sitri</unit_full_title>
 <origin>EVIL HUNTER</origin>
 <cost>58</cost>
 <search_name>Sitri 6</search_name>
@@ -4771,7 +4787,7 @@
 <units>
 <unit>woodcraft-5</unit>
 <unit_shorthand>Woodcraft 5★</unit_shorthand>
-<unit_full_title>ウッドクラフト</unit_full_title>
+<unit_full_title>Woodcraft</unit_full_title>
 <origin>DEJA VU</origin>
 <cost>58</cost>
 <search_name>Woodcraft 5</search_name>
@@ -4779,7 +4795,7 @@
 <units>
 <unit>woodcraft-6</unit>
 <unit_shorthand>Woodcraft 6★</unit_shorthand>
-<unit_full_title>静野の獣画家 ウッドクラフト</unit_full_title>
+<unit_full_title>Natural Artist Woodcraft</unit_full_title>
 <origin>DEJA VU</origin>
 <cost>58</cost>
 <search_name>Woodcraft 6</search_name>
@@ -6923,7 +6939,7 @@
 <units>
 <unit>seere-5</unit>
 <unit_shorthand>Seere 5★</unit_shorthand>
-<unit_full_title>セーレ</unit_full_title>
+<unit_full_title>Seere</unit_full_title>
 <origin>LEAD THE FAKE</origin>
 <cost>53</cost>
 <search_name>Seere 5</search_name>
@@ -6931,7 +6947,7 @@
 <units>
 <unit>seere-6</unit>
 <unit_shorthand>Seere 6★</unit_shorthand>
-<unit_full_title>疾行の原封魔 セーレ</unit_full_title>
+<unit_full_title>Winged Sealed Devil Seere</unit_full_title>
 <origin>LEAD THE FAKE</origin>
 <cost>53</cost>
 <search_name>Seere 6</search_name>
@@ -13403,7 +13419,7 @@
 <units>
 <unit>agent_special_drink</unit>
 <unit_shorthand>AGENT Special Drinks</unit_shorthand>
-<unit_full_title>Agent Special Drinks</unit_full_title>
+<unit_full_title>AGENT Special Drinks</unit_full_title>
 <origin>JP White Day 2021 Exchange</origin>
 <cost>99</cost>
 <search_name>AGENT Special Drinks</search_name>
