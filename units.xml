@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-06-29T14:05:45">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-07-06T14:50:26">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -375,6 +375,22 @@
 <origin>Distortion Appears!</origin>
 <cost>68</cost>
 <search_name>Distortion 6</search_name>
+</units>
+<units>
+<unit>distortion-condense</unit>
+<unit_shorthand>Distortion Condensation</unit_shorthand>
+<unit_full_title>災害凝縮：ディストーション</unit_full_title>
+<origin>Distortion Appears! (Ultimate Disaster)</origin>
+<cost>68</cost>
+<search_name>Distortion Condensation</search_name>
+</units>
+<units>
+<unit>distortion-ex</unit>
+<unit_shorthand>Distortion EX</unit_shorthand>
+<unit_full_title>災害類・怪III型 ディストーション</unit_full_title>
+<origin>Distortion Appears! (Ultimate Disaster)</origin>
+<cost>68</cost>
+<search_name>Distortion EX</search_name>
 </units>
 <units>
 <unit>fraud-5</unit>
@@ -2193,6 +2209,22 @@
 <search_name>Cast d&apos;Alembert 6</search_name>
 </units>
 <units>
+<unit>clausewitz-5</unit>
+<unit_shorthand>Clausewitz 5★</unit_shorthand>
+<unit_full_title>クラウゼヴィッツ</unit_full_title>
+<origin>ON WAR</origin>
+<cost>63</cost>
+<search_name>Clausewitz 5</search_name>
+</units>
+<units>
+<unit>clausewitz-6</unit>
+<unit_shorthand>Clausewitz 6★</unit_shorthand>
+<unit_full_title>変属の煽争論 クラウゼヴィッツ</unit_full_title>
+<origin>ON WAR</origin>
+<cost>63</cost>
+<search_name>Clausewitz 6</search_name>
+</units>
+<units>
 <unit>hw_malthus-6</unit>
 <unit_shorthand>Halloween Malthus 6★</unit_shorthand>
 <unit_full_title>Ambitious Lycanthrope Malthus</unit_full_title>
@@ -2770,7 +2802,7 @@
 </units>
 <units>
 <unit>cont_shakespeare-5</unit>
-<unit_shorthand>Continatuin Shakespeare 5★</unit_shorthand>
+<unit_shorthand>Continuation Shakespeare 5★</unit_shorthand>
 <unit_full_title>欺撃の報復劇 シェイクスピア</unit_full_title>
 <origin>Shakespeare Invades Again!</origin>
 <cost>58</cost>
@@ -2799,6 +2831,22 @@
 <origin>Virtual Urashima Invades!</origin>
 <cost>58</cost>
 <search_name>PAF Urashima 6</search_name>
+</units>
+<units>
+<unit>kamehameha-5</unit>
+<unit_shorthand>Kamehameha 5★</unit_shorthand>
+<unit_full_title>カメハメハ</unit_full_title>
+<origin>Kamehameha Invades!</origin>
+<cost>58</cost>
+<search_name>Kamehameha 5</search_name>
+</units>
+<units>
+<unit>kamehameha-6</unit>
+<unit_shorthand>Kamehameha 6★</unit_shorthand>
+<unit_full_title>楽援の海浜王 カメハメハ</unit_full_title>
+<origin>Kamehameha Invades!</origin>
+<cost>58</cost>
+<search_name>Kamehameha 6</search_name>
 </units>
 <units>
 <unit>taowu-5</unit>
@@ -4071,6 +4119,22 @@
 <origin>Treasure Seeking Treasure Area!</origin>
 <cost>58</cost>
 <search_name>Cast Cauchy 6</search_name>
+</units>
+<units>
+<unit>avalon-5</unit>
+<unit_shorthand>Avalon 5★</unit_shorthand>
+<unit_full_title>アヴァロン</unit_full_title>
+<origin>LETHAL WEAPON</origin>
+<cost>58</cost>
+<search_name>Avalon 5</search_name>
+</units>
+<units>
+<unit>avalon-6</unit>
+<unit_shorthand>Avalon 6★</unit_shorthand>
+<unit_full_title>軍凌の大禁機 アヴァロン</unit_full_title>
+<origin>LETHAL WEAPON</origin>
+<cost>58</cost>
+<search_name>Avalon 6</search_name>
 </units>
 <units>
 <unit>fude_zhengshen_2020-5</unit>
@@ -7023,6 +7087,22 @@
 <origin>ARGUMENT</origin>
 <cost>53</cost>
 <search_name>Verne 6</search_name>
+</units>
+<units>
+<unit>merlin-messiah-5</unit>
+<unit_shorthand>Merlin-Messiah 5★</unit_shorthand>
+<unit_full_title>マーリン-Messiah</unit_full_title>
+<origin>ONLY MESSIAH</origin>
+<cost>53</cost>
+<search_name>Merlin-Messiah 5</search_name>
+</units>
+<units>
+<unit>merlin-messiah-6</unit>
+<unit_shorthand>Merlin-Messiah 6★</unit_shorthand>
+<unit_full_title>真頂の救世主 マーリン-Messiah</unit_full_title>
+<origin>ONLY MESSIAH</origin>
+<cost>53</cost>
+<search_name>Merlin-Messiah 6</search_name>
 </units>
 <units>
 <unit>zhong_kui-5</unit>
@@ -13431,5 +13511,13 @@
 <origin>JP Bride Event Collect Data Exchange</origin>
 <cost>99</cost>
 <search_name>Destiny Ring</search_name>
+</units>
+<units>
+<unit>red_mutation_rabbit</unit>
+<unit_shorthand>Red Mutation Rabbit</unit_shorthand>
+<unit_full_title>Fire Mutation Rabbit</unit_full_title>
+<origin>Evolution Material Quest</origin>
+<cost>99</cost>
+<search_name>Fire Mutation Rabbit</search_name>
 </units>
 </dataroot>
