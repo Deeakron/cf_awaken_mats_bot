@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-07-06T14:50:26">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-07-13T14:54:53">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -1401,6 +1401,22 @@
 <search_name>Continuation Arsene Lupin 6</search_name>
 </units>
 <units>
+<unit>paf_holmes-5</unit>
+<unit_shorthand>PAF Holmes 5★</unit_shorthand>
+<unit_full_title>大解結 ホームズ-PAF</unit_full_title>
+<origin>Virtual Holmes Invades!</origin>
+<cost>63</cost>
+<search_name>PAF Holmes 5</search_name>
+</units>
+<units>
+<unit>paf_holmes-6</unit>
+<unit_shorthand>PAF Holmes 6★</unit_shorthand>
+<unit_full_title>謎解の巧脳 ホームズ-PAF</unit_full_title>
+<origin>Virtual Holmes Invades!</origin>
+<cost>63</cost>
+<search_name>PAF Holmes 6</search_name>
+</units>
+<units>
 <unit>dm_hou_yi_chang_e-5</unit>
 <unit_shorthand>Dark Moon Hou Yi &amp; Chang&apos;e 5★</unit_shorthand>
 <unit_full_title>Proof of Hero</unit_full_title>
@@ -2123,16 +2139,16 @@
 <units>
 <unit>casa-5</unit>
 <unit_shorthand>Casa 5★</unit_shorthand>
-<unit_full_title>カーサ</unit_full_title>
-<origin>Please, Have a Good Time♪</origin>
+<unit_full_title>Casa</unit_full_title>
+<origin>Please, Enjoy Your Time♪</origin>
 <cost>63</cost>
 <search_name>Casa 5</search_name>
 </units>
 <units>
 <unit>casa-6</unit>
 <unit_shorthand>Casa 6★</unit_shorthand>
-<unit_full_title>遊城の司配人 カーサ</unit_full_title>
-<origin>Please, Have a Good Time♪</origin>
+<unit_full_title>Master of Fun Casa</unit_full_title>
+<origin>Please, Enjoy Your Time♪</origin>
 <cost>63</cost>
 <search_name>Casa 6</search_name>
 </units>
@@ -4003,16 +4019,16 @@
 <units>
 <unit>casino_gilgamesh-5</unit>
 <unit_shorthand>Casino Gilgamesh 5★</unit_shorthand>
-<unit_full_title>猛潤の凶豪子 ギルガメッシュ</unit_full_title>
-<origin>Ruler of the Table</origin>
+<unit_full_title>Overflowing Chance Gilgamesh</unit_full_title>
+<origin>Master of the Table</origin>
 <cost>58</cost>
 <search_name>Casino Gilgamesh 5</search_name>
 </units>
 <units>
 <unit>casino_gilgamesh-6</unit>
 <unit_shorthand>Casino Gilgamesh 6★</unit_shorthand>
-<unit_full_title>無尽なる威配師 ギルガメッシュ</unit_full_title>
-<origin>Ruler of the Table</origin>
+<unit_full_title>Infinite Chance Gilgamesh</unit_full_title>
+<origin>Master of the Table</origin>
 <cost>58</cost>
 <search_name>Casino Gilgamesh 6</search_name>
 </units>
@@ -4867,7 +4883,7 @@
 <units>
 <unit>casino_antoinette-5</unit>
 <unit_shorthand>Casino Antoinette 5★</unit_shorthand>
-<unit_full_title>貴運の箔徒 アントワネット</unit_full_title>
+<unit_full_title>Noble Roulette Antoinette</unit_full_title>
 <origin>Casino Medal Hatcher</origin>
 <cost>58</cost>
 <search_name>Casino Antoinette 5</search_name>
@@ -4875,7 +4891,7 @@
 <units>
 <unit>casino_antoinette-6</unit>
 <unit_shorthand>Casino Antoinette 6★</unit_shorthand>
-<unit_full_title>最麗運の貴箔徒 アントワネット</unit_full_title>
+<unit_full_title>Lady of Roulette Antoinette</unit_full_title>
 <origin>Casino Medal Hatcher</origin>
 <cost>58</cost>
 <search_name>Casino Antoinette 6</search_name>
@@ -7019,16 +7035,16 @@
 <units>
 <unit>casino_mammon-5</unit>
 <unit_shorthand>Casino Mammon 5★</unit_shorthand>
-<unit_full_title>壺振の粋客 マンモン</unit_full_title>
-<origin>Master of Discerning Good and Bad</origin>
+<unit_full_title>Dice Decides Mammon</unit_full_title>
+<origin>Dealer of the Dice</origin>
 <cost>53</cost>
 <search_name>Casino Mammon 5</search_name>
 </units>
 <units>
 <unit>casino_mammon-6</unit>
 <unit_shorthand>Casino Mammon 6★</unit_shorthand>
-<unit_full_title>煽欲の粋刺客 マンモン</unit_full_title>
-<origin>Master of Discerning Good and Bad</origin>
+<unit_full_title>Enticing Dice Dealer Mammon</unit_full_title>
+<origin>Dealer of the Dice</origin>
 <cost>53</cost>
 <search_name>Casino Mammon 6</search_name>
 </units>
