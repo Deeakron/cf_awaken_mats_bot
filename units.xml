@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-07-13T14:54:53">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-07-16T14:48:56">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -2155,7 +2155,7 @@
 <units>
 <unit>clarent-5</unit>
 <unit_shorthand>Clarent 5★</unit_shorthand>
-<unit_full_title>クラレント</unit_full_title>
+<unit_full_title>Clarent</unit_full_title>
 <origin>EARLY RISER</origin>
 <cost>63</cost>
 <search_name>Clarent 5</search_name>
@@ -2163,7 +2163,7 @@
 <units>
 <unit>clarent-6</unit>
 <unit_shorthand>Clarent 6★</unit_shorthand>
-<unit_full_title>整破の未貌剣 クラレント</unit_full_title>
+<unit_full_title>Blade of Domination Clarent</unit_full_title>
 <origin>EARLY RISER</origin>
 <cost>63</cost>
 <search_name>Clarent 6</search_name>
@@ -2239,6 +2239,22 @@
 <origin>ON WAR</origin>
 <cost>63</cost>
 <search_name>Clausewitz 6</search_name>
+</units>
+<units>
+<unit>abe_ten-ichijin-5</unit>
+<unit_shorthand>Abe no Seimei Cosplay Ten-Ichijin 5★</unit_shorthand>
+<unit_full_title>妙戯の神将 天一神</unit_full_title>
+<origin>Beautifully Dressed Divine General!</origin>
+<cost>63</cost>
+<search_name>Abe no Seimei Cosplay Ten-Ichijin 5</search_name>
+</units>
+<units>
+<unit>abe_ten-ichijin-6</unit>
+<unit_shorthand>Abe no Seimei Cosplay Ten-Ichijin 6★</unit_shorthand>
+<unit_full_title>主衣纏う神将 天一神</unit_full_title>
+<origin>Beautifully Dressed Divine General!</origin>
+<cost>63</cost>
+<search_name>Abe no Seimei Cosplay Ten-Ichijin 6</search_name>
 </units>
 <units>
 <unit>hw_malthus-6</unit>
@@ -3913,20 +3929,20 @@
 <search_name>Taira no Kiyomori 6</search_name>
 </units>
 <units>
-<unit>mary-san-5</unit>
-<unit_shorthand>Mary-san 5★</unit_shorthand>
+<unit>mary-5</unit>
+<unit_shorthand>Mary 5★</unit_shorthand>
 <unit_full_title>メリーさん</unit_full_title>
-<origin>Mary-san Invades!</origin>
+<origin>Mary Invades!</origin>
 <cost>58</cost>
-<search_name>Mary-san 5</search_name>
+<search_name>Mary 5</search_name>
 </units>
 <units>
-<unit>mary-san-6</unit>
-<unit_shorthand>Mary-san 6★</unit_shorthand>
+<unit>mary-6</unit>
+<unit_shorthand>Mary 6★</unit_shorthand>
 <unit_full_title>巡信なる夜影 メリーさん</unit_full_title>
-<origin>Mary-san Invades!</origin>
+<origin>Mary Invades!</origin>
 <cost>58</cost>
-<search_name>Mary-san 6</search_name>
+<search_name>Mary 6</search_name>
 </units>
 <units>
 <unit>enryo-5</unit>
@@ -4035,7 +4051,7 @@
 <units>
 <unit>saint_germain-5</unit>
 <unit_shorthand>Saint Germain 5★</unit_shorthand>
-<unit_full_title>サンジェルマン</unit_full_title>
+<unit_full_title>Saint Germain</unit_full_title>
 <origin>THE PRESIDENT</origin>
 <cost>58</cost>
 <search_name>Saint Germain 5</search_name>
@@ -4043,7 +4059,7 @@
 <units>
 <unit>saint_germain-6</unit>
 <unit_shorthand>Saint Germain 6★</unit_shorthand>
-<unit_full_title>慧略の巨構者 サンジェルマン</unit_full_title>
+<unit_full_title>Big Shot Saint Germain</unit_full_title>
 <origin>THE PRESIDENT</origin>
 <cost>58</cost>
 <search_name>Saint Germain 6</search_name>
@@ -4151,6 +4167,38 @@
 <origin>LETHAL WEAPON</origin>
 <cost>58</cost>
 <search_name>Avalon 6</search_name>
+</units>
+<units>
+<unit>mobius_katsu_kaishu-5</unit>
+<unit_shorthand>Mobius Cosplay Katsu Kaishu 5★</unit_shorthand>
+<unit_full_title>奇跡の装帥 勝海舟</unit_full_title>
+<origin>Miraculous Imitation Maker!</origin>
+<cost>58</cost>
+<search_name>Mobius Cosplay Katsu Kaishu 5</search_name>
+</units>
+<units>
+<unit>mobius_katsu_kaishu-6</unit>
+<unit_shorthand>Mobius Cosplay Katsu Kaishu 6★</unit_shorthand>
+<unit_full_title>終わりなき装造 勝海舟</unit_full_title>
+<origin>Miraculous Imitation Maker!</origin>
+<cost>58</cost>
+<search_name>Mobius Cosplay Katsu Kaishu 6</search_name>
+</units>
+<units>
+<unit>young_belial-5</unit>
+<unit_shorthand>Young Cosplay Belial 5★</unit_shorthand>
+<unit_full_title>火睨の代掌者 ベリアル</unit_full_title>
+<origin>Glaring Reproduction Manager!</origin>
+<cost>58</cost>
+<search_name>Young Cosplay Belial 5</search_name>
+</units>
+<units>
+<unit>young_belial-6</unit>
+<unit_shorthand>Young Cosplay Belial 6★</unit_shorthand>
+<unit_full_title>熱睨の換掌者 ベリアル</unit_full_title>
+<origin>Glaring Reproduction Manager!</origin>
+<cost>58</cost>
+<search_name>Young Cosplay Belial 6</search_name>
 </units>
 <units>
 <unit>fude_zhengshen_2020-5</unit>
@@ -5002,19 +5050,19 @@
 </units>
 <units>
 <unit>rimuru_tiamat</unit>
-<unit_shorthand>Rimuru Tiamat</unit_shorthand>
+<unit_shorthand>Rimuru Cosplay Tiamat</unit_shorthand>
 <unit_full_title>Reskinned Splashing Tiamat</unit_full_title>
 <origin>TenSura Quests</origin>
 <cost>58</cost>
-<search_name>Rimuru Tiamat</search_name>
+<search_name>Rimuru Cosplay Tiamat</search_name>
 </units>
 <units>
 <unit>milim_perry</unit>
-<unit_shorthand>Milim Perry</unit_shorthand>
+<unit_shorthand>Milim Cosplay Perry</unit_shorthand>
 <unit_full_title>Reskinned Dragon Cannon Perry</unit_full_title>
 <origin>TenSura Quests</origin>
 <cost>58</cost>
-<search_name>Milim Perry</search_name>
+<search_name>Milim Cosplay Perry</search_name>
 </units>
 <units>
 <unit>shizu-5</unit>
@@ -7051,7 +7099,7 @@
 <units>
 <unit>count_melgar-5</unit>
 <unit_shorthand>Count Melgar 5★</unit_shorthand>
-<unit_full_title>カウント・メルガル</unit_full_title>
+<unit_full_title>Count Melgar</unit_full_title>
 <origin>MOUSTACHE</origin>
 <cost>53</cost>
 <search_name>Count Melgar 5</search_name>
@@ -7059,7 +7107,7 @@
 <units>
 <unit>count_melgar-6</unit>
 <unit_shorthand>Count Melgar 6★</unit_shorthand>
-<unit_full_title>帝髭の警機 カウント・メルガル</unit_full_title>
+<unit_full_title>Moustache Alert Count Melgar</unit_full_title>
 <origin>MOUSTACHE</origin>
 <cost>53</cost>
 <search_name>Count Melgar 6</search_name>
