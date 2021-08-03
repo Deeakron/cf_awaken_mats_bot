@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-07-27T15:22:52">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-08-03T14:14:01">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -2211,7 +2211,7 @@
 <units>
 <unit>tudor-5</unit>
 <unit_shorthand>Tudor 5★</unit_shorthand>
-<unit_full_title>テューダー</unit_full_title>
+<unit_full_title>Tudor</unit_full_title>
 <origin>DESTINY CHILD</origin>
 <cost>63</cost>
 <search_name>Tudor 5</search_name>
@@ -2219,7 +2219,7 @@
 <units>
 <unit>tudor-6</unit>
 <unit_shorthand>Tudor 6★</unit_shorthand>
-<unit_full_title>瘴念の決烙者 テューダー</unit_full_title>
+<unit_full_title>Flawed Child of Roses Tudor</unit_full_title>
 <origin>DESTINY CHILD</origin>
 <cost>63</cost>
 <search_name>Tudor 6</search_name>
@@ -4107,7 +4107,7 @@
 <units>
 <unit>wells-5</unit>
 <unit_shorthand>Wells 5★</unit_shorthand>
-<unit_full_title>ウェルズ</unit_full_title>
+<unit_full_title>Wells</unit_full_title>
 <origin>HONEST WRITER</origin>
 <cost>58</cost>
 <search_name>Wells 5</search_name>
@@ -4115,7 +4115,7 @@
 <units>
 <unit>wells-6</unit>
 <unit_shorthand>Wells 6★</unit_shorthand>
-<unit_full_title>騒起の筆巧者 ウェルズ</unit_full_title>
+<unit_full_title>Prolific Penner Wells</unit_full_title>
 <origin>HONEST WRITER</origin>
 <cost>58</cost>
 <search_name>Wells 6</search_name>
@@ -4215,6 +4215,22 @@
 <origin>Glaring Reproduction Manager!</origin>
 <cost>58</cost>
 <search_name>Young Cosplay Belial 6</search_name>
+</units>
+<units>
+<unit>summer_beethoven-5</unit>
+<unit_shorthand>Summer Beethoven 5★</unit_shorthand>
+<unit_full_title>漁気の魔騒 ベートーヴェン</unit_full_title>
+<origin>Beach Invasion! Shark Minister!</origin>
+<cost>58</cost>
+<search_name>Summer Beethoven 5</search_name>
+</units>
+<units>
+<unit>summer_beethoven-6</unit>
+<unit_shorthand>Summer Beethoven 6★</unit_shorthand>
+<unit_full_title>漁衝の魔騒音 ベートーヴェン</unit_full_title>
+<origin>Beach Invasion! Shark Minister!</origin>
+<cost>58</cost>
+<search_name>Summer Beethoven 6</search_name>
 </units>
 <units>
 <unit>fude_zhengshen_2020-5</unit>
@@ -7155,7 +7171,7 @@
 <units>
 <unit>verne-5</unit>
 <unit_shorthand>Verne 5★</unit_shorthand>
-<unit_full_title>ヴェルヌ</unit_full_title>
+<unit_full_title>Verne</unit_full_title>
 <origin>ARGUMENT</origin>
 <cost>53</cost>
 <search_name>Verne 5</search_name>
@@ -7163,7 +7179,7 @@
 <units>
 <unit>verne-6</unit>
 <unit_shorthand>Verne 6★</unit_shorthand>
-<unit_full_title>辣舌の潜副官 ヴェルヌ</unit_full_title>
+<unit_full_title>Submerged Words Verne</unit_full_title>
 <origin>ARGUMENT</origin>
 <cost>53</cost>
 <search_name>Verne 6</search_name>
@@ -7183,6 +7199,22 @@
 <origin>ONLY MESSIAH</origin>
 <cost>53</cost>
 <search_name>Merlin-Messiah 6</search_name>
+</units>
+<units>
+<unit>summer_rokuro-5</unit>
+<unit_shorthand>Summer Rokuro 5★</unit_shorthand>
+<unit_full_title>砂転する麗首 ロクロ</unit_full_title>
+<origin>Shark Assault! Young Sharks!</origin>
+<cost>53</cost>
+<search_name>Summer Rokuro 5</search_name>
+</units>
+<units>
+<unit>summer_rokuro-6</unit>
+<unit_shorthand>Summer Rokuro 6★</unit_shorthand>
+<unit_full_title>砂翻する夏麗首 ロクロ</unit_full_title>
+<origin>Shark Assault! Young Sharks!</origin>
+<cost>53</cost>
+<search_name>Summer Rokuro 6</search_name>
 </units>
 <units>
 <unit>zhong_kui-5</unit>
