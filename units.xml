@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-08-03T14:14:01">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-08-06T14:31:13">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -823,6 +823,22 @@
 <origin>Hungry Appears!</origin>
 <cost>68</cost>
 <search_name>Hungry 6</search_name>
+</units>
+<units>
+<unit>strategy-5</unit>
+<unit_shorthand>Strategy 5★</unit_shorthand>
+<unit_full_title>ストラテジィ</unit_full_title>
+<origin>Strategy Appears!</origin>
+<cost>68</cost>
+<search_name>Strategy 5</search_name>
+</units>
+<units>
+<unit>strategy-6</unit>
+<unit_shorthand>Strategy 6★</unit_shorthand>
+<unit_full_title>災害類XXX型 ストラテジィ</unit_full_title>
+<origin>Strategy Appears!</origin>
+<cost>68</cost>
+<search_name>Strategy 6</search_name>
 </units>
 <units>
 <unit>jupiter-ua-slave_core</unit>
@@ -2227,16 +2243,16 @@
 <units>
 <unit>cast_d_alembert-5</unit>
 <unit_shorthand>Cast d&apos;Alembert 5★</unit_shorthand>
-<unit_full_title>幻国の魔校 ダランベール</unit_full_title>
-<origin>Magic Learning Magic Area!</origin>
+<unit_full_title>Illusoria Arcanaeum d&apos;Alembert</unit_full_title>
+<origin>Master Magic in the Magic Area!</origin>
 <cost>63</cost>
 <search_name>Cast d&apos;Alembert 5</search_name>
 </units>
 <units>
 <unit>cast_d_alembert-6</unit>
 <unit_shorthand>Cast d&apos;Alembert 6★</unit_shorthand>
-<unit_full_title>夢幻の魔性徒 ダランベール</unit_full_title>
-<origin>Magic Learning Magic Area!</origin>
+<unit_full_title>Phantastic Monsteria d&apos;Alembert</unit_full_title>
+<origin>Master Magic in the Magic Area!</origin>
 <cost>63</cost>
 <search_name>Cast d&apos;Alembert 6</search_name>
 </units>
@@ -2271,6 +2287,22 @@
 <origin>Beautifully Dressed Divine General!</origin>
 <cost>63</cost>
 <search_name>Abe no Seimei Cosplay Ten-Ichijin 6</search_name>
+</units>
+<units>
+<unit>summer_raziel-5</unit>
+<unit_shorthand>Summer Raziel 5★</unit_shorthand>
+<unit_full_title>熱勇の変夏 ラジエル・トロピカ</unit_full_title>
+<origin>Beach Overrun! Shark Emperor!</origin>
+<cost>63</cost>
+<search_name>Summer Raziel 5</search_name>
+</units>
+<units>
+<unit>summer_raziel-6</unit>
+<unit_shorthand>Summer Raziel 6★</unit_shorthand>
+<unit_full_title>天勇の真変夏 ラジエル・トロピカ</unit_full_title>
+<origin>Beach Overrun! Shark Emperor!</origin>
+<cost>63</cost>
+<search_name>Summer Raziel 6</search_name>
 </units>
 <units>
 <unit>hw_malthus-6</unit>
@@ -4123,48 +4155,48 @@
 <units>
 <unit>cast_watt-5</unit>
 <unit_shorthand>Cast Watt 5★</unit_shorthand>
-<unit_full_title>客導の未来図 ワット</unit_full_title>
-<origin>Future Creating Future Area!</origin>
+<unit_full_title>Guestguide Blueprint Watt</unit_full_title>
+<origin>See Tomorrow in the Future Area!</origin>
 <cost>58</cost>
 <search_name>Cast Watt 5</search_name>
 </units>
 <units>
 <unit>cast_watt-6</unit>
 <unit_shorthand>Cast Watt 6★</unit_shorthand>
-<unit_full_title>親導の未来航路 ワット</unit_full_title>
-<origin>Future Creating Future Area!</origin>
+<unit_full_title>Novel Guideroute Watt</unit_full_title>
+<origin>See Tomorrow in the Future Area!</origin>
 <cost>58</cost>
 <search_name>Cast Watt 6</search_name>
 </units>
 <units>
 <unit>cast_neumann-5</unit>
 <unit_shorthand>Cast Neumann 5★</unit_shorthand>
-<unit_full_title>密林圏の襲才 ノイマン</unit_full_title>
-<origin>Beast Appearing Jungle Area!</origin>
+<unit_full_title>Jungle Strike Neumann</unit_full_title>
+<origin>Watch Beasts in the Jungle Area!</origin>
 <cost>58</cost>
 <search_name>Cast Neumann 5</search_name>
 </units>
 <units>
 <unit>cast_neumann-6</unit>
 <unit_shorthand>Cast Neumann 6★</unit_shorthand>
-<unit_full_title>客船驚襲の獣姿 ノイマン</unit_full_title>
-<origin>Beast Appearing Jungle Area!</origin>
+<unit_full_title>Seastrike Beastform Neumann</unit_full_title>
+<origin>Watch Beasts in the Jungle Area!</origin>
 <cost>58</cost>
 <search_name>Cast Neumann 6</search_name>
 </units>
 <units>
 <unit>cast_cauchy-5</unit>
 <unit_shorthand>Cast Cauchy 5★</unit_shorthand>
-<unit_full_title>探窟の頼跡 コーシー</unit_full_title>
-<origin>Treasure Seeking Treasure Area!</origin>
+<unit_full_title>Deepcave Pathmark Cauchy</unit_full_title>
+<origin>Hunt Loot in the Treasure Area!</origin>
 <cost>58</cost>
 <search_name>Cast Cauchy 5</search_name>
 </units>
 <units>
 <unit>cast_cauchy-6</unit>
 <unit_shorthand>Cast Cauchy 6★</unit_shorthand>
-<unit_full_title>明窟する宝跡 コーシー</unit_full_title>
-<origin>Treasure Seeking Treasure Area!</origin>
+<unit_full_title>Cavelighter Treasuremark Cauchy</unit_full_title>
+<origin>Hunt Loot in the Treasure Area!</origin>
 <cost>58</cost>
 <search_name>Cast Cauchy 6</search_name>
 </units>
