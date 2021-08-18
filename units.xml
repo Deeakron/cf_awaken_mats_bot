@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-08-06T14:31:13">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-08-18T14:43:04">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -121,20 +121,20 @@
 <search_name>White Day Tyrfing</search_name>
 </units>
 <units>
-<unit>ame_no_habikiri-6</unit>
-<unit_shorthand>Ame no Habikiri 6★</unit_shorthand>
+<unit>ame_no_habakiri-6</unit>
+<unit_shorthand>Ame no Habakiri 6★</unit_shorthand>
 <unit_full_title>アメノハバキリ</unit_full_title>
 <origin>Ranking Point Exchange</origin>
 <cost>68</cost>
-<search_name>Ame no Habikiri 6</search_name>
+<search_name>Ame no Habakiri 6</search_name>
 </units>
 <units>
-<unit>ame_no_habikiri-ua</unit>
-<unit_shorthand>Ame no Habikiri UA</unit_shorthand>
+<unit>ame_no_habakiri-ua</unit>
+<unit_shorthand>Ame no Habakiri UA</unit_shorthand>
 <unit_full_title>神握の志宝剣 アメノハバキリ</unit_full_title>
 <origin>Ranking Point Exchange</origin>
 <cost>68</cost>
-<search_name>Ame no Habikiri UA</search_name>
+<search_name>Ame no Habakiri UA</search_name>
 </units>
 <units>
 <unit>bonanza-ua-accel</unit>
@@ -2259,7 +2259,7 @@
 <units>
 <unit>clausewitz-5</unit>
 <unit_shorthand>Clausewitz 5★</unit_shorthand>
-<unit_full_title>クラウゼヴィッツ</unit_full_title>
+<unit_full_title>Clausewitz</unit_full_title>
 <origin>ON WAR</origin>
 <cost>63</cost>
 <search_name>Clausewitz 5</search_name>
@@ -2267,7 +2267,7 @@
 <units>
 <unit>clausewitz-6</unit>
 <unit_shorthand>Clausewitz 6★</unit_shorthand>
-<unit_full_title>変属の煽争論 クラウゼヴィッツ</unit_full_title>
+<unit_full_title>Militant Anomaly Clausewitz</unit_full_title>
 <origin>ON WAR</origin>
 <cost>63</cost>
 <search_name>Clausewitz 6</search_name>
@@ -2275,16 +2275,16 @@
 <units>
 <unit>abe_ten-ichijin-5</unit>
 <unit_shorthand>Abe no Seimei Cosplay Ten-Ichijin 5★</unit_shorthand>
-<unit_full_title>妙戯の神将 天一神</unit_full_title>
-<origin>Beautifully Dressed Divine General!</origin>
+<unit_full_title>Exquisite General Ten-Ichijin</unit_full_title>
+<origin>Robes of Heaven!</origin>
 <cost>63</cost>
 <search_name>Abe no Seimei Cosplay Ten-Ichijin 5</search_name>
 </units>
 <units>
 <unit>abe_ten-ichijin-6</unit>
 <unit_shorthand>Abe no Seimei Cosplay Ten-Ichijin 6★</unit_shorthand>
-<unit_full_title>主衣纏う神将 天一神</unit_full_title>
-<origin>Beautifully Dressed Divine General!</origin>
+<unit_full_title>Heavenly Robes Ten-Ichijin</unit_full_title>
+<origin>Robes of Heaven!</origin>
 <cost>63</cost>
 <search_name>Abe no Seimei Cosplay Ten-Ichijin 6</search_name>
 </units>
@@ -4203,7 +4203,7 @@
 <units>
 <unit>avalon-5</unit>
 <unit_shorthand>Avalon 5★</unit_shorthand>
-<unit_full_title>アヴァロン</unit_full_title>
+<unit_full_title>Avalon</unit_full_title>
 <origin>LETHAL WEAPON</origin>
 <cost>58</cost>
 <search_name>Avalon 5</search_name>
@@ -4211,7 +4211,7 @@
 <units>
 <unit>avalon-6</unit>
 <unit_shorthand>Avalon 6★</unit_shorthand>
-<unit_full_title>軍凌の大禁機 アヴァロン</unit_full_title>
+<unit_full_title>Tool of Taboo Avalon</unit_full_title>
 <origin>LETHAL WEAPON</origin>
 <cost>58</cost>
 <search_name>Avalon 6</search_name>
@@ -4219,32 +4219,32 @@
 <units>
 <unit>mobius_katsu_kaishu-5</unit>
 <unit_shorthand>Mobius Cosplay Katsu Kaishu 5★</unit_shorthand>
-<unit_full_title>奇跡の装帥 勝海舟</unit_full_title>
-<origin>Miraculous Imitation Maker!</origin>
+<unit_full_title>Miraculous Leader Katsu Kaishu</unit_full_title>
+<origin>Miracle of Creator!</origin>
 <cost>58</cost>
 <search_name>Mobius Cosplay Katsu Kaishu 5</search_name>
 </units>
 <units>
 <unit>mobius_katsu_kaishu-6</unit>
 <unit_shorthand>Mobius Cosplay Katsu Kaishu 6★</unit_shorthand>
-<unit_full_title>終わりなき装造 勝海舟</unit_full_title>
-<origin>Miraculous Imitation Maker!</origin>
+<unit_full_title>Eternal Creator Katsu Kaishu</unit_full_title>
+<origin>Miracle of Creator!</origin>
 <cost>58</cost>
 <search_name>Mobius Cosplay Katsu Kaishu 6</search_name>
 </units>
 <units>
 <unit>young_belial-5</unit>
 <unit_shorthand>Young Cosplay Belial 5★</unit_shorthand>
-<unit_full_title>火睨の代掌者 ベリアル</unit_full_title>
-<origin>Glaring Reproduction Manager!</origin>
+<unit_full_title>Fiery Looks Duplicator Belial</unit_full_title>
+<origin>Gaze of Reproducer!</origin>
 <cost>58</cost>
 <search_name>Young Cosplay Belial 5</search_name>
 </units>
 <units>
 <unit>young_belial-6</unit>
 <unit_shorthand>Young Cosplay Belial 6★</unit_shorthand>
-<unit_full_title>熱睨の換掌者 ベリアル</unit_full_title>
-<origin>Glaring Reproduction Manager!</origin>
+<unit_full_title>Glaring Flame Reproducer Belial</unit_full_title>
+<origin>Gaze of Reproducer!</origin>
 <cost>58</cost>
 <search_name>Young Cosplay Belial 6</search_name>
 </units>
@@ -4263,6 +4263,22 @@
 <origin>Beach Invasion! Shark Minister!</origin>
 <cost>58</cost>
 <search_name>Summer Beethoven 6</search_name>
+</units>
+<units>
+<unit>matsuri_nankichi_niimi-5</unit>
+<unit_shorthand>Matsuri Nankichi Niimi 5★</unit_shorthand>
+<unit_full_title>冷瘴の変狐 新美南吉</unit_full_title>
+<origin>Ghost Story Deception -Devil&apos;s Advent Ritual-</origin>
+<cost>58</cost>
+<search_name>Matsuri Nankichi Niimi 5</search_name>
+</units>
+<units>
+<unit>matsuri_nankichi_niimi-6</unit>
+<unit_shorthand>Matsuri Nankichi Niimi 6★</unit_shorthand>
+<unit_full_title>霊瘴の気変狐 新美南吉</unit_full_title>
+<origin>Ghost Story Deception -Devil&apos;s Advent Ritual-</origin>
+<cost>58</cost>
+<search_name>Matsuri Nankichi Niimi 6</search_name>
 </units>
 <units>
 <unit>fude_zhengshen_2020-5</unit>
@@ -7219,7 +7235,7 @@
 <units>
 <unit>merlin-messiah-5</unit>
 <unit_shorthand>Merlin-Messiah 5★</unit_shorthand>
-<unit_full_title>マーリン-Messiah</unit_full_title>
+<unit_full_title>Merlin-Messiah</unit_full_title>
 <origin>ONLY MESSIAH</origin>
 <cost>53</cost>
 <search_name>Merlin-Messiah 5</search_name>
@@ -7227,7 +7243,7 @@
 <units>
 <unit>merlin-messiah-6</unit>
 <unit_shorthand>Merlin-Messiah 6★</unit_shorthand>
-<unit_full_title>真頂の救世主 マーリン-Messiah</unit_full_title>
+<unit_full_title>True Savior Merlin-Messiah</unit_full_title>
 <origin>ONLY MESSIAH</origin>
 <cost>53</cost>
 <search_name>Merlin-Messiah 6</search_name>
@@ -7247,6 +7263,22 @@
 <origin>Shark Assault! Young Sharks!</origin>
 <cost>53</cost>
 <search_name>Summer Rokuro 6</search_name>
+</units>
+<units>
+<unit>matsuri_ushas-5</unit>
+<unit_shorthand>Matsuri Ushas 5★</unit_shorthand>
+<unit_full_title>冷肝の騒神 ウシャス</unit_full_title>
+<origin>Ghost Story Escape -Chasing Skeleton-</origin>
+<cost>53</cost>
+<search_name>Matsuri Ushas 5</search_name>
+</units>
+<units>
+<unit>matsuri_ushas-6</unit>
+<unit_shorthand>Matsuri Ushas 6★</unit_shorthand>
+<unit_full_title>骸夢の逃騒神 ウシャス</unit_full_title>
+<origin>Ghost Story Escape -Chasing Skeleton-</origin>
+<cost>53</cost>
+<search_name>Matsuri Ushas 6</search_name>
 </units>
 <units>
 <unit>zhong_kui-5</unit>
