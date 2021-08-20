@@ -1,6 +1,7 @@
 import discord
 #import pyodbc
 import os
+import random
 import xml.etree.ElementTree as ET
 
 #set up
@@ -410,14 +411,24 @@ async def on_message(message):
 
 
 	if message.content == ('$waifu'):
-		embed = discord.Embed(title="   ", description="  ", color=0x00ff00)
-		embed.set_image(url="https://cdn.discordapp.com/attachments/681578371666280463/681704912526377030/Unit1368.png")
-		await message.channel.send(embed=embed)
+		if(random.randint(1,2) == 1):
+			embed = discord.Embed(title="   ", description="  ", color=0x00ff00)
+			embed.set_image(url="https://cdn.discordapp.com/attachments/681578371666280463/681704912526377030/Unit1368.png")
+			await message.channel.send(embed=embed)
+		else:
+			embed = discord.Embed(title="   ", description="  ", color=0x00ff00)
+			embed.set_image(url="https://cdn.discordapp.com/attachments/681578371666280463/878352118724059157/Unit15073.png")
+			await message.channel.send(embed=embed)
 
 	if message.content == ('$thicc'):
-		embed = discord.Embed(title="   ", description="  ", color=0x00ff00)
-		embed.set_image(url="https://cdn.discordapp.com/attachments/681578371666280463/682011823553511431/Screenshot_20200225-0152162.png")
-		await message.channel.send(embed=embed)
+		if(random.randint(1,2) == 1):
+			embed = discord.Embed(title="   ", description="  ", color=0x00ff00)
+			embed.set_image(url="https://cdn.discordapp.com/attachments/681578371666280463/682011823553511431/Screenshot_20200225-0152162.png")
+			await message.channel.send(embed=embed)
+		else:
+			embed = discord.Embed(title="   ", description="  ", color=0x00ff00)
+			embed.set_image(url="https://cdn.discordapp.com/attachments/681578371666280463/878353613427212338/Screenshot_20210820-1502522.png")
+			await message.channel.send(embed=embed)
 		#pic = discord.File("bernoulli.png",filename="bernoulli.png",spoiler=False)
 		#await message.channel.send(pic)
 
