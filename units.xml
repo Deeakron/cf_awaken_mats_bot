@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-08-20T15:12:25">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-08-31T14:25:57">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -2307,16 +2307,16 @@
 <units>
 <unit>summer_raziel-5</unit>
 <unit_shorthand>Summer Raziel 5★</unit_shorthand>
-<unit_full_title>熱勇の変夏 ラジエル・トロピカ</unit_full_title>
-<origin>Beach Overrun! Shark Emperor!</origin>
+<unit_full_title>Courageous Summer Raziel Tropica</unit_full_title>
+<origin>Berserk! Shark Emperor!</origin>
 <cost>63</cost>
 <search_name>Summer Raziel 5</search_name>
 </units>
 <units>
 <unit>summer_raziel-6</unit>
 <unit_shorthand>Summer Raziel 6★</unit_shorthand>
-<unit_full_title>天勇の真変夏 ラジエル・トロピカ</unit_full_title>
-<origin>Beach Overrun! Shark Emperor!</origin>
+<unit_full_title>Midsummer Change Raziel Tropica</unit_full_title>
+<origin>Berserk! Shark Emperor!</origin>
 <cost>63</cost>
 <search_name>Summer Raziel 6</search_name>
 </units>
@@ -4283,16 +4283,16 @@
 <units>
 <unit>summer_beethoven-5</unit>
 <unit_shorthand>Summer Beethoven 5★</unit_shorthand>
-<unit_full_title>漁気の魔騒 ベートーヴェン</unit_full_title>
-<origin>Beach Invasion! Shark Minister!</origin>
+<unit_full_title>Magical Season Haul Beethoven</unit_full_title>
+<origin>Raid! Shark Minister!</origin>
 <cost>58</cost>
 <search_name>Summer Beethoven 5</search_name>
 </units>
 <units>
 <unit>summer_beethoven-6</unit>
 <unit_shorthand>Summer Beethoven 6★</unit_shorthand>
-<unit_full_title>漁衝の魔騒音 ベートーヴェン</unit_full_title>
-<origin>Beach Invasion! Shark Minister!</origin>
+<unit_full_title>Magical Shadow Catch Beethoven</unit_full_title>
+<origin>Raid! Shark Minister!</origin>
 <cost>58</cost>
 <search_name>Summer Beethoven 6</search_name>
 </units>
@@ -7283,16 +7283,16 @@
 <units>
 <unit>summer_rokuro-5</unit>
 <unit_shorthand>Summer Rokuro 5★</unit_shorthand>
-<unit_full_title>砂転する麗首 ロクロ</unit_full_title>
-<origin>Shark Assault! Young Sharks!</origin>
+<unit_full_title>Headed for Rolling Sands Rokuro</unit_full_title>
+<origin>Ambush! Shark Lackey!</origin>
 <cost>53</cost>
 <search_name>Summer Rokuro 5</search_name>
 </units>
 <units>
 <unit>summer_rokuro-6</unit>
 <unit_shorthand>Summer Rokuro 6★</unit_shorthand>
-<unit_full_title>砂翻する夏麗首 ロクロ</unit_full_title>
-<origin>Shark Assault! Young Sharks!</origin>
+<unit_full_title>Headed for Slipping Sands Rokuro</unit_full_title>
+<origin>Ambush! Shark Lackey!</origin>
 <cost>53</cost>
 <search_name>Summer Rokuro 6</search_name>
 </units>
