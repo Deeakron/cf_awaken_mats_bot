@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-08-31T14:25:57">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-09-01T14:05:47">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -375,6 +375,22 @@
 <origin>Erosion Appears!</origin>
 <cost>68</cost>
 <search_name>Erosion 6</search_name>
+</units>
+<units>
+<unit>erosion-condense</unit>
+<unit_shorthand>Erosion Condensation</unit_shorthand>
+<unit_full_title>災害凝縮：イロゥジョン</unit_full_title>
+<origin>Erosion Appears! (Ultimate Disaster)</origin>
+<cost>68</cost>
+<search_name>Erosion Condensation</search_name>
+</units>
+<units>
+<unit>erosion-ex</unit>
+<unit_shorthand>Erosion EX</unit_shorthand>
+<unit_full_title>災害類・怪II型 イロゥジョン</unit_full_title>
+<origin>Erosion Appears! (Ultimate Disaster)</origin>
+<cost>68</cost>
+<search_name>Erosion EX</search_name>
 </units>
 <units>
 <unit>distortion-5</unit>
@@ -13727,5 +13743,29 @@
 <origin>Evolution Material Quest</origin>
 <cost>99</cost>
 <search_name>Fire Mutation Rabbit</search_name>
+</units>
+<units>
+<unit>green_mutation_rabbit</unit>
+<unit_shorthand>Green Mutation Rabbit</unit_shorthand>
+<unit_full_title>Forest Mutation Rabbit</unit_full_title>
+<origin>Evolution Material Quest</origin>
+<cost>99</cost>
+<search_name>Forest Mutation Rabbit</search_name>
+</units>
+<units>
+<unit>blue_mutation_rabbit</unit>
+<unit_shorthand>Blue Mutation Rabbit</unit_shorthand>
+<unit_full_title>Aqua Mutation Rabbit</unit_full_title>
+<origin>Evolution Material Quest</origin>
+<cost>99</cost>
+<search_name>Aqua Mutation Rabbit</search_name>
+</units>
+<units>
+<unit>yellow_mutation_rabbit</unit>
+<unit_shorthand>Yellow Mutation Rabbit</unit_shorthand>
+<unit_full_title>Thunder Mutation Rabbit</unit_full_title>
+<origin>Evolution Material Quest</origin>
+<cost>99</cost>
+<search_name>Thunder Mutation Rabbit</search_name>
 </units>
 </dataroot>
