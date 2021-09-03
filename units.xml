@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-09-01T14:05:47">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-09-03T14:17:17">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -2339,16 +2339,16 @@
 <units>
 <unit>matsuri_bernoulli-5</unit>
 <unit_shorthand>Matsuri Bernoulli 5★</unit_shorthand>
-<unit_full_title>浸意する霊雫 ベルヌーイ</unit_full_title>
-<origin>Ghost Story Horror -Haunted Bathroom Mirror-</origin>
+<unit_full_title>Immersed Phenomenon Bernoulli</unit_full_title>
+<origin>Dread -Haunted Mirror-</origin>
 <cost>63</cost>
 <search_name>Matsuri Bernoulli 5</search_name>
 </units>
 <units>
 <unit>matsuri_bernoulli-6</unit>
 <unit_shorthand>Matsuri Bernoulli 6★</unit_shorthand>
-<unit_full_title>浸寄なる心霊雫 ベルヌーイ</unit_full_title>
-<origin>Ghost Story Horror -Haunted Bathroom Mirror-</origin>
+<unit_full_title>Overflowing Phantasm Bernoulli</unit_full_title>
+<origin>Dread -Haunted Mirror-</origin>
 <cost>63</cost>
 <search_name>Matsuri Bernoulli 6</search_name>
 </units>
@@ -4315,16 +4315,16 @@
 <units>
 <unit>matsuri_nankichi_niimi-5</unit>
 <unit_shorthand>Matsuri Nankichi Niimi 5★</unit_shorthand>
-<unit_full_title>冷瘴の変狐 新美南吉</unit_full_title>
-<origin>Ghost Story Deception -Devil&apos;s Advent Ritual-</origin>
+<unit_full_title>Haunted Fox Nankichi Niimi</unit_full_title>
+<origin>Trick -Demonic Ritual-</origin>
 <cost>58</cost>
 <search_name>Matsuri Nankichi Niimi 5</search_name>
 </units>
 <units>
 <unit>matsuri_nankichi_niimi-6</unit>
 <unit_shorthand>Matsuri Nankichi Niimi 6★</unit_shorthand>
-<unit_full_title>霊瘴の気変狐 新美南吉</unit_full_title>
-<origin>Ghost Story Deception -Devil&apos;s Advent Ritual-</origin>
+<unit_full_title>Floating Fox Nankichi Niimi</unit_full_title>
+<origin>Trick -Demonic Ritual-</origin>
 <cost>58</cost>
 <search_name>Matsuri Nankichi Niimi 6</search_name>
 </units>
@@ -7315,16 +7315,16 @@
 <units>
 <unit>matsuri_ushas-5</unit>
 <unit_shorthand>Matsuri Ushas 5★</unit_shorthand>
-<unit_full_title>冷肝の騒神 ウシャス</unit_full_title>
-<origin>Ghost Story Escape -Chasing Skeleton-</origin>
+<unit_full_title>Chilling Incident Ushas</unit_full_title>
+<origin>Run -Skeleton Chase-</origin>
 <cost>53</cost>
 <search_name>Matsuri Ushas 5</search_name>
 </units>
 <units>
 <unit>matsuri_ushas-6</unit>
 <unit_shorthand>Matsuri Ushas 6★</unit_shorthand>
-<unit_full_title>骸夢の逃騒神 ウシャス</unit_full_title>
-<origin>Ghost Story Escape -Chasing Skeleton-</origin>
+<unit_full_title>Chasing Skeleton Dream Ushas</unit_full_title>
+<origin>Run -Skeleton Chase-</origin>
 <cost>53</cost>
 <search_name>Matsuri Ushas 6</search_name>
 </units>
