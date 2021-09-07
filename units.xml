@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-09-03T14:17:17">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-09-07T14:01:52">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -2975,6 +2975,22 @@
 <origin>Kamehameha Invades!</origin>
 <cost>58</cost>
 <search_name>Kamehameha 6</search_name>
+</units>
+<units>
+<unit>brutus-5</unit>
+<unit_shorthand>Brutus 5★</unit_shorthand>
+<unit_full_title>ブルータス</unit_full_title>
+<origin>Brutus Invades!</origin>
+<cost>58</cost>
+<search_name>Brutus 5</search_name>
+</units>
+<units>
+<unit>brutus-6</unit>
+<unit_shorthand>Brutus 6★</unit_shorthand>
+<unit_full_title>未感青の憧想 ブルータス</unit_full_title>
+<origin>Brutus Invades!</origin>
+<cost>58</cost>
+<search_name>Brutus 6</search_name>
 </units>
 <units>
 <unit>taowu-5</unit>
