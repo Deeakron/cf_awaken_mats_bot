@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-09-07T14:01:52">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-09-10T15:05:38">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -1127,6 +1127,22 @@
 <origin>Age of Revolutionaries Missions</origin>
 <cost>68</cost>
 <search_name>Nuwa Stone Empress Lu UA</search_name>
+</units>
+<units>
+<unit>shen_gongbao-6</unit>
+<unit_shorthand>Shen Gongbao 6★</unit_shorthand>
+<unit_full_title>Dark Immortal Shen Gongbao</unit_full_title>
+<origin>Storm the Immortals!</origin>
+<cost>68</cost>
+<search_name>Shen Gongbao 6</search_name>
+</units>
+<units>
+<unit>shen_gongbao-ua</unit>
+<unit_shorthand>Shen Gongbao UA</unit_shorthand>
+<unit_full_title>Depraved Immortal Shen Gongbao</unit_full_title>
+<origin>Storm the Immortals!</origin>
+<cost>68</cost>
+<search_name>Shen Gongbao UA</search_name>
 </units>
 <units>
 <unit>wyatt_earp-5</unit>
@@ -4846,7 +4862,7 @@
 <unit_full_title>Gáe Bolg</unit_full_title>
 <origin>Ranking Point Exchange</origin>
 <cost>58</cost>
-<search_name>Gáe Bolg 5</search_name>
+<search_name>Gae Bolg 5</search_name>
 </units>
 <units>
 <unit>gae_bolg-6</unit>
@@ -4854,7 +4870,15 @@
 <unit_full_title>Arrows of Thunder Gáe Bolg</unit_full_title>
 <origin>Ranking Point Exchange</origin>
 <cost>58</cost>
-<search_name>Gáe Bolg 6</search_name>
+<search_name>Gae Bolg 6</search_name>
+</units>
+<units>
+<unit>moon_gae_bolg</unit>
+<unit_shorthand>Moon Viewing Gáe Bolg</unit_shorthand>
+<unit_full_title>浮月の風流盃 ゲイボルグ</unit_full_title>
+<origin>Ranking Point Exchange</origin>
+<cost>58</cost>
+<search_name>Moon Viewing Gae Bolg</search_name>
 </units>
 <units>
 <unit>trident-5</unit>
@@ -4873,6 +4897,14 @@
 <search_name>Trident 6</search_name>
 </units>
 <units>
+<unit>moon_trident</unit>
+<unit_shorthand>Moon Viewing Trident</unit_shorthand>
+<unit_full_title>雅月扇ぐ麗舞戟 トライデント</unit_full_title>
+<origin>Ranking Point Exchange</origin>
+<cost>58</cost>
+<search_name>Moon Viewing Trident</search_name>
+</units>
+<units>
 <unit>gungnir-5</unit>
 <unit_shorthand>Gungnir 5★</unit_shorthand>
 <unit_full_title>Gungnir</unit_full_title>
@@ -4887,6 +4919,14 @@
 <origin>Ranking Point Exchange</origin>
 <cost>58</cost>
 <search_name>Gungnir 6</search_name>
+</units>
+<units>
+<unit>moon_gungnir</unit>
+<unit_shorthand>Moon Viewing Gungnir</unit_shorthand>
+<unit_full_title>豊穣告げる祝月杵 グングニル</unit_full_title>
+<origin>Ranking Point Exchange</origin>
+<cost>58</cost>
+<search_name>Moon Viewing Gungnir</search_name>
 </units>
 <units>
 <unit>gambanteinn-5</unit>
@@ -7343,6 +7383,22 @@
 <origin>Run -Skeleton Chase-</origin>
 <cost>53</cost>
 <search_name>Matsuri Ushas 6</search_name>
+</units>
+<units>
+<unit>moon_lawrence-5</unit>
+<unit_shorthand>Moon Viewing Lawrence 5★</unit_shorthand>
+<unit_full_title>玩割の杵狼 ローレンス</unit_full_title>
+<origin>Rising Power Moon Wolf</origin>
+<cost>53</cost>
+<search_name>Moon Viewing Lawrence 5</search_name>
+</units>
+<units>
+<unit>moon_lawrence-6</unit>
+<unit_shorthand>Moon Viewing Lawrence 6★</unit_shorthand>
+<unit_full_title>歓割の祭杵狼 ローレンス</unit_full_title>
+<origin>Rising Power Moon Wolf</origin>
+<cost>53</cost>
+<search_name>Moon Viewing Lawrence 6</search_name>
 </units>
 <units>
 <unit>zhong_kui-5</unit>
@@ -13783,5 +13839,21 @@
 <origin>Evolution Material Quest</origin>
 <cost>99</cost>
 <search_name>Thunder Mutation Rabbit</search_name>
+</units>
+<units>
+<unit>nuwa_stone</unit>
+<unit_shorthand>Fallen Nuwa Stone</unit_shorthand>
+<unit_full_title>Fallen Nuwa Stone</unit_full_title>
+<origin>The Beginning of Destiny</origin>
+<cost>99</cost>
+<search_name>Fallen Nuwa Stone</search_name>
+</units>
+<units>
+<unit>moon_event_set</unit>
+<unit_shorthand>Moon Viewing Event Set</unit_shorthand>
+<unit_full_title>ワクワクお月見イベントセット</unit_full_title>
+<origin>Prayers and Gratitude to the Moon</origin>
+<cost>99</cost>
+<search_name>Moon Viewing Event Set</search_name>
 </units>
 </dataroot>
