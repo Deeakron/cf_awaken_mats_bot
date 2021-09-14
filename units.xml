@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-09-10T15:05:38">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-09-14T14:39:42">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -507,7 +507,7 @@
 <units>
 <unit>insanity-5</unit>
 <unit_shorthand>Insanity 5★</unit_shorthand>
-<unit_full_title>インサニティ</unit_full_title>
+<unit_full_title>Insanity</unit_full_title>
 <origin>Insanity Appears!</origin>
 <cost>68</cost>
 <search_name>Insanity 5</search_name>
@@ -515,7 +515,7 @@
 <units>
 <unit>insanity-6</unit>
 <unit_shorthand>Insanity 6★</unit_shorthand>
-<unit_full_title>災害類IX型 インサニティ</unit_full_title>
+<unit_full_title>Disaster Type IX Insanity</unit_full_title>
 <origin>Insanity Appears!</origin>
 <cost>68</cost>
 <search_name>Insanity 6</search_name>
@@ -523,7 +523,7 @@
 <units>
 <unit>pillage-5</unit>
 <unit_shorthand>Pillage 5★</unit_shorthand>
-<unit_full_title>ピリジ</unit_full_title>
+<unit_full_title>Pillage</unit_full_title>
 <origin>Pillage Appears!</origin>
 <cost>68</cost>
 <search_name>Pillage 5</search_name>
@@ -531,7 +531,7 @@
 <units>
 <unit>pillage-6</unit>
 <unit_shorthand>Pillage 6★</unit_shorthand>
-<unit_full_title>災害類X型 ピリジ</unit_full_title>
+<unit_full_title>Disaster Type X Pillage</unit_full_title>
 <origin>Pillage Appears!</origin>
 <cost>68</cost>
 <search_name>Pillage 6</search_name>
@@ -1495,6 +1495,22 @@
 <origin>Virtual Harris Invades!</origin>
 <cost>63</cost>
 <search_name>PAF Harris 6</search_name>
+</units>
+<units>
+<unit>paf_thor-5</unit>
+<unit_shorthand>PAF Thor 5★</unit_shorthand>
+<unit_full_title>鎚憶将 トール-PAF</unit_full_title>
+<origin>Virtual Thor Invades!</origin>
+<cost>63</cost>
+<search_name>PAF Thor 5</search_name>
+</units>
+<units>
+<unit>paf_thor-6</unit>
+<unit_shorthand>PAF Thor 6★</unit_shorthand>
+<unit_full_title>雷命の閃志 トール-PAF</unit_full_title>
+<origin>Virtual Thor Invades!</origin>
+<cost>63</cost>
+<search_name>PAF Thor 6</search_name>
 </units>
 <units>
 <unit>dm_hou_yi_chang_e-5</unit>
@@ -4359,6 +4375,22 @@
 <origin>Trick -Demonic Ritual-</origin>
 <cost>58</cost>
 <search_name>Matsuri Nankichi Niimi 6</search_name>
+</units>
+<units>
+<unit>moon_kaguya-5</unit>
+<unit_shorthand>Moon Viewing Kaguya 5★</unit_shorthand>
+<unit_full_title>来兎の接待 かぐや</unit_full_title>
+<origin>Arm Shaking Moon Princess</origin>
+<cost>58</cost>
+<search_name>Moon Viewing Kaguya 5</search_name>
+</units>
+<units>
+<unit>moon_kaguya-6</unit>
+<unit_shorthand>Moon Viewing Kaguya 6★</unit_shorthand>
+<unit_full_title>懐兎の歓待祭 かぐや</unit_full_title>
+<origin>Arm Shaking Moon Princess</origin>
+<cost>58</cost>
+<search_name>Moon Viewing Kaguya 6</search_name>
 </units>
 <units>
 <unit>fude_zhengshen_2020-5</unit>
