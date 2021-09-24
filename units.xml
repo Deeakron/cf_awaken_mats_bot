@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-09-14T14:39:42">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-09-24T16:03:44">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -855,6 +855,22 @@
 <origin>Strategy Appears!</origin>
 <cost>68</cost>
 <search_name>Strategy 6</search_name>
+</units>
+<units>
+<unit>curious-5</unit>
+<unit_shorthand>Curious 5★</unit_shorthand>
+<unit_full_title>キュリァス</unit_full_title>
+<origin>Curious Appears!</origin>
+<cost>68</cost>
+<search_name>Curious 5</search_name>
+</units>
+<units>
+<unit>curious-6</unit>
+<unit_shorthand>Curious 6★</unit_shorthand>
+<unit_full_title>災害類XXXI型 キュリァス</unit_full_title>
+<origin>Curious Appears!</origin>
+<cost>68</cost>
+<search_name>Curious 6</search_name>
 </units>
 <units>
 <unit>jupiter-ua-slave_core</unit>
@@ -2385,6 +2401,38 @@
 <search_name>Matsuri Bernoulli 6</search_name>
 </units>
 <units>
+<unit>moon_artemis-5</unit>
+<unit_shorthand>Moon Viewing Artemis 5★</unit_shorthand>
+<unit_full_title>親月の映神 アルテミス</unit_full_title>
+<origin>Exciting Atmosphere Moon Goddess</origin>
+<cost>63</cost>
+<search_name>Moon Viewing Artemis 5</search_name>
+</units>
+<units>
+<unit>moon_artemis-6</unit>
+<unit_shorthand>Moon Viewing Artemis 6★</unit_shorthand>
+<unit_full_title>愛月の光映神 アルテミス</unit_full_title>
+<origin>Exciting Atmosphere Moon Goddess</origin>
+<cost>63</cost>
+<search_name>Moon Viewing Artemis 6</search_name>
+</units>
+<units>
+<unit>springfield-5</unit>
+<unit_shorthand>Springfield 5★</unit_shorthand>
+<unit_full_title>スプリングフィールド</unit_full_title>
+<origin>For the Future of Humanity</origin>
+<cost>63</cost>
+<search_name>Springfield 5</search_name>
+</units>
+<units>
+<unit>springfield-6</unit>
+<unit_shorthand>Springfield 6★</unit_shorthand>
+<unit_full_title>義想の純凶 スプリングフィールド</unit_full_title>
+<origin>For the Future of Humanity</origin>
+<cost>63</cost>
+<search_name>Springfield 6</search_name>
+</units>
+<units>
 <unit>hw_malthus-6</unit>
 <unit_shorthand>Halloween Malthus 6★</unit_shorthand>
 <unit_full_title>Ambitious Lycanthrope Malthus</unit_full_title>
@@ -3023,6 +3071,22 @@
 <origin>Brutus Invades!</origin>
 <cost>58</cost>
 <search_name>Brutus 6</search_name>
+</units>
+<units>
+<unit>cont_hugin_munin-5</unit>
+<unit_shorthand>Continuation Hugin &amp; Munin 5★</unit_shorthand>
+<unit_full_title>音挑の新翼 フギンとムニン</unit_full_title>
+<origin>Hugin &amp; Munin Invade Again!</origin>
+<cost>58</cost>
+<search_name>Continuation Hugin &amp; Munin 5</search_name>
+</units>
+<units>
+<unit>cont_hugin_munin-6</unit>
+<unit_shorthand>Continuation Hugin &amp; Munin 6★</unit_shorthand>
+<unit_full_title>音破の神耳翼 フギンとムニン</unit_full_title>
+<origin>Hugin &amp; Munin Invade Again!</origin>
+<cost>58</cost>
+<search_name>Continuation Hugin &amp; Munin 6</search_name>
 </units>
 <units>
 <unit>taowu-5</unit>
@@ -4391,6 +4455,22 @@
 <origin>Arm Shaking Moon Princess</origin>
 <cost>58</cost>
 <search_name>Moon Viewing Kaguya 6</search_name>
+</units>
+<units>
+<unit>remington-5</unit>
+<unit_shorthand>Remington 5★</unit_shorthand>
+<unit_full_title>レミントン</unit_full_title>
+<origin>Longing for Bullets</origin>
+<cost>58</cost>
+<search_name>Remington 5</search_name>
+</units>
+<units>
+<unit>remington-6</unit>
+<unit_shorthand>Remington 6★</unit_shorthand>
+<unit_full_title>訴撃の誠求者 レミントン</unit_full_title>
+<origin>Longing for Bullets</origin>
+<cost>58</cost>
+<search_name>Remington 6</search_name>
 </units>
 <units>
 <unit>fude_zhengshen_2020-5</unit>
@@ -7431,6 +7511,22 @@
 <origin>Rising Power Moon Wolf</origin>
 <cost>53</cost>
 <search_name>Moon Viewing Lawrence 6</search_name>
+</units>
+<units>
+<unit>winchester-5</unit>
+<unit_shorthand>Winchester 5★</unit_shorthand>
+<unit_full_title>ウィンチェスター</unit_full_title>
+<origin>Disappear, Adapter</origin>
+<cost>53</cost>
+<search_name>Winchester 5</search_name>
+</units>
+<units>
+<unit>winchester-6</unit>
+<unit_shorthand>Winchester 6★</unit_shorthand>
+<unit_full_title>宿讐の剛銃身 ウィンチェスター</unit_full_title>
+<origin>Disappear, Adapter</origin>
+<cost>53</cost>
+<search_name>Winchester 6</search_name>
 </units>
 <units>
 <unit>zhong_kui-5</unit>
