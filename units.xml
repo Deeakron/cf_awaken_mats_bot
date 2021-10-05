@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-09-24T16:03:44">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-10-05T14:13:25">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -539,7 +539,7 @@
 <units>
 <unit>crave-5</unit>
 <unit_shorthand>Crave 5★</unit_shorthand>
-<unit_full_title>クレイヴ</unit_full_title>
+<unit_full_title>Crave</unit_full_title>
 <origin>Crave Appears!</origin>
 <cost>68</cost>
 <search_name>Crave 5</search_name>
@@ -547,7 +547,7 @@
 <units>
 <unit>crave-6</unit>
 <unit_shorthand>Crave 6★</unit_shorthand>
-<unit_full_title>災害類XI型 クレイヴ</unit_full_title>
+<unit_full_title>Disaster Type XI Crave</unit_full_title>
 <origin>Crave Appears!</origin>
 <cost>68</cost>
 <search_name>Crave 6</search_name>
@@ -555,7 +555,7 @@
 <units>
 <unit>purge-5</unit>
 <unit_shorthand>Purge 5★</unit_shorthand>
-<unit_full_title>パージ</unit_full_title>
+<unit_full_title>Purge</unit_full_title>
 <origin>Purge Appears!</origin>
 <cost>68</cost>
 <search_name>Purge 5</search_name>
@@ -563,7 +563,7 @@
 <units>
 <unit>purge-6</unit>
 <unit_shorthand>Purge 6★</unit_shorthand>
-<unit_full_title>災害類XII型 パージ</unit_full_title>
+<unit_full_title>Disaster Type XII Purge</unit_full_title>
 <origin>Purge Appears!</origin>
 <cost>68</cost>
 <search_name>Purge 6</search_name>
@@ -2403,16 +2403,16 @@
 <units>
 <unit>moon_artemis-5</unit>
 <unit_shorthand>Moon Viewing Artemis 5★</unit_shorthand>
-<unit_full_title>親月の映神 アルテミス</unit_full_title>
-<origin>Exciting Atmosphere Moon Goddess</origin>
+<unit_full_title>Full Moon Reflection Artemis</unit_full_title>
+<origin>Livening Moon Deity</origin>
 <cost>63</cost>
 <search_name>Moon Viewing Artemis 5</search_name>
 </units>
 <units>
 <unit>moon_artemis-6</unit>
 <unit_shorthand>Moon Viewing Artemis 6★</unit_shorthand>
-<unit_full_title>愛月の光映神 アルテミス</unit_full_title>
-<origin>Exciting Atmosphere Moon Goddess</origin>
+<unit_full_title>Full Moon Love Artemis</unit_full_title>
+<origin>Livening Moon Deity</origin>
 <cost>63</cost>
 <search_name>Moon Viewing Artemis 6</search_name>
 </units>
@@ -4443,16 +4443,16 @@
 <units>
 <unit>moon_kaguya-5</unit>
 <unit_shorthand>Moon Viewing Kaguya 5★</unit_shorthand>
-<unit_full_title>来兎の接待 かぐや</unit_full_title>
-<origin>Arm Shaking Moon Princess</origin>
+<unit_full_title>Rabbit Hospitality Kaguya</unit_full_title>
+<origin>Serving Moon Princess</origin>
 <cost>58</cost>
 <search_name>Moon Viewing Kaguya 5</search_name>
 </units>
 <units>
 <unit>moon_kaguya-6</unit>
 <unit_shorthand>Moon Viewing Kaguya 6★</unit_shorthand>
-<unit_full_title>懐兎の歓待祭 かぐや</unit_full_title>
-<origin>Arm Shaking Moon Princess</origin>
+<unit_full_title>Thankful Rabbit Festival Kaguya</unit_full_title>
+<origin>Serving Moon Princess</origin>
 <cost>58</cost>
 <search_name>Moon Viewing Kaguya 6</search_name>
 </units>
@@ -4471,6 +4471,22 @@
 <origin>Longing for Bullets</origin>
 <cost>58</cost>
 <search_name>Remington 6</search_name>
+</units>
+<units>
+<unit>hugo-5</unit>
+<unit_shorthand>Hugo 5★</unit_shorthand>
+<unit_full_title>ユーゴー</unit_full_title>
+<origin>Secondary Role Playing the Bell Guide</origin>
+<cost>58</cost>
+<search_name>Hugo 5</search_name>
+</units>
+<units>
+<unit>hugo-6</unit>
+<unit_shorthand>Hugo 6★</unit_shorthand>
+<unit_full_title>嗚呼の夢情家 ユーゴー</unit_full_title>
+<origin>Secondary Role Playing the Bell Guide</origin>
+<cost>58</cost>
+<search_name>Hugo 6</search_name>
 </units>
 <units>
 <unit>fude_zhengshen_2020-5</unit>
@@ -4987,7 +5003,7 @@
 <units>
 <unit>moon_gae_bolg</unit>
 <unit_shorthand>Moon Viewing Gáe Bolg</unit_shorthand>
-<unit_full_title>浮月の風流盃 ゲイボルグ</unit_full_title>
+<unit_full_title>Intoxicating Moon Gáe Bolg</unit_full_title>
 <origin>Ranking Point Exchange</origin>
 <cost>58</cost>
 <search_name>Moon Viewing Gae Bolg</search_name>
@@ -5011,7 +5027,7 @@
 <units>
 <unit>moon_trident</unit>
 <unit_shorthand>Moon Viewing Trident</unit_shorthand>
-<unit_full_title>雅月扇ぐ麗舞戟 トライデント</unit_full_title>
+<unit_full_title>Fanning Elegance Trident</unit_full_title>
 <origin>Ranking Point Exchange</origin>
 <cost>58</cost>
 <search_name>Moon Viewing Trident</search_name>
@@ -5035,7 +5051,7 @@
 <units>
 <unit>moon_gungnir</unit>
 <unit_shorthand>Moon Viewing Gungnir</unit_shorthand>
-<unit_full_title>豊穣告げる祝月杵 グングニル</unit_full_title>
+<unit_full_title>Mallet of Harvest Gungnir</unit_full_title>
 <origin>Ranking Point Exchange</origin>
 <cost>58</cost>
 <search_name>Moon Viewing Gungnir</search_name>
@@ -7499,16 +7515,16 @@
 <units>
 <unit>moon_lawrence-5</unit>
 <unit_shorthand>Moon Viewing Lawrence 5★</unit_shorthand>
-<unit_full_title>玩割の杵狼 ローレンス</unit_full_title>
-<origin>Rising Power Moon Wolf</origin>
+<unit_full_title>Crashing Wolf Lawrence</unit_full_title>
+<origin>Rising Moon Wolf</origin>
 <cost>53</cost>
 <search_name>Moon Viewing Lawrence 5</search_name>
 </units>
 <units>
 <unit>moon_lawrence-6</unit>
 <unit_shorthand>Moon Viewing Lawrence 6★</unit_shorthand>
-<unit_full_title>歓割の祭杵狼 ローレンス</unit_full_title>
-<origin>Rising Power Moon Wolf</origin>
+<unit_full_title>Pounding Delight Lawrence</unit_full_title>
+<origin>Rising Moon Wolf</origin>
 <cost>53</cost>
 <search_name>Moon Viewing Lawrence 6</search_name>
 </units>
@@ -7527,6 +7543,22 @@
 <origin>Disappear, Adapter</origin>
 <cost>53</cost>
 <search_name>Winchester 6</search_name>
+</units>
+<units>
+<unit>theater_motojiro_kajii-5</unit>
+<unit_shorthand>Theater Motojiro Kajii 5★</unit_shorthand>
+<unit_full_title>場和の虐情 梶井基次郎</unit_full_title>
+<origin>Minor Role Playing the Twisted Villain</origin>
+<cost>53</cost>
+<search_name>Theater Motojiro Kajii 5</search_name>
+</units>
+<units>
+<unit>theater_motojiro_kajii-6</unit>
+<unit_shorthand>Theater Motojiro Kajii 6★</unit_shorthand>
+<unit_full_title>演弾の名虐情 梶井基次郎</unit_full_title>
+<origin>Minor Role Playing the Twisted Villain</origin>
+<cost>53</cost>
+<search_name>Theater Motojiro Kajii 6</search_name>
 </units>
 <units>
 <unit>zhong_kui-5</unit>
@@ -13978,10 +14010,10 @@
 </units>
 <units>
 <unit>moon_event_set</unit>
-<unit_shorthand>Moon Viewing Event Set</unit_shorthand>
-<unit_full_title>ワクワクお月見イベントセット</unit_full_title>
-<origin>Prayers and Gratitude to the Moon</origin>
+<unit_shorthand>Joyful Moon Viewing Set</unit_shorthand>
+<unit_full_title>Joyful Moon Viewing Set</unit_full_title>
+<origin>Prayer to the Moon</origin>
 <cost>99</cost>
-<search_name>Moon Viewing Event Set</search_name>
+<search_name>Joyful Moon Viewing Set</search_name>
 </units>
 </dataroot>
