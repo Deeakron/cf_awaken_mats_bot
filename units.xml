@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-10-05T14:13:25">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-10-12T14:40:57">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -1099,7 +1099,7 @@
 <units>
 <unit>chibi_yao</unit>
 <unit_shorthand>Chibi Party Yao</unit_shorthand>
-<unit_full_title>HQ&apos;s FP Little Emperer Yao</unit_full_title>
+<unit_full_title>HQ&apos;s FP Little Emperor Yao</unit_full_title>
 <origin>The HQ&apos;s Foundation Party Material Hatcher</origin>
 <cost>58</cost>
 <search_name>Chibi Party Yao</search_name>
@@ -2433,6 +2433,22 @@
 <search_name>Springfield 6</search_name>
 </units>
 <units>
+<unit>theater_kafka-5</unit>
+<unit_shorthand>Theater Kafka 5★</unit_shorthand>
+<unit_full_title>教蛾の妙演 カフカ</unit_full_title>
+<origin>Assisting Role Playing the Knowledge Seeker</origin>
+<cost>63</cost>
+<search_name>Theater Kafka 5</search_name>
+</units>
+<units>
+<unit>theater_kafka-6</unit>
+<unit_shorthand>Theater Kafka 6★</unit_shorthand>
+<unit_full_title>教蛾の至好演 カフカ</unit_full_title>
+<origin>Assisting Role Playing the Knowledge Seeker</origin>
+<cost>63</cost>
+<search_name>Theater Kafka 6</search_name>
+</units>
+<units>
 <unit>hw_malthus-6</unit>
 <unit_shorthand>Halloween Malthus 6★</unit_shorthand>
 <unit_full_title>Ambitious Lycanthrope Malthus</unit_full_title>
@@ -3087,6 +3103,22 @@
 <origin>Hugin &amp; Munin Invade Again!</origin>
 <cost>58</cost>
 <search_name>Continuation Hugin &amp; Munin 6</search_name>
+</units>
+<units>
+<unit>minamoto_no_yoritomo-5</unit>
+<unit_shorthand>Minamoto no Yoritomo 5★</unit_shorthand>
+<unit_full_title>源頼朝</unit_full_title>
+<origin>Minamoto no Yoritomo Invades!</origin>
+<cost>58</cost>
+<search_name>Minamoto no Yoritomo 5</search_name>
+</units>
+<units>
+<unit>minamoto_no_yoritomo-6</unit>
+<unit_shorthand>Minamoto no Yoritomo 6★</unit_shorthand>
+<unit_full_title>狙弟の将燥者 源頼朝</unit_full_title>
+<origin>Minamoto no Yoritomo Invades!</origin>
+<cost>58</cost>
+<search_name>Minamoto no Yoritomo 6</search_name>
 </units>
 <units>
 <unit>taowu-5</unit>
