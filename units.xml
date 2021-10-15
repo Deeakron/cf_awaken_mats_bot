@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-10-12T14:40:57">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-10-15T15:17:58">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -2449,6 +2449,22 @@
 <search_name>Theater Kafka 6</search_name>
 </units>
 <units>
+<unit>darius-5</unit>
+<unit_shorthand>Darius 5★</unit_shorthand>
+<unit_full_title>ダレイオス</unit_full_title>
+<origin>The Great King</origin>
+<cost>63</cost>
+<search_name>Darius 5</search_name>
+</units>
+<units>
+<unit>darius-6</unit>
+<unit_shorthand>Darius 6★</unit_shorthand>
+<unit_full_title>世帰の大破王 ダレイオス</unit_full_title>
+<origin>The Great King</origin>
+<cost>63</cost>
+<search_name>Darius 6</search_name>
+</units>
+<units>
 <unit>hw_malthus-6</unit>
 <unit_shorthand>Halloween Malthus 6★</unit_shorthand>
 <unit_full_title>Ambitious Lycanthrope Malthus</unit_full_title>
@@ -2929,20 +2945,20 @@
 <search_name>Continuation Brahma 6</search_name>
 </units>
 <units>
-<unit>okikurumi-5</unit>
-<unit_shorthand>Okikurumi 5★</unit_shorthand>
+<unit>okikurmi-5</unit>
+<unit_shorthand>Okikurmi 5★</unit_shorthand>
 <unit_full_title>オキクルミ</unit_full_title>
-<origin>Okikurumi Invades!</origin>
+<origin>Okikurmi Invades!</origin>
 <cost>58</cost>
-<search_name>Okikurumi 5</search_name>
+<search_name>Okikurmi 5</search_name>
 </units>
 <units>
-<unit>okikurumi-6</unit>
-<unit_shorthand>Okikurumi 6★</unit_shorthand>
+<unit>okikurmi-6</unit>
+<unit_shorthand>Okikurmi 6★</unit_shorthand>
 <unit_full_title>親然の大匠 オキクルミ</unit_full_title>
-<origin>Okikurumi Invades!</origin>
+<origin>Okikurmi Invades!</origin>
 <cost>58</cost>
-<search_name>Okikurumi 6</search_name>
+<search_name>Okikurmi 6</search_name>
 </units>
 <units>
 <unit>cont_shingen_takeda-5</unit>
@@ -4519,6 +4535,38 @@
 <origin>Secondary Role Playing the Bell Guide</origin>
 <cost>58</cost>
 <search_name>Hugo 6</search_name>
+</units>
+<units>
+<unit>dosan_saito-5</unit>
+<unit_shorthand>Dōsan Saitō 5★</unit_shorthand>
+<unit_full_title>斎藤道三</unit_full_title>
+<origin>Deadly Poisonous Giant</origin>
+<cost>58</cost>
+<search_name>Dosan Saito 5</search_name>
+</units>
+<units>
+<unit>dosan_saito-6</unit>
+<unit_shorthand>Dōsan Saitō 6★</unit_shorthand>
+<unit_full_title>蝮権の老巨将 斎藤道三</unit_full_title>
+<origin>Deadly Poisonous Giant</origin>
+<cost>58</cost>
+<search_name>Dosan Saito 6</search_name>
+</units>
+<units>
+<unit>harvest_amala-5</unit>
+<unit_shorthand>Harvest Festival Amala 5★</unit_shorthand>
+<unit_full_title>誤選の果実食姫 アマラ</unit_full_title>
+<origin>Forest Prisoner ★ Harvester Hunter!</origin>
+<cost>58</cost>
+<search_name>Harvest Festival Amala 5</search_name>
+</units>
+<units>
+<unit>harvest_amala-6</unit>
+<unit_shorthand>Harvest Festival Amala 6★</unit_shorthand>
+<unit_full_title>惑中の果実守姫 アマラ</unit_full_title>
+<origin>Forest Prisoner ★ Harvester Hunter!</origin>
+<cost>58</cost>
+<search_name>Harvest Festival Amala 6</search_name>
 </units>
 <units>
 <unit>fude_zhengshen_2020-5</unit>
@@ -7591,6 +7639,38 @@
 <origin>Minor Role Playing the Twisted Villain</origin>
 <cost>53</cost>
 <search_name>Theater Motojiro Kajii 6</search_name>
+</units>
+<units>
+<unit>xerxes-5</unit>
+<unit_shorthand>Xerxes 5★</unit_shorthand>
+<unit_full_title>クセルクセス</unit_full_title>
+<origin>Cracker&apos;s Nightmare</origin>
+<cost>53</cost>
+<search_name>Xerxes 5</search_name>
+</units>
+<units>
+<unit>xerxes-6</unit>
+<unit_shorthand>Xerxes 6★</unit_shorthand>
+<unit_full_title>復朝の嬌謀 クセルクセス</unit_full_title>
+<origin>Cracker&apos;s Nightmare</origin>
+<cost>53</cost>
+<search_name>Xerxes 6</search_name>
+</units>
+<units>
+<unit>apple_leaf-5</unit>
+<unit_shorthand>Apple Leaf 5★</unit_shorthand>
+<unit_full_title>アップルリーフ</unit_full_title>
+<origin>Forest Defense ★ Fruit Leaves!</origin>
+<cost>53</cost>
+<search_name>Apple Leaf 5</search_name>
+</units>
+<units>
+<unit>apple_leaf-6</unit>
+<unit_shorthand>Apple Leaf 6★</unit_shorthand>
+<unit_full_title>恵森の林檎衛 アップルリーフ</unit_full_title>
+<origin>Forest Defense ★ Fruit Leaves!</origin>
+<cost>53</cost>
+<search_name>Apple Leaf 6</search_name>
 </units>
 <units>
 <unit>zhong_kui-5</unit>
@@ -14006,7 +14086,7 @@
 <unit_full_title>Fire Mutation Rabbit</unit_full_title>
 <origin>Evolution Material Quest</origin>
 <cost>99</cost>
-<search_name>Fire Mutation Rabbit</search_name>
+<search_name>Red Mutation Rabbit</search_name>
 </units>
 <units>
 <unit>green_mutation_rabbit</unit>
@@ -14014,7 +14094,7 @@
 <unit_full_title>Forest Mutation Rabbit</unit_full_title>
 <origin>Evolution Material Quest</origin>
 <cost>99</cost>
-<search_name>Forest Mutation Rabbit</search_name>
+<search_name>Green Mutation Rabbit</search_name>
 </units>
 <units>
 <unit>blue_mutation_rabbit</unit>
@@ -14022,7 +14102,7 @@
 <unit_full_title>Aqua Mutation Rabbit</unit_full_title>
 <origin>Evolution Material Quest</origin>
 <cost>99</cost>
-<search_name>Aqua Mutation Rabbit</search_name>
+<search_name>Blue Mutation Rabbit</search_name>
 </units>
 <units>
 <unit>yellow_mutation_rabbit</unit>
@@ -14030,7 +14110,7 @@
 <unit_full_title>Thunder Mutation Rabbit</unit_full_title>
 <origin>Evolution Material Quest</origin>
 <cost>99</cost>
-<search_name>Thunder Mutation Rabbit</search_name>
+<search_name>Yellow Mutation Rabbit</search_name>
 </units>
 <units>
 <unit>nuwa_stone</unit>
