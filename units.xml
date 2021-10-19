@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-10-15T15:17:58">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-10-19T15:31:09">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -2463,6 +2463,22 @@
 <origin>The Great King</origin>
 <cost>63</cost>
 <search_name>Darius 6</search_name>
+</units>
+<units>
+<unit>apple_queen-5</unit>
+<unit_shorthand>Apple Queen 5★</unit_shorthand>
+<unit_full_title>アップルクイーン</unit_full_title>
+<origin>Forest Control ★ Queen of Fruits!</origin>
+<cost>63</cost>
+<search_name>Apple Queen 5</search_name>
+</units>
+<units>
+<unit>apple_queen-6</unit>
+<unit_shorthand>Apple Queen 6★</unit_shorthand>
+<unit_full_title>恵森統べる紅林檎 アップルクイーン</unit_full_title>
+<origin>Forest Control ★ Queen of Fruits!</origin>
+<cost>63</cost>
+<search_name>Apple Queen 6</search_name>
 </units>
 <units>
 <unit>hw_malthus-6</unit>
