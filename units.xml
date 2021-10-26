@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-10-22T14:31:36">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-10-26T15:12:04">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -887,6 +887,22 @@
 <origin>Admonition Appears!</origin>
 <cost>68</cost>
 <search_name>Admonition EX</search_name>
+</units>
+<units>
+<unit>predation-5</unit>
+<unit_shorthand>Predation 5★</unit_shorthand>
+<unit_full_title>プリデイション</unit_full_title>
+<origin>Predation Appears!</origin>
+<cost>68</cost>
+<search_name>Predation 5</search_name>
+</units>
+<units>
+<unit>predation-6</unit>
+<unit_shorthand>Predation 6★</unit_shorthand>
+<unit_full_title>災害類XXXIII型 プリデイション</unit_full_title>
+<origin>Predation Appears!</origin>
+<cost>68</cost>
+<search_name>Predation 6</search_name>
 </units>
 <units>
 <unit>jupiter-ua-slave_core</unit>
@@ -2495,6 +2511,22 @@
 <origin>Forest Control ★ Queen of Fruits!</origin>
 <cost>63</cost>
 <search_name>Apple Queen 6</search_name>
+</units>
+<units>
+<unit>hw_day_joule</unit>
+<unit_shorthand>Halloween Day Joule</unit_shorthand>
+<unit_full_title>明装纏う洋灯姫 ジュール</unit_full_title>
+<origin>White Light Elegant</origin>
+<cost>63</cost>
+<search_name>Halloween Day Joule</search_name>
+</units>
+<units>
+<unit>hw_night_joule</unit>
+<unit_shorthand>Halloween Night Joule</unit_shorthand>
+<unit_full_title>夜装纏う魂霊姫 ジュール</unit_full_title>
+<origin>Black Night Surprise</origin>
+<cost>63</cost>
+<search_name>Halloween Night Joule</search_name>
 </units>
 <units>
 <unit>hw_malthus-6</unit>
@@ -4599,6 +4631,22 @@
 <origin>Forest Prisoner ★ Harvester Hunter!</origin>
 <cost>58</cost>
 <search_name>Harvest Festival Amala 6</search_name>
+</units>
+<units>
+<unit>hw_day_hannibal</unit>
+<unit_shorthand>Halloween Day Hannibal</unit_shorthand>
+<unit_full_title>明宴の楽憩家 ハンニバル</unit_full_title>
+<origin>Treat Light Halloween</origin>
+<cost>58</cost>
+<search_name>Halloween Day Hannibal</search_name>
+</units>
+<units>
+<unit>hw_night_hannibal</unit>
+<unit_shorthand>Halloween Night Hannibal</unit_shorthand>
+<unit_full_title>戯術の縫痕霊 ハンニバル</unit_full_title>
+<origin>Trick Night Franken</origin>
+<cost>58</cost>
+<search_name>Halloween Night Hannibal</search_name>
 </units>
 <units>
 <unit>fude_zhengshen_2020-5</unit>
@@ -7703,6 +7751,22 @@
 <origin>Forest Defense ★ Fruit Leaves!</origin>
 <cost>53</cost>
 <search_name>Apple Leaf 6</search_name>
+</units>
+<units>
+<unit>hw_day_senko</unit>
+<unit_shorthand>Halloween Day Senko</unit_shorthand>
+<unit_full_title>招宴の色誘狐 センコ</unit_full_title>
+<origin>Colorful Fox Enjoying the Day Festival</origin>
+<cost>53</cost>
+<search_name>Halloween Day Senko</search_name>
+</units>
+<units>
+<unit>hw_night_senko</unit>
+<unit_shorthand>Halloween Night Senko</unit_shorthand>
+<unit_full_title>参宴の艶戯狐 センコ</unit_full_title>
+<origin>Seductive Fox Enjoying the Night Festival</origin>
+<cost>53</cost>
+<search_name>Halloween Night Senko</search_name>
 </units>
 <units>
 <unit>zhong_kui-5</unit>
@@ -11194,11 +11258,11 @@
 </units>
 <units>
 <unit>anastasia-6</unit>
-<unit_shorthand>Anastaisa 6★</unit_shorthand>
+<unit_shorthand>Anastasia 6★</unit_shorthand>
 <unit_full_title>凍界流創始の拳奥義 アナスタシア</unit_full_title>
 <origin>Hand Over that Glass Slipper!</origin>
 <cost>48</cost>
-<search_name>Anastaisa 6</search_name>
+<search_name>Anastasia 6</search_name>
 </units>
 <units>
 <unit>anomalocaris-4</unit>
@@ -14159,5 +14223,13 @@
 <origin>Prayer to the Moon</origin>
 <cost>99</cost>
 <search_name>Joyful Moon Viewing Set</search_name>
+</units>
+<units>
+<unit>hw_program</unit>
+<unit_shorthand>Halloween Trick Program</unit_shorthand>
+<unit_full_title>ハロウィン・トリックプログラム</unit_full_title>
+<origin>JP Halloween 2021 Exchange</origin>
+<cost>99</cost>
+<search_name>Halloween Trick Program</search_name>
 </units>
 </dataroot>
