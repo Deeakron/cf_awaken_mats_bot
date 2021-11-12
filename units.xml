@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-11-09T14:15:16">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-11-12T14:55:41">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -2467,7 +2467,7 @@
 <units>
 <unit>springfield-5</unit>
 <unit_shorthand>Springfield 5★</unit_shorthand>
-<unit_full_title>スプリングフィールド</unit_full_title>
+<unit_full_title>Springfield</unit_full_title>
 <origin>For the Future of Humanity</origin>
 <cost>63</cost>
 <search_name>Springfield 5</search_name>
@@ -2475,7 +2475,7 @@
 <units>
 <unit>springfield-6</unit>
 <unit_shorthand>Springfield 6★</unit_shorthand>
-<unit_full_title>義想の純凶 スプリングフィールド</unit_full_title>
+<unit_full_title>Renegade Raid Springfield</unit_full_title>
 <origin>For the Future of Humanity</origin>
 <cost>63</cost>
 <search_name>Springfield 6</search_name>
@@ -2559,6 +2559,22 @@
 <origin>Crossdresser&apos;s Embarrassing 0 Hospitality</origin>
 <cost>63</cost>
 <search_name>Cultural Festival Salieri 6</search_name>
+</units>
+<units>
+<unit>lolita_happy-5</unit>
+<unit_shorthand>Lolita Happy 5★</unit_shorthand>
+<unit_full_title>ロリータ・ハッピー</unit_full_title>
+<origin>Tiny ❤︎ Lolita Happy</origin>
+<cost>63</cost>
+<search_name>Lolita Happy 5</search_name>
+</units>
+<units>
+<unit>lolita_happy-6</unit>
+<unit_shorthand>Lolita Happy 6★</unit_shorthand>
+<unit_full_title>甘愛の暴幼心 ロリータ・ハッピー</unit_full_title>
+<origin>Tiny ❤︎ Lolita Happy</origin>
+<cost>63</cost>
+<search_name>Lolita Happy 6</search_name>
 </units>
 <units>
 <unit>hw_malthus-6</unit>
@@ -3482,19 +3498,19 @@
 </units>
 <units>
 <unit>natsume_akutagawa-5</unit>
-<unit_shorthand>Natsume &amp; Akutagawa 5★</unit_shorthand>
-<unit_full_title>夏目漱石＆芥川龍之介</unit_full_title>
+<unit_shorthand>Soseki &amp; Ryunosuke 5★</unit_shorthand>
+<unit_full_title>Soseki &amp; Ryunosuke</unit_full_title>
 <origin>In Regards to Mankind</origin>
 <cost>58</cost>
-<search_name>Natsume &amp; Akutagawa 5</search_name>
+<search_name>Soseki &amp; Ryunosuke 5</search_name>
 </units>
 <units>
 <unit>natsume_akutagawa-6</unit>
-<unit_shorthand>Natsume &amp; Akutagawa 6★</unit_shorthand>
-<unit_full_title>編世の合策 夏目漱石＆芥川龍之介</unit_full_title>
+<unit_shorthand>Soseki &amp; Ryunosuke 6★</unit_shorthand>
+<unit_full_title>Joint Plot Soseki &amp; Ryunosuke</unit_full_title>
 <origin>In Regards to Mankind</origin>
 <cost>58</cost>
-<search_name>Natsume &amp; Akutagawa 6</search_name>
+<search_name>Soseki &amp; Ryunosuke 6</search_name>
 </units>
 <units>
 <unit>hallucigenia_cl-5</unit>
@@ -4603,16 +4619,16 @@
 <units>
 <unit>remington-5</unit>
 <unit_shorthand>Remington 5★</unit_shorthand>
-<unit_full_title>レミントン</unit_full_title>
-<origin>Longing for Bullets</origin>
+<unit_full_title>Remington</unit_full_title>
+<origin>Wish Upon a Bullet</origin>
 <cost>58</cost>
 <search_name>Remington 5</search_name>
 </units>
 <units>
 <unit>remington-6</unit>
 <unit_shorthand>Remington 6★</unit_shorthand>
-<unit_full_title>訴撃の誠求者 レミントン</unit_full_title>
-<origin>Longing for Bullets</origin>
+<unit_full_title>Sniper Indicter Remington</unit_full_title>
+<origin>Wish Upon a Bullet</origin>
 <cost>58</cost>
 <search_name>Remington 6</search_name>
 </units>
@@ -4695,6 +4711,22 @@
 <origin>Elegant Hospitality of a Competent Butler</origin>
 <cost>58</cost>
 <search_name>Cultural Festival Kater 6</search_name>
+</units>
+<units>
+<unit>boy_happy-5</unit>
+<unit_shorthand>Boy Happy 5★</unit_shorthand>
+<unit_full_title>ボーイ・ハッピー</unit_full_title>
+<origin>Exciting ★ Boy Happy</origin>
+<cost>58</cost>
+<search_name>Boy Happy 5</search_name>
+</units>
+<units>
+<unit>boy_happy-6</unit>
+<unit_shorthand>Boy Happy 6★</unit_shorthand>
+<unit_full_title>想届の勇電心 ボーイ・ハッピー</unit_full_title>
+<origin>Exciting ★ Boy Happy</origin>
+<cost>58</cost>
+<search_name>Boy Happy 6</search_name>
 </units>
 <units>
 <unit>fude_zhengshen_2020-5</unit>
@@ -6851,7 +6883,7 @@
 <units>
 <unit>ogai_mori-5</unit>
 <unit_shorthand>Ogai Mori 5★</unit_shorthand>
-<unit_full_title>森鴎外</unit_full_title>
+<unit_full_title>Ogai Mori</unit_full_title>
 <origin>In Regards to Life</origin>
 <cost>53</cost>
 <search_name>Ogai Mori 5</search_name>
@@ -6859,7 +6891,7 @@
 <units>
 <unit>ogai_mori-6</unit>
 <unit_shorthand>Ogai Mori 6★</unit_shorthand>
-<unit_full_title>死考する罪舟 森鴎外</unit_full_title>
+<unit_full_title>Sailing Sins Ogai Mori</unit_full_title>
 <origin>In Regards to Life</origin>
 <cost>53</cost>
 <search_name>Ogai Mori 6</search_name>
@@ -7739,7 +7771,7 @@
 <units>
 <unit>winchester-5</unit>
 <unit_shorthand>Winchester 5★</unit_shorthand>
-<unit_full_title>ウィンチェスター</unit_full_title>
+<unit_full_title>Winchester</unit_full_title>
 <origin>Disappear, Adapter</origin>
 <cost>53</cost>
 <search_name>Winchester 5</search_name>
@@ -7747,7 +7779,7 @@
 <units>
 <unit>winchester-6</unit>
 <unit_shorthand>Winchester 6★</unit_shorthand>
-<unit_full_title>宿讐の剛銃身 ウィンチェスター</unit_full_title>
+<unit_full_title>Firearm Vengeance Winchester</unit_full_title>
 <origin>Disappear, Adapter</origin>
 <cost>53</cost>
 <search_name>Winchester 6</search_name>
@@ -7831,6 +7863,22 @@
 <origin>Kamo-chan&apos;s Dreamy Hospitality</origin>
 <cost>53</cost>
 <search_name>Cultural Festival Serizawa Kamo 6</search_name>
+</units>
+<units>
+<unit>lady_happy-5</unit>
+<unit_shorthand>Lady Happy 5★</unit_shorthand>
+<unit_full_title>レディ・ハッピー</unit_full_title>
+<origin>Caressing ♡ Lady Happy</origin>
+<cost>53</cost>
+<search_name>Lady Happy 5</search_name>
+</units>
+<units>
+<unit>lady_happy-6</unit>
+<unit_shorthand>Lady Happy 6★</unit_shorthand>
+<unit_full_title>柔包の優姉心 レディ・ハッピー</unit_full_title>
+<origin>Caressing ♡ Lady Happy</origin>
+<cost>53</cost>
+<search_name>Lady Happy 6</search_name>
 </units>
 <units>
 <unit>zhong_kui-5</unit>
@@ -10451,7 +10499,7 @@
 <units>
 <unit>akiko_yosano-5</unit>
 <unit_shorthand>Akiko Yosano 5★</unit_shorthand>
-<unit_full_title>与謝野晶子</unit_full_title>
+<unit_full_title>Akiko Yosano</unit_full_title>
 <origin>In Regards to Love</origin>
 <cost>48</cost>
 <search_name>Akiko Yosano 5</search_name>
@@ -10459,7 +10507,7 @@
 <units>
 <unit>akiko_yosano-6</unit>
 <unit_shorthand>Akiko Yosano 6★</unit_shorthand>
-<unit_full_title>恋詠の逢女 与謝野晶子</unit_full_title>
+<unit_full_title>Affair With Love Akiko Yosano</unit_full_title>
 <origin>In Regards to Love</origin>
 <cost>48</cost>
 <search_name>Akiko Yosano 6</search_name>
