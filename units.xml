@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-11-16T14:25:31">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-11-19T14:26:40">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -3263,6 +3263,22 @@
 <origin>Minamoto no Yoritomo Invades!</origin>
 <cost>58</cost>
 <search_name>Minamoto no Yoritomo 6</search_name>
+</units>
+<units>
+<unit>leonidas-5</unit>
+<unit_shorthand>Leonidas 5★</unit_shorthand>
+<unit_full_title>レオニダス</unit_full_title>
+<origin>Leonidas Invades!</origin>
+<cost>58</cost>
+<search_name>Leonidas 5</search_name>
+</units>
+<units>
+<unit>leonidas-6</unit>
+<unit_shorthand>Leonidas 6★</unit_shorthand>
+<unit_full_title>筋弾の社軍長 レオニダス</unit_full_title>
+<origin>Leonidas Invades!</origin>
+<cost>58</cost>
+<search_name>Leonidas 6</search_name>
 </units>
 <units>
 <unit>taowu-5</unit>
