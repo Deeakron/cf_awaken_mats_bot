@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-11-19T14:26:40">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-11-24T15:32:30">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -6929,6 +6929,22 @@
 <search_name>Griffon &amp; Turtle 6</search_name>
 </units>
 <units>
+<unit>akiko_yosano-5</unit>
+<unit_shorthand>Akiko Yosano 5★</unit_shorthand>
+<unit_full_title>Akiko Yosano</unit_full_title>
+<origin>In Regards to Love</origin>
+<cost>53</cost>
+<search_name>Akiko Yosano 5</search_name>
+</units>
+<units>
+<unit>akiko_yosano-6</unit>
+<unit_shorthand>Akiko Yosano 6★</unit_shorthand>
+<unit_full_title>Affair With Love Akiko Yosano</unit_full_title>
+<origin>In Regards to Love</origin>
+<cost>53</cost>
+<search_name>Akiko Yosano 6</search_name>
+</units>
+<units>
 <unit>ogai_mori-5</unit>
 <unit_shorthand>Ogai Mori 5★</unit_shorthand>
 <unit_full_title>Ogai Mori</unit_full_title>
@@ -10559,22 +10575,6 @@
 <origin>Qualifying Target D</origin>
 <cost>48</cost>
 <search_name>Dormouse 6</search_name>
-</units>
-<units>
-<unit>akiko_yosano-5</unit>
-<unit_shorthand>Akiko Yosano 5★</unit_shorthand>
-<unit_full_title>Akiko Yosano</unit_full_title>
-<origin>In Regards to Love</origin>
-<cost>48</cost>
-<search_name>Akiko Yosano 5</search_name>
-</units>
-<units>
-<unit>akiko_yosano-6</unit>
-<unit_shorthand>Akiko Yosano 6★</unit_shorthand>
-<unit_full_title>Affair With Love Akiko Yosano</unit_full_title>
-<origin>In Regards to Love</origin>
-<cost>48</cost>
-<search_name>Akiko Yosano 6</search_name>
 </units>
 <units>
 <unit>idol_pati_praline-5</unit>
