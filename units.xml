@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-11-24T15:32:30">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-11-29T15:02:11">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -359,6 +359,22 @@
 <origin>Rise of the Abomination</origin>
 <cost>68</cost>
 <search_name>Abomination 6</search_name>
+</units>
+<units>
+<unit>abomination-condense</unit>
+<unit_shorthand>Abomination Condensation</unit_shorthand>
+<unit_full_title>災害凝縮：アボミネーション</unit_full_title>
+<origin>Rise of the Abomination (Ultimate Disaster)</origin>
+<cost>68</cost>
+<search_name>Abomination Condensation</search_name>
+</units>
+<units>
+<unit>abomination-ex</unit>
+<unit_shorthand>Abomination EX</unit_shorthand>
+<unit_full_title>災害類・怪I型 アボミネーション</unit_full_title>
+<origin>Rise of the Abomination (Ultimate Disaster)</origin>
+<cost>68</cost>
+<search_name>Abomination EX</search_name>
 </units>
 <units>
 <unit>erosion-5</unit>
@@ -2531,15 +2547,15 @@
 <units>
 <unit>hw_day_joule</unit>
 <unit_shorthand>Halloween Day Joule</unit_shorthand>
-<unit_full_title>明装纏う洋灯姫 ジュール</unit_full_title>
-<origin>White Light Elegant</origin>
+<unit_full_title>Light Lantern Princess Joule</unit_full_title>
+<origin>White Light Elegance</origin>
 <cost>63</cost>
 <search_name>Halloween Day Joule</search_name>
 </units>
 <units>
 <unit>hw_night_joule</unit>
 <unit_shorthand>Halloween Night Joule</unit_shorthand>
-<unit_full_title>夜装纏う魂霊姫 ジュール</unit_full_title>
+<unit_full_title>Dark Spirit Princess Joule</unit_full_title>
 <origin>Black Night Surprise</origin>
 <cost>63</cost>
 <search_name>Halloween Night Joule</search_name>
@@ -4715,7 +4731,7 @@
 <units>
 <unit>hw_day_hannibal</unit>
 <unit_shorthand>Halloween Day Hannibal</unit_shorthand>
-<unit_full_title>明宴の楽憩家 ハンニバル</unit_full_title>
+<unit_full_title>Ghostly Party Hannibal</unit_full_title>
 <origin>Treat Light Halloween</origin>
 <cost>58</cost>
 <search_name>Halloween Day Hannibal</search_name>
@@ -4723,7 +4739,7 @@
 <units>
 <unit>hw_night_hannibal</unit>
 <unit_shorthand>Halloween Night Hannibal</unit_shorthand>
-<unit_full_title>戯術の縫痕霊 ハンニバル</unit_full_title>
+<unit_full_title>Trickery Stitchery Hannibal</unit_full_title>
 <origin>Trick Night Franken</origin>
 <cost>58</cost>
 <search_name>Halloween Night Hannibal</search_name>
@@ -7899,16 +7915,16 @@
 <units>
 <unit>hw_day_senko</unit>
 <unit_shorthand>Halloween Day Senko</unit_shorthand>
-<unit_full_title>招宴の色誘狐 センコ</unit_full_title>
-<origin>Colorful Fox Enjoying the Day Festival</origin>
+<unit_full_title>Charming Fox Invitation Senko</unit_full_title>
+<origin>Charm Day Fox</origin>
 <cost>53</cost>
 <search_name>Halloween Day Senko</search_name>
 </units>
 <units>
 <unit>hw_night_senko</unit>
 <unit_shorthand>Halloween Night Senko</unit_shorthand>
-<unit_full_title>参宴の艶戯狐 センコ</unit_full_title>
-<origin>Seductive Fox Enjoying the Night Festival</origin>
+<unit_full_title>Bewitching Fox Attendance Senko</unit_full_title>
+<origin>Bewitching Night Fox</origin>
 <cost>53</cost>
 <search_name>Halloween Night Senko</search_name>
 </units>
@@ -14403,7 +14419,7 @@
 <units>
 <unit>hw_program</unit>
 <unit_shorthand>Halloween Trick Program</unit_shorthand>
-<unit_full_title>ハロウィン・トリックプログラム</unit_full_title>
+<unit_full_title>Halloween Trick Program</unit_full_title>
 <origin>JP Halloween 2021 Exchange</origin>
 <cost>99</cost>
 <search_name>Halloween Trick Program</search_name>
