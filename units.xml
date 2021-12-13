@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-11-30T14:21:36">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-12-13T14:51:30">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -2531,32 +2531,32 @@
 <units>
 <unit>darius-5</unit>
 <unit_shorthand>Darius 5★</unit_shorthand>
-<unit_full_title>ダレイオス</unit_full_title>
-<origin>The Great King</origin>
+<unit_full_title>Darius</unit_full_title>
+<origin>My Great Little King</origin>
 <cost>63</cost>
 <search_name>Darius 5</search_name>
 </units>
 <units>
 <unit>darius-6</unit>
 <unit_shorthand>Darius 6★</unit_shorthand>
-<unit_full_title>世帰の大破王 ダレイオス</unit_full_title>
-<origin>The Great King</origin>
+<unit_full_title>Revival of Great King Darius</unit_full_title>
+<origin>My Great Little King</origin>
 <cost>63</cost>
 <search_name>Darius 6</search_name>
 </units>
 <units>
 <unit>apple_queen-5</unit>
 <unit_shorthand>Apple Queen 5★</unit_shorthand>
-<unit_full_title>アップルクイーン</unit_full_title>
-<origin>Forest Control ★ Queen of Fruits!</origin>
+<unit_full_title>Apple Queen</unit_full_title>
+<origin>Ruler ★ Fruit Queen!</origin>
 <cost>63</cost>
 <search_name>Apple Queen 5</search_name>
 </units>
 <units>
 <unit>apple_queen-6</unit>
 <unit_shorthand>Apple Queen 6★</unit_shorthand>
-<unit_full_title>恵森統べる紅林檎 アップルクイーン</unit_full_title>
-<origin>Forest Control ★ Queen of Fruits!</origin>
+<unit_full_title>Ruby Reign Fruition Apple Queen</unit_full_title>
+<origin>Ruler ★ Fruit Queen!</origin>
 <cost>63</cost>
 <search_name>Apple Queen 6</search_name>
 </units>
@@ -2623,6 +2623,22 @@
 <origin>Unidentified</origin>
 <cost>63</cost>
 <search_name>Domino 6</search_name>
+</units>
+<units>
+<unit>xmas_yao_bikuni-5</unit>
+<unit_shorthand>Christmas Yao Bikuni 5★</unit_shorthand>
+<unit_full_title>幼脅の母征 八百比丘尼</unit_full_title>
+<origin>Master of Smiles</origin>
+<cost>63</cost>
+<search_name>Christmas Yao Bikuni 5</search_name>
+</units>
+<units>
+<unit>xmas_yao_bikuni-6</unit>
+<unit_shorthand>Christmas Yao Bikuni 6★</unit_shorthand>
+<unit_full_title>棒激の幼聖母 八百比丘尼</unit_full_title>
+<origin>Master of Smiles</origin>
+<cost>63</cost>
+<search_name>Christmas Yao Bikuni 6</search_name>
 </units>
 <units>
 <unit>hw_malthus-6</unit>
@@ -4715,32 +4731,32 @@
 <units>
 <unit>dosan_saito-5</unit>
 <unit_shorthand>Dōsan Saitō 5★</unit_shorthand>
-<unit_full_title>斎藤道三</unit_full_title>
-<origin>Deadly Poisonous Giant</origin>
+<unit_full_title>Dosan Saito</unit_full_title>
+<origin>Venomous Giant</origin>
 <cost>58</cost>
 <search_name>Dosan Saito 5</search_name>
 </units>
 <units>
 <unit>dosan_saito-6</unit>
 <unit_shorthand>Dōsan Saitō 6★</unit_shorthand>
-<unit_full_title>蝮権の老巨将 斎藤道三</unit_full_title>
-<origin>Deadly Poisonous Giant</origin>
+<unit_full_title>Viper General Dosan Saito</unit_full_title>
+<origin>Venomous Giant</origin>
 <cost>58</cost>
 <search_name>Dosan Saito 6</search_name>
 </units>
 <units>
 <unit>harvest_amala-5</unit>
 <unit_shorthand>Harvest Festival Amala 5★</unit_shorthand>
-<unit_full_title>誤選の果実食姫 アマラ</unit_full_title>
-<origin>Forest Prisoner ★ Harvester Hunter!</origin>
+<unit_full_title>Mistaken Taste Princess Amala</unit_full_title>
+<origin>Trap ★ Harvester Hunter!</origin>
 <cost>58</cost>
 <search_name>Harvest Festival Amala 5</search_name>
 </units>
 <units>
 <unit>harvest_amala-6</unit>
 <unit_shorthand>Harvest Festival Amala 6★</unit_shorthand>
-<unit_full_title>惑中の果実守姫 アマラ</unit_full_title>
-<origin>Forest Prisoner ★ Harvester Hunter!</origin>
+<unit_full_title>Trapped Defender Princess Amala</unit_full_title>
+<origin>Trap ★ Harvester Hunter!</origin>
 <cost>58</cost>
 <search_name>Harvest Festival Amala 6</search_name>
 </units>
@@ -4807,6 +4823,22 @@
 <origin>Robust Savagery</origin>
 <cost>58</cost>
 <search_name>Lee 6</search_name>
+</units>
+<units>
+<unit>xmas_match-selling_girl-5</unit>
+<unit_shorthand>Christmas Match-Selling Girl 5★</unit_shorthand>
+<unit_full_title>喜待の菓燃 マッチ売りの少女</unit_full_title>
+<origin>Bomb-Delivering Santa Claus</origin>
+<cost>58</cost>
+<search_name>Christmas Match-Selling Girl 5</search_name>
+</units>
+<units>
+<unit>xmas_match-selling_girl-6</unit>
+<unit_shorthand>Christmas Match-Selling Girl 6★</unit_shorthand>
+<unit_full_title>爆飾の菓装台 マッチ売りの少女</unit_full_title>
+<origin>Bomb-Delivering Santa Claus</origin>
+<cost>58</cost>
+<search_name>Christmas Match-Selling Girl 6</search_name>
 </units>
 <units>
 <unit>fude_zhengshen_2020-5</unit>
@@ -7899,7 +7931,7 @@
 <units>
 <unit>xerxes-5</unit>
 <unit_shorthand>Xerxes 5★</unit_shorthand>
-<unit_full_title>クセルクセス</unit_full_title>
+<unit_full_title>Xerxes</unit_full_title>
 <origin>Cracker&apos;s Nightmare</origin>
 <cost>53</cost>
 <search_name>Xerxes 5</search_name>
@@ -7907,7 +7939,7 @@
 <units>
 <unit>xerxes-6</unit>
 <unit_shorthand>Xerxes 6★</unit_shorthand>
-<unit_full_title>復朝の嬌謀 クセルクセス</unit_full_title>
+<unit_full_title>Returned Conspiracy Xerxes</unit_full_title>
 <origin>Cracker&apos;s Nightmare</origin>
 <cost>53</cost>
 <search_name>Xerxes 6</search_name>
@@ -7915,16 +7947,16 @@
 <units>
 <unit>apple_leaf-5</unit>
 <unit_shorthand>Apple Leaf 5★</unit_shorthand>
-<unit_full_title>アップルリーフ</unit_full_title>
-<origin>Forest Defense ★ Fruit Leaves!</origin>
+<unit_full_title>Apple Leaf</unit_full_title>
+<origin>Guard ★ Fruit Leaf!</origin>
 <cost>53</cost>
 <search_name>Apple Leaf 5</search_name>
 </units>
 <units>
 <unit>apple_leaf-6</unit>
 <unit_shorthand>Apple Leaf 6★</unit_shorthand>
-<unit_full_title>恵森の林檎衛 アップルリーフ</unit_full_title>
-<origin>Forest Defense ★ Fruit Leaves!</origin>
+<unit_full_title>Fruitful Forest Guard Apple Leaf</unit_full_title>
+<origin>Guard ★ Fruit Leaf!</origin>
 <cost>53</cost>
 <search_name>Apple Leaf 6</search_name>
 </units>
@@ -7991,6 +8023,22 @@
 <origin>Ring the Gong</origin>
 <cost>53</cost>
 <search_name>Stonewall 6</search_name>
+</units>
+<units>
+<unit>xmas_gareth-5</unit>
+<unit_shorthand>Christmas Gareth 5★</unit_shorthand>
+<unit_full_title>聖域・擁意 ガレス</unit_full_title>
+<origin>Evil Reindeer</origin>
+<cost>53</cost>
+<search_name>Christmas Gareth 5</search_name>
+</units>
+<units>
+<unit>xmas_gareth-6</unit>
+<unit_shorthand>Christmas Gareth 6★</unit_shorthand>
+<unit_full_title>聖演・想親呈 ガレス</unit_full_title>
+<origin>Evil Reindeer</origin>
+<cost>53</cost>
+<search_name>Christmas Gareth 6</search_name>
 </units>
 <units>
 <unit>zhong_kui-5</unit>
