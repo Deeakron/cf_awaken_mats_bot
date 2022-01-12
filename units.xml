@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-12-13T14:51:30">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2022-01-11T19:15:01">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -377,6 +377,22 @@
 <search_name>Abomination EX</search_name>
 </units>
 <units>
+<unit>b-abomination-5</unit>
+<unit_shorthand>Variant-B Abomination 5★</unit_shorthand>
+<unit_full_title>亜種-B アボミネーション</unit_full_title>
+<origin>Rise of the Variant-B Abomination</origin>
+<cost>68</cost>
+<search_name>Variant-B Abomination 5</search_name>
+</units>
+<units>
+<unit>b-abomination-6</unit>
+<unit_shorthand>Variant-B Abomination 6★</unit_shorthand>
+<unit_full_title>災害類I型亜種-B アボミネーション</unit_full_title>
+<origin>Rise of the Variant-B Abomination</origin>
+<cost>68</cost>
+<search_name>Variant-B Abomination 6</search_name>
+</units>
+<units>
 <unit>erosion-5</unit>
 <unit_shorthand>Erosion 5★</unit_shorthand>
 <unit_full_title>Erosion</unit_full_title>
@@ -407,6 +423,22 @@
 <origin>Erosion Appears! (Ultimate Disaster)</origin>
 <cost>68</cost>
 <search_name>Erosion EX</search_name>
+</units>
+<units>
+<unit>y-erosion-5</unit>
+<unit_shorthand>Variant-Y Erosion 5★</unit_shorthand>
+<unit_full_title>亜種-Y イロゥジョン</unit_full_title>
+<origin>Variant-Y Erosion Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-Y Erosion 5</search_name>
+</units>
+<units>
+<unit>y-erosion-6</unit>
+<unit_shorthand>Variant-Y Erosion 6★</unit_shorthand>
+<unit_full_title>災害類II型亜種-Y イロゥジョン</unit_full_title>
+<origin>Variant-Y Erosion Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-Y Erosion 6</search_name>
 </units>
 <units>
 <unit>distortion-5</unit>
@@ -441,6 +473,22 @@
 <search_name>Distortion EX</search_name>
 </units>
 <units>
+<unit>g-distortion-5</unit>
+<unit_shorthand>Variant-G Distortion 5★</unit_shorthand>
+<unit_full_title>亜種-G ディストーション</unit_full_title>
+<origin>Variant-G Distortion Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-G Distortion 5</search_name>
+</units>
+<units>
+<unit>g-distortion-6</unit>
+<unit_shorthand>Variant-G Distortion 6★</unit_shorthand>
+<unit_full_title>災害類III型亜種-G ディストーション</unit_full_title>
+<origin>Variant-G Distortion Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-G Distortion 6</search_name>
+</units>
+<units>
 <unit>fraud-5</unit>
 <unit_shorthand>Fraud 5★</unit_shorthand>
 <unit_full_title>Fraud</unit_full_title>
@@ -455,6 +503,22 @@
 <origin>Fraud Appears!</origin>
 <cost>68</cost>
 <search_name>Fraud 6</search_name>
+</units>
+<units>
+<unit>y-fraud-5</unit>
+<unit_shorthand>Variant-Y Fraud 5★</unit_shorthand>
+<unit_full_title>亜種-Y フロード</unit_full_title>
+<origin>Variant-Y Fraud Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-Y Fraud 5</search_name>
+</units>
+<units>
+<unit>y-fraud-6</unit>
+<unit_shorthand>Variant-Y Fraud 6★</unit_shorthand>
+<unit_full_title>災害類IV型亜種-Y フロード</unit_full_title>
+<origin>Variant-Y Fraud Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-Y Fraud 6</search_name>
 </units>
 <units>
 <unit>despair-5</unit>
@@ -473,6 +537,38 @@
 <search_name>Despair 6</search_name>
 </units>
 <units>
+<unit>despair-condense</unit>
+<unit_shorthand>Despair Condensation</unit_shorthand>
+<unit_full_title>災害凝縮：ディスペァ</unit_full_title>
+<origin>Despair Appears! (Ultimate Disaster)</origin>
+<cost>68</cost>
+<search_name>Despair Condensation</search_name>
+</units>
+<units>
+<unit>despair-ex</unit>
+<unit_shorthand>Despair EX</unit_shorthand>
+<unit_full_title>災害類・怪V型 ディスペァ</unit_full_title>
+<origin>Despair Appears! (Ultimate Disaster)</origin>
+<cost>68</cost>
+<search_name>Despair EX</search_name>
+</units>
+<units>
+<unit>r-despair-5</unit>
+<unit_shorthand>Variant-R Despair 5★</unit_shorthand>
+<unit_full_title>亜種-R ディスペァ</unit_full_title>
+<origin>Variant-R Despair Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-R Despair 5</search_name>
+</units>
+<units>
+<unit>r-despair-6</unit>
+<unit_shorthand>Variant-R Despair 6★</unit_shorthand>
+<unit_full_title>災害類V型亜種-R ディスペァ</unit_full_title>
+<origin>Variant-R Despair Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-R Despair 6</search_name>
+</units>
+<units>
 <unit>folter-5</unit>
 <unit_shorthand>Folter 5★</unit_shorthand>
 <unit_full_title>Folter</unit_full_title>
@@ -487,6 +583,22 @@
 <origin>Folter Appears!</origin>
 <cost>68</cost>
 <search_name>Folter 6</search_name>
+</units>
+<units>
+<unit>g-folter-5</unit>
+<unit_shorthand>Variant-G Folter 5★</unit_shorthand>
+<unit_full_title>亜種-G フォルタ</unit_full_title>
+<origin>Variant-G Folter Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-G Folter 5</search_name>
+</units>
+<units>
+<unit>g-folter-6</unit>
+<unit_shorthand>Variant-G Folter 6★</unit_shorthand>
+<unit_full_title>災害類VI型亜種-G フォルタ</unit_full_title>
+<origin>Variant-G Folter Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-G Folter 6</search_name>
 </units>
 <units>
 <unit>anaat-5</unit>
@@ -505,6 +617,22 @@
 <search_name>Anaat 6</search_name>
 </units>
 <units>
+<unit>r-anaat-5</unit>
+<unit_shorthand>Variant-R Anaat 5★</unit_shorthand>
+<unit_full_title>亜種-R アナァト</unit_full_title>
+<origin>Variant-R Anaat Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-R Anaat 5</search_name>
+</units>
+<units>
+<unit>r-anaat-6</unit>
+<unit_shorthand>Variant-R Anaat 6★</unit_shorthand>
+<unit_full_title>災害類VII型亜種-R アナァト</unit_full_title>
+<origin>Variant-R Anaat Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-R Anaat 6</search_name>
+</units>
+<units>
 <unit>tehom-5</unit>
 <unit_shorthand>Tehom 5★</unit_shorthand>
 <unit_full_title>Tehom</unit_full_title>
@@ -519,6 +647,22 @@
 <origin>Tehom Appears!</origin>
 <cost>68</cost>
 <search_name>Tehom 6</search_name>
+</units>
+<units>
+<unit>b-tehom-5</unit>
+<unit_shorthand>Variant-B Tehom 5★</unit_shorthand>
+<unit_full_title>亜種-B テホム</unit_full_title>
+<origin>Variant-B Tehom Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-B Tehom 5</search_name>
+</units>
+<units>
+<unit>b-tehom-6</unit>
+<unit_shorthand>Variant-B Tehom 6★</unit_shorthand>
+<unit_full_title>災害類VIII型亜種-B テホム</unit_full_title>
+<origin>Variant-B Tehom Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-B Tehom 6</search_name>
 </units>
 <units>
 <unit>insanity-5</unit>
@@ -537,6 +681,22 @@
 <search_name>Insanity 6</search_name>
 </units>
 <units>
+<unit>g-insanity-5</unit>
+<unit_shorthand>Variant-G Insanity 5★</unit_shorthand>
+<unit_full_title>亜種-G インサニティ</unit_full_title>
+<origin>Variant-G Insanity Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-G Insanity 5</search_name>
+</units>
+<units>
+<unit>g-insanity-6</unit>
+<unit_shorthand>Variant-G Insanity 6★</unit_shorthand>
+<unit_full_title>災害類IX型亜種-G インサニティ</unit_full_title>
+<origin>Variant-G Insanity Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-G Insanity 6</search_name>
+</units>
+<units>
 <unit>pillage-5</unit>
 <unit_shorthand>Pillage 5★</unit_shorthand>
 <unit_full_title>Pillage</unit_full_title>
@@ -551,6 +711,22 @@
 <origin>Pillage Appears!</origin>
 <cost>68</cost>
 <search_name>Pillage 6</search_name>
+</units>
+<units>
+<unit>b-pillage-5</unit>
+<unit_shorthand>Variant-B Pillage 5★</unit_shorthand>
+<unit_full_title>亜種-B ピリジ</unit_full_title>
+<origin>Variant-B Pillage Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-B Pillage 5</search_name>
+</units>
+<units>
+<unit>b-pillage-6</unit>
+<unit_shorthand>Variant-B Pillage 6★</unit_shorthand>
+<unit_full_title>災害類X型亜種-B ピリジ</unit_full_title>
+<origin>Variant-B Pillage Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-B Pillage 6</search_name>
 </units>
 <units>
 <unit>crave-5</unit>
@@ -569,6 +745,22 @@
 <search_name>Crave 6</search_name>
 </units>
 <units>
+<unit>y-crave-5</unit>
+<unit_shorthand>Variant-Y Crave 5★</unit_shorthand>
+<unit_full_title>亜種-Y クレイヴ</unit_full_title>
+<origin>Variant-Y Crave Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-Y Crave 5</search_name>
+</units>
+<units>
+<unit>y-crave-6</unit>
+<unit_shorthand>Variant-Y Crave 6★</unit_shorthand>
+<unit_full_title>災害類XI型亜種-Y クレイヴ</unit_full_title>
+<origin>Variant-Y Crave Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-Y Crave 6</search_name>
+</units>
+<units>
 <unit>purge-5</unit>
 <unit_shorthand>Purge 5★</unit_shorthand>
 <unit_full_title>Purge</unit_full_title>
@@ -583,6 +775,22 @@
 <origin>Purge Appears!</origin>
 <cost>68</cost>
 <search_name>Purge 6</search_name>
+</units>
+<units>
+<unit>r-purge-5</unit>
+<unit_shorthand>Variant-R Purge 5★</unit_shorthand>
+<unit_full_title>亜種-R パージ</unit_full_title>
+<origin>Variant-R Purge Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-R Purge 5</search_name>
+</units>
+<units>
+<unit>r-purge-6</unit>
+<unit_shorthand>Variant-R Purge 6★</unit_shorthand>
+<unit_full_title>災害類XII型亜種-R パージ</unit_full_title>
+<origin>Variant-R Purge Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-R Purge 6</search_name>
 </units>
 <units>
 <unit>innocent-5</unit>
@@ -601,6 +809,22 @@
 <search_name>Innocent 6</search_name>
 </units>
 <units>
+<unit>g-innocent-5</unit>
+<unit_shorthand>Variant-G Innocent 5★</unit_shorthand>
+<unit_full_title>亜種-G イノセント</unit_full_title>
+<origin>Variant-G Innocent Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-G Innocent 5</search_name>
+</units>
+<units>
+<unit>g-innocent-6</unit>
+<unit_shorthand>Variant-G Innocent 6★</unit_shorthand>
+<unit_full_title>災害類XIII型亜種-G イノセント</unit_full_title>
+<origin>Variant-G Innocent Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-G Innocent 6</search_name>
+</units>
+<units>
 <unit>visitation-5</unit>
 <unit_shorthand>Visitation 5★</unit_shorthand>
 <unit_full_title>ヴィジテーション</unit_full_title>
@@ -615,6 +839,22 @@
 <origin>Visitation Appears!</origin>
 <cost>68</cost>
 <search_name>Visitation 6</search_name>
+</units>
+<units>
+<unit>b-visitation-5</unit>
+<unit_shorthand>Variant-B Visitation 5★</unit_shorthand>
+<unit_full_title>亜種-B ヴィジテーション</unit_full_title>
+<origin>Variant-B Visitation Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-B Visitation 5</search_name>
+</units>
+<units>
+<unit>b-visitation-6</unit>
+<unit_shorthand>Variant-B Visitation 6★</unit_shorthand>
+<unit_full_title>災害類XIV型亜種-B ヴィジテーション</unit_full_title>
+<origin>Variant-B Visitation Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-B Visitation 6</search_name>
 </units>
 <units>
 <unit>vacuity-5</unit>
@@ -633,6 +873,22 @@
 <search_name>Vacuity 6</search_name>
 </units>
 <units>
+<unit>y-vacuity-5</unit>
+<unit_shorthand>Variant-Y Vacuity 5★</unit_shorthand>
+<unit_full_title>亜種-Y ヴァキュイティー</unit_full_title>
+<origin>Variant-Y Vacuity Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-Y Vacuity 5</search_name>
+</units>
+<units>
+<unit>y-vacuity-6</unit>
+<unit_shorthand>Variant-Y Vacuity 6★</unit_shorthand>
+<unit_full_title>災害類XV型亜種-Y ヴァキュイティー</unit_full_title>
+<origin>Variant-Y Vacuity Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-Y Vacuity 6</search_name>
+</units>
+<units>
 <unit>grudge-5</unit>
 <unit_shorthand>Grudge 5★</unit_shorthand>
 <unit_full_title>グラッジ</unit_full_title>
@@ -647,6 +903,22 @@
 <origin>Grudge Appears!</origin>
 <cost>68</cost>
 <search_name>Grudge 6</search_name>
+</units>
+<units>
+<unit>r-grudge-5</unit>
+<unit_shorthand>Variant-R Grudge 5★</unit_shorthand>
+<unit_full_title>亜種-R グラッジ</unit_full_title>
+<origin>Variant-R Grudge Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-R Grudge 5</search_name>
+</units>
+<units>
+<unit>r-grudge-6</unit>
+<unit_shorthand>Variant-R Grudge 6★</unit_shorthand>
+<unit_full_title>災害類XVI型亜種-R グラッジ</unit_full_title>
+<origin>Variant-R Grudge Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-R Grudge 6</search_name>
 </units>
 <units>
 <unit>sacrifice-5</unit>
@@ -665,6 +937,22 @@
 <search_name>Sacrifice 6</search_name>
 </units>
 <units>
+<unit>r-sacrifice-5</unit>
+<unit_shorthand>Variant-R Sacrifice 5★</unit_shorthand>
+<unit_full_title>亜種-R サクリファイス</unit_full_title>
+<origin>Variant-R Sacrifice Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-R Sacrifice 5</search_name>
+</units>
+<units>
+<unit>r-sacrifice-6</unit>
+<unit_shorthand>Variant-R Sacrifice 6★</unit_shorthand>
+<unit_full_title>災害類XVII型亜種-R サクリファイス</unit_full_title>
+<origin>Variant-R Sacrifice Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-R Sacrifice 6</search_name>
+</units>
+<units>
 <unit>ravage-5</unit>
 <unit_shorthand>Ravage 5★</unit_shorthand>
 <unit_full_title>ラヴィジ</unit_full_title>
@@ -679,6 +967,22 @@
 <origin>Ravage Appears!</origin>
 <cost>68</cost>
 <search_name>Ravage 6</search_name>
+</units>
+<units>
+<unit>b-ravage-5</unit>
+<unit_shorthand>Variant-B Ravage 5★</unit_shorthand>
+<unit_full_title>亜種-B ラヴィジ</unit_full_title>
+<origin>Variant-B Ravage Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-B Ravage 5</search_name>
+</units>
+<units>
+<unit>b-ravage-6</unit>
+<unit_shorthand>Variant-B Ravage 6★</unit_shorthand>
+<unit_full_title>災害類XVIII型亜種-B ラヴィジ</unit_full_title>
+<origin>Variant-B Ravage Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-B Ravage 6</search_name>
 </units>
 <units>
 <unit>blasphemy-5</unit>
@@ -697,6 +1001,22 @@
 <search_name>Blasphemy 6</search_name>
 </units>
 <units>
+<unit>b-blasphemy-5</unit>
+<unit_shorthand>Variant-B Blasphemy 5★</unit_shorthand>
+<unit_full_title>亜種-B ブラスフェミー</unit_full_title>
+<origin>Variant-B Blasphemy Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-B Blasphemy 5</search_name>
+</units>
+<units>
+<unit>b-blasphemy-6</unit>
+<unit_shorthand>Variant-B Blasphemy 6★</unit_shorthand>
+<unit_full_title>災害類XIX型亜種-B ブラスフェミー</unit_full_title>
+<origin>Variant-B Blasphemy Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-B Blasphemy 6</search_name>
+</units>
+<units>
 <unit>nefarious-5</unit>
 <unit_shorthand>Nefarious 5★</unit_shorthand>
 <unit_full_title>ネファリアス</unit_full_title>
@@ -711,6 +1031,22 @@
 <origin>Nefarious Appears!</origin>
 <cost>68</cost>
 <search_name>Nefarious 6</search_name>
+</units>
+<units>
+<unit>g-nefarious-5</unit>
+<unit_shorthand>Variant-G Nefarious 5★</unit_shorthand>
+<unit_full_title>亜種-G ネファリアス</unit_full_title>
+<origin>Variant-G Nefarious Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-G Nefarious 5</search_name>
+</units>
+<units>
+<unit>g-nefarious-6</unit>
+<unit_shorthand>Variant-G Nefarious 6★</unit_shorthand>
+<unit_full_title>災害類XX型亜種-G ネファリアス</unit_full_title>
+<origin>Variant-G Nefarious Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-G Nefarious 6</search_name>
 </units>
 <units>
 <unit>impure-5</unit>
@@ -729,6 +1065,22 @@
 <search_name>Impure 6</search_name>
 </units>
 <units>
+<unit>y-impure-5</unit>
+<unit_shorthand>Variant-Y Impure 5★</unit_shorthand>
+<unit_full_title>亜種-Y インピュァ</unit_full_title>
+<origin>Variant-Y Impure Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-Y Impure 5</search_name>
+</units>
+<units>
+<unit>y-impure-6</unit>
+<unit_shorthand>Variant-Y Impure 6★</unit_shorthand>
+<unit_full_title>災害類XXI型亜種-Y インピュァ</unit_full_title>
+<origin>Variant-Y Impure Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-Y Impure 6</search_name>
+</units>
+<units>
 <unit>unknown-5</unit>
 <unit_shorthand>Unknown 5★</unit_shorthand>
 <unit_full_title>アンノウン</unit_full_title>
@@ -743,6 +1095,22 @@
 <origin>Unknown Appears!</origin>
 <cost>68</cost>
 <search_name>Unknown 6</search_name>
+</units>
+<units>
+<unit>r-unknown-5</unit>
+<unit_shorthand>Variant-R Unknown 5★</unit_shorthand>
+<unit_full_title>亜種-R アンノウン</unit_full_title>
+<origin>Variant-R Unknown Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-R Unknown 5</search_name>
+</units>
+<units>
+<unit>r-unknown-6</unit>
+<unit_shorthand>Variant-R Unknown 6★</unit_shorthand>
+<unit_full_title>災害類XXII型亜種-R アンノウン</unit_full_title>
+<origin>Variant-R Unknown Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-R Unknown 6</search_name>
 </units>
 <units>
 <unit>solitude-5</unit>
@@ -761,6 +1129,22 @@
 <search_name>Solitude 6</search_name>
 </units>
 <units>
+<unit>b-solitude-5</unit>
+<unit_shorthand>Variant-B Solitude 5★</unit_shorthand>
+<unit_full_title>亜種-B ソリテュード</unit_full_title>
+<origin>Variant-B Solitude Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-B Solitude 5</search_name>
+</units>
+<units>
+<unit>b-solitude-6</unit>
+<unit_shorthand>Variant-B Solitude 6★</unit_shorthand>
+<unit_full_title>災害類XXIII型亜種-B ソリテュード</unit_full_title>
+<origin>Variant-B Solitude Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-B Solitude 6</search_name>
+</units>
+<units>
 <unit>lure-5</unit>
 <unit_shorthand>Lure 5★</unit_shorthand>
 <unit_full_title>ルアー</unit_full_title>
@@ -775,6 +1159,22 @@
 <origin>Lure Appears!</origin>
 <cost>68</cost>
 <search_name>Lure 6</search_name>
+</units>
+<units>
+<unit>y-lure-5</unit>
+<unit_shorthand>Variant-Y Lure 5★</unit_shorthand>
+<unit_full_title>亜種-Y ルアー</unit_full_title>
+<origin>Variant-Y Lure Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-Y Lure 5</search_name>
+</units>
+<units>
+<unit>y-lure-6</unit>
+<unit_shorthand>Variant-Y Lure 6★</unit_shorthand>
+<unit_full_title>災害類XXIV型亜種-Y ルアー</unit_full_title>
+<origin>Variant-Y Lure Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-Y Lure 6</search_name>
 </units>
 <units>
 <unit>pressure-5</unit>
@@ -793,6 +1193,22 @@
 <search_name>Pressure 6</search_name>
 </units>
 <units>
+<unit>g-pressure-5</unit>
+<unit_shorthand>Variant-G Pressure 5★</unit_shorthand>
+<unit_full_title>亜種-G プレッシャー</unit_full_title>
+<origin>Variant-G Pressure Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-G Pressure 5</search_name>
+</units>
+<units>
+<unit>g-pressure-6</unit>
+<unit_shorthand>Variant-G Pressure 6★</unit_shorthand>
+<unit_full_title>災害類XXV型亜種-G プレッシャー</unit_full_title>
+<origin>Variant-G Pressure Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-G Pressure 6</search_name>
+</units>
+<units>
 <unit>secret-5</unit>
 <unit_shorthand>Secret 5★</unit_shorthand>
 <unit_full_title>シィクレット</unit_full_title>
@@ -807,6 +1223,22 @@
 <origin>Secret Appears!</origin>
 <cost>68</cost>
 <search_name>Secret 6</search_name>
+</units>
+<units>
+<unit>r-secret-5</unit>
+<unit_shorthand>Variant-R Secret 5★</unit_shorthand>
+<unit_full_title>亜種-R シィクレット</unit_full_title>
+<origin>Variant-R Secret Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-R Secret 5</search_name>
+</units>
+<units>
+<unit>r-secret-6</unit>
+<unit_shorthand>Variant-R Secret 6★</unit_shorthand>
+<unit_full_title>災害類XXVI型亜種-R シィクレット</unit_full_title>
+<origin>Variant-R Secret Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-R Secret 6</search_name>
 </units>
 <units>
 <unit>gloomy-5</unit>
@@ -825,6 +1257,22 @@
 <search_name>Gloomy 6</search_name>
 </units>
 <units>
+<unit>b-gloomy-5</unit>
+<unit_shorthand>Variant-B Gloomy 5★</unit_shorthand>
+<unit_full_title>亜種-Bグルーミィ</unit_full_title>
+<origin>Variant-B Gloomy Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-B Gloomy 5</search_name>
+</units>
+<units>
+<unit>b-gloomy-6</unit>
+<unit_shorthand>Variant-B Gloomy 6★</unit_shorthand>
+<unit_full_title>災害類XXVII型亜種-B グルーミィ</unit_full_title>
+<origin>Variant-B Gloomy Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-B Gloomy 6</search_name>
+</units>
+<units>
 <unit>evil-5</unit>
 <unit_shorthand>Evil 5★</unit_shorthand>
 <unit_full_title>イヴィル</unit_full_title>
@@ -839,6 +1287,22 @@
 <origin>Evil Appears!</origin>
 <cost>68</cost>
 <search_name>Evil 6</search_name>
+</units>
+<units>
+<unit>b-evil-5</unit>
+<unit_shorthand>Variant-B Evil 5★</unit_shorthand>
+<unit_full_title>亜種-B イヴィル</unit_full_title>
+<origin>Variant-B Evil Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-B Evil 5</search_name>
+</units>
+<units>
+<unit>b-evil-6</unit>
+<unit_shorthand>Variant-B Evil 6★</unit_shorthand>
+<unit_full_title>災害類XXVIII型亜種-B イヴィル</unit_full_title>
+<origin>Variant-B Evil Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-B Evil 6</search_name>
 </units>
 <units>
 <unit>hungry-5</unit>
@@ -857,6 +1321,22 @@
 <search_name>Hungry 6</search_name>
 </units>
 <units>
+<unit>y-hungry-5</unit>
+<unit_shorthand>Variant-Y Hungry 5★</unit_shorthand>
+<unit_full_title>亜種-Y ハングリィ</unit_full_title>
+<origin>Variant-Y Hungry Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-Y Hungry 5</search_name>
+</units>
+<units>
+<unit>y-hungry-6</unit>
+<unit_shorthand>Variant-Y Hungry 6★</unit_shorthand>
+<unit_full_title>災害類XXIX型亜種-Y ハングリィ</unit_full_title>
+<origin>Variant-Y Hungry Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-Y Hungry 6</search_name>
+</units>
+<units>
 <unit>strategy-5</unit>
 <unit_shorthand>Strategy 5★</unit_shorthand>
 <unit_full_title>ストラテジィ</unit_full_title>
@@ -873,6 +1353,22 @@
 <search_name>Strategy 6</search_name>
 </units>
 <units>
+<unit>y-strategy-5</unit>
+<unit_shorthand>Variant-Y Strategy 5★</unit_shorthand>
+<unit_full_title>亜種-Y ストラテジィ</unit_full_title>
+<origin>Variant-Y Strategy Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-Y Strategy 5</search_name>
+</units>
+<units>
+<unit>y-strategy-6</unit>
+<unit_shorthand>Variant-Y Strategy 6★</unit_shorthand>
+<unit_full_title>災害類XXX型亜種-Y ストラテジィ</unit_full_title>
+<origin>Variant-Y Strategy Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-Y Strategy 6</search_name>
+</units>
+<units>
 <unit>curious-5</unit>
 <unit_shorthand>Curious 5★</unit_shorthand>
 <unit_full_title>キュリァス</unit_full_title>
@@ -887,6 +1383,22 @@
 <origin>Curious Appears!</origin>
 <cost>68</cost>
 <search_name>Curious 6</search_name>
+</units>
+<units>
+<unit>g-curious-5</unit>
+<unit_shorthand>Variant-G Curious 5★</unit_shorthand>
+<unit_full_title>亜種-G キュリァス</unit_full_title>
+<origin>Variant-G Curious Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-G Curious 5</search_name>
+</units>
+<units>
+<unit>g-curious-6</unit>
+<unit_shorthand>Variant-G Curious 6★</unit_shorthand>
+<unit_full_title>災害類XXXI型亜種-G キュリァス</unit_full_title>
+<origin>Variant-G Curious Appears!</origin>
+<cost>68</cost>
+<search_name>Variant-G Curious 6</search_name>
 </units>
 <units>
 <unit>admonition-6</unit>
@@ -935,6 +1447,22 @@
 <origin>Vanities Appears!</origin>
 <cost>68</cost>
 <search_name>Vanities 6</search_name>
+</units>
+<units>
+<unit>trespass-6</unit>
+<unit_shorthand>Trespass 6★</unit_shorthand>
+<unit_full_title>災害類XXXV型 トゥレスパス</unit_full_title>
+<origin>Trespass Appears!</origin>
+<cost>68</cost>
+<search_name>Trespass 6</search_name>
+</units>
+<units>
+<unit>trespass-ex</unit>
+<unit_shorthand>Trespass EX</unit_shorthand>
+<unit_full_title>災害類・怪XXXV型 トゥレスパス</unit_full_title>
+<origin>Trespass Appears!</origin>
+<cost>68</cost>
+<search_name>Trespass EX</search_name>
 </units>
 <units>
 <unit>jupiter-ua-slave_core</unit>
@@ -1225,6 +1753,38 @@
 <search_name>Shen Gongbao UA</search_name>
 </units>
 <units>
+<unit>xmas_morgan-5</unit>
+<unit_shorthand>Christmas Morgan 5★</unit_shorthand>
+<unit_full_title>Innocent Morgan Dodecahedron</unit_full_title>
+<origin>Snow White Innocence</origin>
+<cost>68</cost>
+<search_name>Christmas Morgan 5</search_name>
+</units>
+<units>
+<unit>xmas_morgan-6</unit>
+<unit_shorthand>Christmas Morgan 6★</unit_shorthand>
+<unit_full_title>Holy White Star Morgan</unit_full_title>
+<origin>Snow White Innocence</origin>
+<cost>68</cost>
+<search_name>Christmas Morgan 6</search_name>
+</units>
+<units>
+<unit>the_unnamed-5</unit>
+<unit_shorthand>Satanic Malignant Trinity 5★</unit_shorthand>
+<unit_full_title>Soul Decay</unit_full_title>
+<origin>Progenies of the Original Sin</origin>
+<cost>68</cost>
+<search_name>Satanic Malignant Trinity 5</search_name>
+</units>
+<units>
+<unit>the_unnamed-6</unit>
+<unit_shorthand>Satanic Malignant Trinity 6★</unit_shorthand>
+<unit_full_title>Satanic Malignant Trinity</unit_full_title>
+<origin>Progenies of the Original Sin</origin>
+<cost>68</cost>
+<search_name>Satanic Malignant Trinity 6</search_name>
+</units>
+<units>
 <unit>wyatt_earp-5</unit>
 <unit_shorthand>Wyatt Earp 5★</unit_shorthand>
 <unit_full_title>ワイアット・アープ</unit_full_title>
@@ -1338,19 +1898,19 @@
 </units>
 <units>
 <unit>match-selling_girl-5</unit>
-<unit_shorthand>Match-Selling Girl 5★</unit_shorthand>
+<unit_shorthand>Little Match Girl 5★</unit_shorthand>
 <unit_full_title>マッチ売りの少女</unit_full_title>
-<origin>Match-Selling Girl Invades!</origin>
+<origin>Little Match Girl Invades!</origin>
 <cost>63</cost>
-<search_name>Match-Selling Girl 5</search_name>
+<search_name>Little Match Girl 5</search_name>
 </units>
 <units>
 <unit>match-selling_girl-6</unit>
-<unit_shorthand>Match-Selling Girl 6★</unit_shorthand>
+<unit_shorthand>Little Match Girl 6★</unit_shorthand>
 <unit_full_title>擦意の爆燐 マッチ売りの少女</unit_full_title>
-<origin>Match-Selling Girl Invades!</origin>
+<origin>Little Match Girl Invades!</origin>
 <cost>63</cost>
-<search_name>Match-Selling Girl 6</search_name>
+<search_name>Little Match Girl 6</search_name>
 </units>
 <units>
 <unit>utnapishtim-5</unit>
@@ -1607,6 +2167,22 @@
 <origin>Mephisto Invades Again!</origin>
 <cost>63</cost>
 <search_name>Continuation Mephisto 6</search_name>
+</units>
+<units>
+<unit>paf_euler-5</unit>
+<unit_shorthand>PAF Euler 5★</unit_shorthand>
+<unit_full_title>思煌式 オイラー-PAF</unit_full_title>
+<origin>Virtual Euler Invades!</origin>
+<cost>63</cost>
+<search_name>PAF Euler 5</search_name>
+</units>
+<units>
+<unit>paf_euler-6</unit>
+<unit_shorthand>PAF Euler 6★</unit_shorthand>
+<unit_full_title>志煌の主脳 オイラー-PAF</unit_full_title>
+<origin>Virtual Euler Invades!</origin>
+<cost>63</cost>
+<search_name>PAF Euler 6</search_name>
 </units>
 <units>
 <unit>dm_hou_yi_chang_e-5</unit>
@@ -2595,16 +3171,16 @@
 <units>
 <unit>lolita_happy-5</unit>
 <unit_shorthand>Lolita Happy 5★</unit_shorthand>
-<unit_full_title>ロリータ・ハッピー</unit_full_title>
-<origin>Tiny ❤︎ Lolita Happy</origin>
+<unit_full_title>Lolita Happy</unit_full_title>
+<origin>So Angwy ❤︎ Lolita Happy</origin>
 <cost>63</cost>
 <search_name>Lolita Happy 5</search_name>
 </units>
 <units>
 <unit>lolita_happy-6</unit>
 <unit_shorthand>Lolita Happy 6★</unit_shorthand>
-<unit_full_title>甘愛の暴幼心 ロリータ・ハッピー</unit_full_title>
-<origin>Tiny ❤︎ Lolita Happy</origin>
+<unit_full_title>Tender Temper Lolita Happy</unit_full_title>
+<origin>So Angwy ❤︎ Lolita Happy</origin>
 <cost>63</cost>
 <search_name>Lolita Happy 6</search_name>
 </units>
@@ -2627,18 +3203,114 @@
 <units>
 <unit>xmas_yao_bikuni-5</unit>
 <unit_shorthand>Christmas Yao Bikuni 5★</unit_shorthand>
-<unit_full_title>幼脅の母征 八百比丘尼</unit_full_title>
-<origin>Master of Smiles</origin>
+<unit_full_title>Motherly Pressure Yao Bikuni</unit_full_title>
+<origin>Smiling Ruler</origin>
 <cost>63</cost>
 <search_name>Christmas Yao Bikuni 5</search_name>
 </units>
 <units>
 <unit>xmas_yao_bikuni-6</unit>
 <unit_shorthand>Christmas Yao Bikuni 6★</unit_shorthand>
-<unit_full_title>棒激の幼聖母 八百比丘尼</unit_full_title>
-<origin>Master of Smiles</origin>
+<unit_full_title>Hitting Holiness Yao Bikuni</unit_full_title>
+<origin>Smiling Ruler</origin>
 <cost>63</cost>
 <search_name>Christmas Yao Bikuni 6</search_name>
+</units>
+<units>
+<unit>rally_verne-5</unit>
+<unit_shorthand>Pep Rally Verne 5★</unit_shorthand>
+<unit_full_title>苛弾の忙副官 ヴェルヌ</unit_full_title>
+<origin>Year&apos;s End Brilliance!!! -Swift Writing-</origin>
+<cost>63</cost>
+<search_name>Pep Rally Verne 5</search_name>
+</units>
+<units>
+<unit>rally_verne-6</unit>
+<unit_shorthand>Pep Rally Verne 6★</unit_shorthand>
+<unit_full_title>苛爆の忙働副官 ヴェルヌ</unit_full_title>
+<origin>Year&apos;s End Brilliance!!! -Swift Writing-</origin>
+<cost>63</cost>
+<search_name>Pep Rally Verne 6</search_name>
+</units>
+<units>
+<unit>fawkes-5</unit>
+<unit_shorthand>Fawkes 5★</unit_shorthand>
+<unit_full_title>フォークス</unit_full_title>
+<origin>Ruler&apos;s Obsession</origin>
+<cost>63</cost>
+<search_name>Fawkes 5</search_name>
+</units>
+<units>
+<unit>fawkes-6</unit>
+<unit_shorthand>Fawkes 6★</unit_shorthand>
+<unit_full_title>正世の密約者 フォークス</unit_full_title>
+<origin>Ruler&apos;s Obsession</origin>
+<cost>63</cost>
+<search_name>Fawkes 6</search_name>
+</units>
+<units>
+<unit>ny_tsukuyomi-5</unit>
+<unit_shorthand>New Years Tsukuyomi 5★</unit_shorthand>
+<unit_full_title>新来の響鳴月 ツクヨミ</unit_full_title>
+<origin>Happy Party!!! -Moonlight&apos;s Cry-</origin>
+<cost>63</cost>
+<search_name>New Years Tsukuyomi 5</search_name>
+</units>
+<units>
+<unit>ny_tsukuyomi-6</unit>
+<unit_shorthand>New Years Tsukuyomi 6★</unit_shorthand>
+<unit_full_title>新転の鹿鳴月光 ツクヨミ</unit_full_title>
+<origin>Happy Party!!! -Moonlight&apos;s Cry-</origin>
+<cost>63</cost>
+<search_name>New Years Tsukuyomi 6</search_name>
+</units>
+<units>
+<unit>jiu_cook3110-5</unit>
+<unit_shorthand>Jiu Cook3110 5★</unit_shorthand>
+<unit_full_title>ジウ・クック3110</unit_full_title>
+<origin>Jiu Cook3110 Invades!</origin>
+<cost>63</cost>
+<search_name>Jiu Cook3110 5</search_name>
+</units>
+<units>
+<unit>jiu_cook3110-6</unit>
+<unit_shorthand>Jiu Cook3110 6★</unit_shorthand>
+<unit_full_title>甘危の菓職師 ジウ・クック3110</unit_full_title>
+<origin>Jiu Cook3110 Invades!</origin>
+<cost>63</cost>
+<search_name>Jiu Cook3110 6</search_name>
+</units>
+<units>
+<unit>teru_teru_bozu-5</unit>
+<unit_shorthand>Teru Teru Bozu 5★</unit_shorthand>
+<unit_full_title>テルテルボウズ</unit_full_title>
+<origin>Teru Teru Bozu Invades!</origin>
+<cost>63</cost>
+<search_name>Teru Teru Bozu 5</search_name>
+</units>
+<units>
+<unit>teru_teru_bozu-6</unit>
+<unit_shorthand>Teru Teru Bozu 6★</unit_shorthand>
+<unit_full_title>逆天の予報兄弟 テルテルボウズ</unit_full_title>
+<origin>Teru Teru Bozu Invades!</origin>
+<cost>63</cost>
+<search_name>Teru Teru Bozu 6</search_name>
+</units>
+<units>
+<unit>jugemu-5</unit>
+<unit_shorthand>Jugemu 5★</unit_shorthand>
+<unit_full_title>寿限無</unit_full_title>
+<origin>Jugemu Invades!</origin>
+<cost>63</cost>
+<search_name>Jugemu 5</search_name>
+</units>
+<units>
+<unit>jugemu-6</unit>
+<unit_shorthand>Jugemu 6★</unit_shorthand>
+<unit_full_title>幸名な楽互 寿限無</unit_full_title>
+<origin>Jugemu Invades!</origin>
+<cost>63</cost>
+<search_name>Jugemu 6</search_name>
 </units>
 <units>
 <unit>hw_malthus-6</unit>
@@ -4795,16 +5467,16 @@
 <units>
 <unit>boy_happy-5</unit>
 <unit_shorthand>Boy Happy 5★</unit_shorthand>
-<unit_full_title>ボーイ・ハッピー</unit_full_title>
-<origin>Exciting ★ Boy Happy</origin>
+<unit_full_title>Boy Happy</unit_full_title>
+<origin>Fun Thrill ★ Boy Happy</origin>
 <cost>58</cost>
 <search_name>Boy Happy 5</search_name>
 </units>
 <units>
 <unit>boy_happy-6</unit>
 <unit_shorthand>Boy Happy 6★</unit_shorthand>
-<unit_full_title>想届の勇電心 ボーイ・ハッピー</unit_full_title>
-<origin>Exciting ★ Boy Happy</origin>
+<unit_full_title>Bravery Delivery Boy Happy</unit_full_title>
+<origin>Fun Thrill ★ Boy Happy</origin>
 <cost>58</cost>
 <search_name>Boy Happy 6</search_name>
 </units>
@@ -4826,19 +5498,67 @@
 </units>
 <units>
 <unit>xmas_match-selling_girl-5</unit>
-<unit_shorthand>Christmas Match-Selling Girl 5★</unit_shorthand>
-<unit_full_title>喜待の菓燃 マッチ売りの少女</unit_full_title>
-<origin>Bomb-Delivering Santa Claus</origin>
+<unit_shorthand>Christmas Little Match Girl 5★</unit_shorthand>
+<unit_full_title>Excited Heat Little Match Girl</unit_full_title>
+<origin>Bombs from Santa Claus</origin>
 <cost>58</cost>
-<search_name>Christmas Match-Selling Girl 5</search_name>
+<search_name>Christmas Little Match Girl 5</search_name>
 </units>
 <units>
 <unit>xmas_match-selling_girl-6</unit>
-<unit_shorthand>Christmas Match-Selling Girl 6★</unit_shorthand>
-<unit_full_title>爆飾の菓装台 マッチ売りの少女</unit_full_title>
-<origin>Bomb-Delivering Santa Claus</origin>
+<unit_shorthand>Christmas Little Match Girl 6★</unit_shorthand>
+<unit_full_title>Explosive Fun Little Match Girl</unit_full_title>
+<origin>Bombs from Santa Claus</origin>
 <cost>58</cost>
-<search_name>Christmas Match-Selling Girl 6</search_name>
+<search_name>Christmas Little Match Girl 6</search_name>
+</units>
+<units>
+<unit>rally_wyatt_earp-5</unit>
+<unit_shorthand>Pep Rally Wyatt Earp 5★</unit_shorthand>
+<unit_full_title>限働の脱魂弾 ワイアット・アープ</unit_full_title>
+<origin>Year&apos;s End Brilliance!! -Psychological Shooting-</origin>
+<cost>58</cost>
+<search_name>Pep Rally Wyatt Earp 5</search_name>
+</units>
+<units>
+<unit>rally_wyatt_earp-6</unit>
+<unit_shorthand>Pep Rally Wyatt Earp 6★</unit_shorthand>
+<unit_full_title>栄憩の戻入魂弾 ワイアット・アープ</unit_full_title>
+<origin>Year&apos;s End Brilliance!! -Psychological Shooting-</origin>
+<cost>58</cost>
+<search_name>Pep Rally Wyatt Earp 6</search_name>
+</units>
+<units>
+<unit>mikazuki-5</unit>
+<unit_shorthand>Mikazuki 5★</unit_shorthand>
+<unit_full_title>ミカヅキ</unit_full_title>
+<origin>Snowstorm of the Moon</origin>
+<cost>58</cost>
+<search_name>Mikazuki 5</search_name>
+</units>
+<units>
+<unit>mikazuki-6</unit>
+<unit_shorthand>Mikazuki 6★</unit_shorthand>
+<unit_full_title>徹讐の闇役士 ミカヅキ</unit_full_title>
+<origin>Snowstorm of the Moon</origin>
+<cost>58</cost>
+<search_name>Mikazuki 6</search_name>
+</units>
+<units>
+<unit>ny_saint_germain-5</unit>
+<unit_shorthand>New Years Saint Germain 5★</unit_shorthand>
+<unit_full_title>幸配の懐暖者 サンジェルマン</unit_full_title>
+<origin>Happy Party!! -New Year&apos;s Prosperity-</origin>
+<cost>58</cost>
+<search_name>New Years Saint Germain 5</search_name>
+</units>
+<units>
+<unit>ny_saint_germain-6</unit>
+<unit_shorthand>New Years Saint Germain 6★</unit_shorthand>
+<unit_full_title>福配の羽振良者 サンジェルマン</unit_full_title>
+<origin>Happy Party!! -New Year&apos;s Prosperity-</origin>
+<cost>58</cost>
+<search_name>New Years Saint Germain 6</search_name>
 </units>
 <units>
 <unit>fude_zhengshen_2020-5</unit>
@@ -7995,16 +8715,16 @@
 <units>
 <unit>lady_happy-5</unit>
 <unit_shorthand>Lady Happy 5★</unit_shorthand>
-<unit_full_title>レディ・ハッピー</unit_full_title>
-<origin>Caressing ♡ Lady Happy</origin>
+<unit_full_title>Lady Happy</unit_full_title>
+<origin>Pamper Pat ♡ Lady Happy</origin>
 <cost>53</cost>
 <search_name>Lady Happy 5</search_name>
 </units>
 <units>
 <unit>lady_happy-6</unit>
 <unit_shorthand>Lady Happy 6★</unit_shorthand>
-<unit_full_title>柔包の優姉心 レディ・ハッピー</unit_full_title>
-<origin>Caressing ♡ Lady Happy</origin>
+<unit_full_title>Mature Cuddle Lady Happy</unit_full_title>
+<origin>Pamper Pat ♡ Lady Happy</origin>
 <cost>53</cost>
 <search_name>Lady Happy 6</search_name>
 </units>
@@ -8027,18 +8747,66 @@
 <units>
 <unit>xmas_gareth-5</unit>
 <unit_shorthand>Christmas Gareth 5★</unit_shorthand>
-<unit_full_title>聖域・擁意 ガレス</unit_full_title>
-<origin>Evil Reindeer</origin>
+<unit_full_title>Holy Preparation Gareth</unit_full_title>
+<origin>Wicked Reindeer</origin>
 <cost>53</cost>
 <search_name>Christmas Gareth 5</search_name>
 </units>
 <units>
 <unit>xmas_gareth-6</unit>
 <unit_shorthand>Christmas Gareth 6★</unit_shorthand>
-<unit_full_title>聖演・想親呈 ガレス</unit_full_title>
-<origin>Evil Reindeer</origin>
+<unit_full_title>Holy Present Gareth</unit_full_title>
+<origin>Wicked Reindeer</origin>
 <cost>53</cost>
 <search_name>Christmas Gareth 6</search_name>
+</units>
+<units>
+<unit>rally_amaterasu-5</unit>
+<unit_shorthand>Pep Rally Amaterasu 5★</unit_shorthand>
+<unit_full_title>半纏夜燭神 アマテラス</unit_full_title>
+<origin>Year&apos;s End Brilliance! -Secret Shiatsu Ritual-</origin>
+<cost>53</cost>
+<search_name>Pep Rally Amaterasu 5</search_name>
+</units>
+<units>
+<unit>rally_amaterasu-6</unit>
+<unit_shorthand>Pep Rally Amaterasu 6★</unit_shorthand>
+<unit_full_title>半纏夜灯働神 アマテラス</unit_full_title>
+<origin>Year&apos;s End Brilliance! -Secret Shiatsu Ritual-</origin>
+<cost>53</cost>
+<search_name>Pep Rally Amaterasu 6</search_name>
+</units>
+<units>
+<unit>mahone-5</unit>
+<unit_shorthand>Mahone 5★</unit_shorthand>
+<unit_full_title>マホーン</unit_full_title>
+<origin>Tunnel to Outside</origin>
+<cost>53</cost>
+<search_name>Mahone 5</search_name>
+</units>
+<units>
+<unit>mahone-6</unit>
+<unit_shorthand>Mahone 6★</unit_shorthand>
+<unit_full_title>密掘の秘隧道 マホーン</unit_full_title>
+<origin>Tunnel to Outside</origin>
+<cost>53</cost>
+<search_name>Mahone 6</search_name>
+</units>
+<units>
+<unit>ny_nobunaga_oda-5</unit>
+<unit_shorthand>New Years Nobunaga Oda 5★</unit_shorthand>
+<unit_full_title>的狙う勢栄者 織田信長</unit_full_title>
+<origin>Happy Party! -Good Luck Shooting-</origin>
+<cost>53</cost>
+<search_name>New Years Nobunaga Oda 5</search_name>
+</units>
+<units>
+<unit>ny_nobunaga_oda-6</unit>
+<unit_shorthand>New Years Nobunaga Oda 6★</unit_shorthand>
+<unit_full_title>慶射抜く盛福者 織田信長</unit_full_title>
+<origin>Happy Party! -Good Luck Shooting-</origin>
+<cost>53</cost>
+<search_name>New Years Nobunaga Oda 6</search_name>
 </units>
 <units>
 <unit>zhong_kui-5</unit>
@@ -14487,5 +15255,29 @@
 <origin>JP Halloween 2021 Exchange</origin>
 <cost>99</cost>
 <search_name>Halloween Trick Program</search_name>
+</units>
+<units>
+<unit>diavolo</unit>
+<unit_shorthand>Diavolo</unit_shorthand>
+<unit_full_title>Falsehood Destroyer Diavolo</unit_full_title>
+<origin>Puritanical Masquerade</origin>
+<cost>63</cost>
+<search_name>Diavolo</search_name>
+</units>
+<units>
+<unit>lucifero</unit>
+<unit_shorthand>Lucifero</unit_shorthand>
+<unit_full_title>Morningstar Collapse Lucifero</unit_full_title>
+<origin>Sons of the Gods</origin>
+<cost>63</cost>
+<search_name>Lucifero</search_name>
+</units>
+<units>
+<unit>samael</unit>
+<unit_shorthand>Samael</unit_shorthand>
+<unit_full_title>Fallen Angel Samael</unit_full_title>
+<origin>Bloody Tears</origin>
+<cost>63</cost>
+<search_name>Samael</search_name>
 </units>
 </dataroot>
