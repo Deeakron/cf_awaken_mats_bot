@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2022-01-19T16:01:02">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2022-01-19T16:07:03">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -1806,7 +1806,7 @@
 <unit_full_title>Spartan Trial Colonel Bunny</unit_full_title>
 <origin>Loving Nailed Bat Exchange</origin>
 <cost>68</cost>
-<search_name>Spartan Trial Colonel Bunny</search_name>
+<search_name>Bunny Dean 5</search_name>
 </units>
 <units>
 <unit>bunny_dean-6</unit>
@@ -1814,7 +1814,7 @@
 <unit_full_title>Spartan General Bunny Dean</unit_full_title>
 <origin>Loving Nailed Bat Exchange</origin>
 <cost>68</cost>
-<search_name>Spartan General Bunny Dean</search_name>
+<search_name>Bunny Dean 6</search_name>
 </units>
 <units>
 <unit>wyatt_earp-5</unit>
