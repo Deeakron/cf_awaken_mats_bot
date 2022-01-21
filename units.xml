@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2022-01-19T16:07:03">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2022-01-21T17:32:24">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -3345,6 +3345,22 @@
 <search_name>Jugemu 6</search_name>
 </units>
 <units>
+<unit>man_young-5</unit>
+<unit_shorthand>Man Festival Young 5★</unit_shorthand>
+<unit_full_title>睨火の診者 ヤング</unit_full_title>
+<origin>Struggle - Healing!!</origin>
+<cost>63</cost>
+<search_name>Man Festival Young 5</search_name>
+</units>
+<units>
+<unit>man_young-6</unit>
+<unit_shorthand>Man Festival Young 6★</unit_shorthand>
+<unit_full_title>睨熱の親診者 ヤング</unit_full_title>
+<origin>Struggle - Healing!!</origin>
+<cost>63</cost>
+<search_name>Man Festival Young 6</search_name>
+</units>
+<units>
 <unit>hw_malthus-6</unit>
 <unit_shorthand>Halloween Malthus 6★</unit_shorthand>
 <unit_full_title>Ambitious Lycanthrope Malthus</unit_full_title>
@@ -5591,6 +5607,22 @@
 <origin>Happy Party!! -New Year&apos;s Prosperity-</origin>
 <cost>58</cost>
 <search_name>New Years Saint Germain 6</search_name>
+</units>
+<units>
+<unit>man_takamori_saigo-5</unit>
+<unit_shorthand>Man Festival Takamori Saigo 5★</unit_shorthand>
+<unit_full_title>雄鼓の沈漢 西郷隆盛</unit_full_title>
+<origin>Struggle - Festival!!</origin>
+<cost>58</cost>
+<search_name>Man Festival Takamori Saigo 5</search_name>
+</units>
+<units>
+<unit>man_takamori_saigo-6</unit>
+<unit_shorthand>Man Festival Takamori Saigo 6★</unit_shorthand>
+<unit_full_title>豪鼓の静漢骨 西郷隆盛</unit_full_title>
+<origin>Struggle - Festival!!</origin>
+<cost>58</cost>
+<search_name>Man Festival Takamori Saigo 6</search_name>
 </units>
 <units>
 <unit>fude_zhengshen_2020-5</unit>
@@ -8841,6 +8873,22 @@
 <search_name>New Years Nobunaga Oda 6</search_name>
 </units>
 <units>
+<unit>man_set-5</unit>
+<unit_shorthand>Man Festival Set 5★</unit_shorthand>
+<unit_full_title>激華なる乱神 セト</unit_full_title>
+<origin>Encouragement - Blocking!!</origin>
+<cost>53</cost>
+<search_name>Man Festival Set 5</search_name>
+</units>
+<units>
+<unit>man_set-6</unit>
+<unit_shorthand>Man Festival Set 6★</unit_shorthand>
+<unit_full_title>荒華なる乱発神 セト</unit_full_title>
+<origin>Encouragement - Blocking!!</origin>
+<cost>53</cost>
+<search_name>Man Festival Set 6</search_name>
+</units>
+<units>
 <unit>zhong_kui-5</unit>
 <unit_shorthand>Zhong Kui 5★</unit_shorthand>
 <unit_full_title>Zhong Kui</unit_full_title>
@@ -8923,7 +8971,7 @@
 <units>
 <unit>tofu-5</unit>
 <unit_shorthand>Tofu 5★</unit_shorthand>
-<unit_full_title>飄香臭豆腐</unit_full_title>
+<unit_full_title>Savoury Stinky Tofu</unit_full_title>
 <origin>Happy Stomach Night Market</origin>
 <cost>53</cost>
 <search_name>Tofu 5</search_name>
@@ -8931,7 +8979,7 @@
 <units>
 <unit>tofu-6</unit>
 <unit_shorthand>Tofu 6★</unit_shorthand>
-<unit_full_title>夜市濃郁飄香 小秀</unit_full_title>
+<unit_full_title>Wonderful Night Market Tofu</unit_full_title>
 <origin>Happy Stomach Night Market</origin>
 <cost>53</cost>
 <search_name>Tofu 6</search_name>
