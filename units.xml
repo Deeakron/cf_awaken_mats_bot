@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2022-01-21T17:32:24">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2022-01-25T15:48:12">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -135,6 +135,22 @@
 <origin>Ranking Point Exchange</origin>
 <cost>68</cost>
 <search_name>Ame no Habakiri UA</search_name>
+</units>
+<units>
+<unit>trishula-6</unit>
+<unit_shorthand>Trishula 6★</unit_shorthand>
+<unit_full_title>トリシューラ</unit_full_title>
+<origin>Ranking Point Exchange</origin>
+<cost>68</cost>
+<search_name>Trishula 6</search_name>
+</units>
+<units>
+<unit>trishula-ua</unit>
+<unit_shorthand>Trishula UA</unit_shorthand>
+<unit_full_title>心激の戦槍 トリシューラ</unit_full_title>
+<origin>Ranking Point Exchange</origin>
+<cost>68</cost>
+<search_name>Trishula UA</search_name>
 </units>
 <units>
 <unit>bonanza-ua-accel</unit>
@@ -1483,7 +1499,7 @@
 <units>
 <unit>jupiter-ua-slave_core</unit>
 <unit_shorthand>Jupiter UA Slave Core</unit_shorthand>
-<unit_full_title>緑のスレイヴコア</unit_full_title>
+<unit_full_title>Green Slavecore</unit_full_title>
 <origin>True Creeping Threat</origin>
 <cost>68</cost>
 <search_name>Jupiter UA Slave Core</search_name>
@@ -1491,7 +1507,7 @@
 <units>
 <unit>jupiter-ua</unit>
 <unit_shorthand>Jupiter UA</unit_shorthand>
-<unit_full_title>陛下護る黙征 ジュピター</unit_full_title>
+<unit_full_title>Covert Protection Jupiter</unit_full_title>
 <origin>True Creeping Threat</origin>
 <cost>68</cost>
 <search_name>Jupiter UA</search_name>
@@ -14771,7 +14787,7 @@
 <units>
 <unit>shell_recompiler</unit>
 <unit_shorthand>Shell Recompiler</unit_shorthand>
-<unit_full_title>シェル・リコンパイラ</unit_full_title>
+<unit_full_title>Shell Recompiler</unit_full_title>
 <origin>Revamped JP Raid Exchange</origin>
 <cost>99</cost>
 <search_name>Shell Recompiler</search_name>
