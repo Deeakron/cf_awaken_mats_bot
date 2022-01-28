@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2022-01-25T15:48:12">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2022-01-28T15:49:31">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -3727,6 +3727,38 @@
 <origin>Behind the Cat</origin>
 <cost>63</cost>
 <search_name>Kasa Jizo 6</search_name>
+</units>
+<units>
+<unit>myu-g</unit>
+<unit_shorthand>Green Myu</unit_shorthand>
+<unit_full_title>錬成師の愛娘 ミュウ [Green]</unit_full_title>
+<origin>Once Per Day ★ Get Challenge!</origin>
+<cost>63</cost>
+<search_name>Green Myu</search_name>
+</units>
+<units>
+<unit>myu-r</unit>
+<unit_shorthand>Red Myu</unit_shorthand>
+<unit_full_title>錬成師の愛娘 ミュウ [Red]</unit_full_title>
+<origin>Once Per Day ★ Get Challenge!</origin>
+<cost>63</cost>
+<search_name>Red Myu</search_name>
+</units>
+<units>
+<unit>myu-b</unit>
+<unit_shorthand>Blue Myu</unit_shorthand>
+<unit_full_title>錬成師の愛娘 ミュウ [Blue]</unit_full_title>
+<origin>Once Per Day ★ Get Challenge!</origin>
+<cost>63</cost>
+<search_name>Blue Myu</search_name>
+</units>
+<units>
+<unit>myu-y</unit>
+<unit_shorthand>Yellow Myu</unit_shorthand>
+<unit_full_title>錬成師の愛娘 ミュウ [Yellow]</unit_full_title>
+<origin>Once Per Day ★ Get Challenge!</origin>
+<cost>63</cost>
+<search_name>Yellow Myu</search_name>
 </units>
 <units>
 <unit>moriarty-5</unit>
