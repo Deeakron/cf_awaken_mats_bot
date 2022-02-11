@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2022-02-09T15:58:56">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2022-02-11T15:37:19">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -3377,6 +3377,38 @@
 <search_name>Man Festival Young 6</search_name>
 </units>
 <units>
+<unit>valentines_descartes-5</unit>
+<unit_shorthand>Valentines Descartes 5★</unit_shorthand>
+<unit_full_title>然身の楽演 デカルト</unit_full_title>
+<origin>Idols Having Fun With Everyone</origin>
+<cost>63</cost>
+<search_name>Valentines Descartes 5</search_name>
+</units>
+<units>
+<unit>valentines_descartes-6</unit>
+<unit_shorthand>Valentines Descartes 6★</unit_shorthand>
+<unit_full_title>然体の楽観演 デカルト</unit_full_title>
+<origin>Idols Having Fun With Everyone</origin>
+<cost>63</cost>
+<search_name>Valentines Descartes 6</search_name>
+</units>
+<units>
+<unit>valentines_jung-5</unit>
+<unit_shorthand>Valentines Jung 5★</unit_shorthand>
+<unit_full_title>対志の競翼 ユング</unit_full_title>
+<origin>Aiming to be Top Idol</origin>
+<cost>63</cost>
+<search_name>Valentines Jung 5</search_name>
+</units>
+<units>
+<unit>valentines_jung-6</unit>
+<unit_shorthand>Valentines Jung 6★</unit_shorthand>
+<unit_full_title>適志融和の協翼 ユング</unit_full_title>
+<origin>Aiming to be Top Idol</origin>
+<cost>63</cost>
+<search_name>Valentines Jung 6</search_name>
+</units>
+<units>
 <unit>hw_malthus-6</unit>
 <unit_shorthand>Halloween Malthus 6★</unit_shorthand>
 <unit_full_title>Ambitious Lycanthrope Malthus</unit_full_title>
@@ -5687,6 +5719,38 @@
 <origin>Struggle - Festival!!</origin>
 <cost>58</cost>
 <search_name>Man Festival Takamori Saigo 6</search_name>
+</units>
+<units>
+<unit>valentines_chelsea-5</unit>
+<unit_shorthand>Valentines Chelsea 5★</unit_shorthand>
+<unit_full_title>決組の改音 チェルシー</unit_full_title>
+<origin>Hot Cheering Soul Reception!</origin>
+<cost>58</cost>
+<search_name>Valentines Chelsea 5</search_name>
+</units>
+<units>
+<unit>valentines_chelsea-6</unit>
+<unit_shorthand>Valentines Chelsea 6★</unit_shorthand>
+<unit_full_title>結組の改協音 チェルシー</unit_full_title>
+<origin>Hot Cheering Soul Reception!</origin>
+<cost>58</cost>
+<search_name>Valentines Chelsea 6</search_name>
+</units>
+<units>
+<unit>valentines_schwarzschild-5</unit>
+<unit_shorthand>Valentines Schwarzschild 5★</unit_shorthand>
+<unit_full_title>潔意の麗唱 シュヴァルツシルト</unit_full_title>
+<origin>I&apos;ll Fascinate You With My Dance</origin>
+<cost>58</cost>
+<search_name>Valentines Schwarzschild 5</search_name>
+</units>
+<units>
+<unit>valentines_schwarzschild-6</unit>
+<unit_shorthand>Valentines Schwarzschild 6★</unit_shorthand>
+<unit_full_title>潔実の壮麗唱 シュヴァルツシルト</unit_full_title>
+<origin>I&apos;ll Fascinate You With My Dance</origin>
+<cost>58</cost>
+<search_name>Valentines Schwarzschild 6</search_name>
 </units>
 <units>
 <unit>fude_zhengshen_2020-5</unit>
