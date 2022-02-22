@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2022-02-16T15:46:21">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2022-02-22T15:45:31">
 <awakenings>
 <unit_base>onimaru_kunitsuna-6</unit_base>
 <unit_awake>onimaru_kunitsuna-ua</unit_awake>
@@ -3403,6 +3403,20 @@
 <mat_5_num>16</mat_5_num>
 </awakenings>
 <awakenings>
+<unit_base>cat_dedekind-5</unit_base>
+<unit_awake>cat_dedekind-6</unit_awake>
+<mat_1>little_humpty</mat_1>
+<mat_1_num>16</mat_1_num>
+<mat_2>dynamo_dormouse</mat_2>
+<mat_2_num>16</mat_2_num>
+<mat_3>yellow_hatter</mat_3>
+<mat_3_num>16</mat_3_num>
+<mat_4>yellow_caterpillar</mat_4>
+<mat_4_num>16</mat_4_num>
+<mat_5>yellow_rabbit</mat_5>
+<mat_5_num>16</mat_5_num>
+</awakenings>
+<awakenings>
 <unit_base>hw_malthus-6</unit_base>
 <unit_awake>hw_malthus-ua</unit_awake>
 <mat_1>green_rabbit</mat_1>
@@ -5990,6 +6004,20 @@
 <mat_4>red_caterpillar</mat_4>
 <mat_4_num>8</mat_4_num>
 <mat_5>red_rabbit</mat_5>
+<mat_5_num>8</mat_5_num>
+</awakenings>
+<awakenings>
+<unit_base>cat_soseki_natsume-5</unit_base>
+<unit_awake>cat_soseki_natsume-6</unit_awake>
+<mat_1>little_humpty</mat_1>
+<mat_1_num>8</mat_1_num>
+<mat_2>thousand_gales_griffon</mat_2>
+<mat_2_num>8</mat_2_num>
+<mat_3>green_hatter</mat_3>
+<mat_3_num>8</mat_3_num>
+<mat_4>green_caterpillar</mat_4>
+<mat_4_num>8</mat_4_num>
+<mat_5>green_rabbit</mat_5>
 <mat_5_num>8</mat_5_num>
 </awakenings>
 <awakenings>
@@ -10083,6 +10111,20 @@
 <awakenings>
 <unit_base>man_set-5</unit_base>
 <unit_awake>man_set-6</unit_awake>
+<mat_1>little_humpty</mat_1>
+<mat_1_num>4</mat_1_num>
+<mat_2>flaming_dodo</mat_2>
+<mat_2_num>4</mat_2_num>
+<mat_3>red_hatter</mat_3>
+<mat_3_num>4</mat_3_num>
+<mat_4>red_caterpillar</mat_4>
+<mat_4_num>4</mat_4_num>
+<mat_5>red_rabbit</mat_5>
+<mat_5_num>4</mat_5_num>
+</awakenings>
+<awakenings>
+<unit_base>cat_kelvin-5</unit_base>
+<unit_awake>cat_kelvin-6</unit_awake>
 <mat_1>little_humpty</mat_1>
 <mat_1_num>4</mat_1_num>
 <mat_2>flaming_dodo</mat_2>

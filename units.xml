@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2022-02-16T15:46:31">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2022-02-22T15:45:43">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -3441,6 +3441,22 @@
 <search_name>Valentines Jung 6</search_name>
 </units>
 <units>
+<unit>cat_dedekind-5</unit>
+<unit_shorthand>Cat Day Dedekind 5★</unit_shorthand>
+<unit_full_title>甘酊の猫衣 デデキント</unit_full_title>
+<origin>NEKONEKO Weather ★ Catnip Fever</origin>
+<cost>63</cost>
+<search_name>Cat Day Dedekind 5</search_name>
+</units>
+<units>
+<unit>cat_dedekind-6</unit>
+<unit_shorthand>Cat Day Dedekind 6★</unit_shorthand>
+<unit_full_title>甘蕩の自裳猫 デデキント</unit_full_title>
+<origin>NEKONEKO Weather ★ Catnip Fever</origin>
+<cost>63</cost>
+<search_name>Cat Day Dedekind 6</search_name>
+</units>
+<units>
 <unit>hw_malthus-6</unit>
 <unit_shorthand>Halloween Malthus 6★</unit_shorthand>
 <unit_full_title>Ambitious Lycanthrope Malthus</unit_full_title>
@@ -5783,6 +5799,22 @@
 <origin>I&apos;ll Fascinate You With My Dance</origin>
 <cost>58</cost>
 <search_name>Valentines Schwarzschild 6</search_name>
+</units>
+<units>
+<unit>cat_soseki_natsume-5</unit>
+<unit_shorthand>Cat Day Soseki Natsume 5★</unit_shorthand>
+<unit_full_title>振魅の寵猫 夏目漱石</unit_full_title>
+<origin>NEKONEKO Weather ★ Wild Instinct</origin>
+<cost>58</cost>
+<search_name>Cat Day Soseki Natsume 5</search_name>
+</units>
+<units>
+<unit>cat_soseki_natsume-6</unit>
+<unit_shorthand>Cat Day Soseki Natsume 6★</unit_shorthand>
+<unit_full_title>野生魅増す満喫猫 夏目漱石</unit_full_title>
+<origin>NEKONEKO Weather ★ Wild Instinct</origin>
+<cost>58</cost>
+<search_name>Cat Day Soseki Natsume 6</search_name>
 </units>
 <units>
 <unit>fude_zhengshen_2020-5</unit>
@@ -9047,6 +9079,22 @@
 <origin>Encouragement - Blocking!!</origin>
 <cost>53</cost>
 <search_name>Man Festival Set 6</search_name>
+</units>
+<units>
+<unit>cat_kelvin-5</unit>
+<unit_shorthand>Cat Day Kelvin 5★</unit_shorthand>
+<unit_full_title>日温の猫眠 ケルビン</unit_full_title>
+<origin>NEKONEKO Weather ★ Basking in the Sun</origin>
+<cost>53</cost>
+<search_name>Cat Day Kelvin 5</search_name>
+</units>
+<units>
+<unit>cat_kelvin-6</unit>
+<unit_shorthand>Cat Day Kelvin 6★</unit_shorthand>
+<unit_full_title>柔暖の猫円眠 ケルビン</unit_full_title>
+<origin>NEKONEKO Weather ★ Basking in the Sun</origin>
+<cost>53</cost>
+<search_name>Cat Day Kelvin 6</search_name>
 </units>
 <units>
 <unit>zhong_kui-5</unit>
