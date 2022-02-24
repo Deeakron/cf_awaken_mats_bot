@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2022-02-22T15:45:43">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2022-02-24T15:43:55">
 <units>
 <unit>onimaru_kunitsuna-6</unit>
 <unit_shorthand>Onimaru Kunitsuna 6★</unit_shorthand>
@@ -122,24 +122,24 @@
 </units>
 <units>
 <unit>ame_no_habakiri-6</unit>
-<unit_shorthand>Ame no Habakiri 6★</unit_shorthand>
-<unit_full_title>アメノハバキリ</unit_full_title>
+<unit_shorthand>Ame-no-Habakiri 6★</unit_shorthand>
+<unit_full_title>Ame-no-Habakiri</unit_full_title>
 <origin>Ranking Point Exchange</origin>
 <cost>68</cost>
-<search_name>Ame no Habakiri 6</search_name>
+<search_name>Ame-no-Habakiri 6</search_name>
 </units>
 <units>
 <unit>ame_no_habakiri-ua</unit>
-<unit_shorthand>Ame no Habakiri UA</unit_shorthand>
-<unit_full_title>神握の志宝剣 アメノハバキリ</unit_full_title>
+<unit_shorthand>Ame-no-Habakiri UA</unit_shorthand>
+<unit_full_title>God&apos;s Grip Sword Ame-no-Habakiri</unit_full_title>
 <origin>Ranking Point Exchange</origin>
 <cost>68</cost>
-<search_name>Ame no Habakiri UA</search_name>
+<search_name>Ame-no-Habakiri UA</search_name>
 </units>
 <units>
 <unit>trishula-6</unit>
 <unit_shorthand>Trishula 6★</unit_shorthand>
-<unit_full_title>トリシューラ</unit_full_title>
+<unit_full_title>Trishula</unit_full_title>
 <origin>Ranking Point Exchange</origin>
 <cost>68</cost>
 <search_name>Trishula 6</search_name>
@@ -147,7 +147,7 @@
 <units>
 <unit>trishula-ua</unit>
 <unit_shorthand>Trishula UA</unit_shorthand>
-<unit_full_title>心激の戦槍 トリシューラ</unit_full_title>
+<unit_full_title>Excited Spear Trishula</unit_full_title>
 <origin>Ranking Point Exchange</origin>
 <cost>68</cost>
 <search_name>Trishula UA</search_name>
@@ -1531,7 +1531,7 @@
 <units>
 <unit>pluto-ua-slave_core</unit>
 <unit_shorthand>Pluto UA Slave Core</unit_shorthand>
-<unit_full_title>黄のスレイヴコア</unit_full_title>
+<unit_full_title>Yellow Slavecore</unit_full_title>
 <origin>True Attack from the Empty Sky!</origin>
 <cost>68</cost>
 <search_name>Pluto UA Slave Core</search_name>
@@ -1539,7 +1539,7 @@
 <units>
 <unit>pluto-ua</unit>
 <unit_shorthand>Pluto UA</unit_shorthand>
-<unit_full_title>願滅の冥往星 プルート</unit_full_title>
+<unit_full_title>Ruined Hopes Planet Pluto</unit_full_title>
 <origin>True Attack from the Empty Sky!</origin>
 <cost>68</cost>
 <search_name>Pluto UA</search_name>
